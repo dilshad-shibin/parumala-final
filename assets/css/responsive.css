@@ -1,0 +1,353 @@
+/* responsive css */
+@media(max-width: 1440px) and (min-width: 1200px){
+    .exc-icons{
+        padding-left: 220px;
+    }
+}
+
+@media(max-width: 1440px){
+    .emergency-btn{
+        margin: 0 20px;
+    }
+    .enquiry-top .menu{
+        height: 87px;
+    }
+    .appointment-btn a{
+        font-size: 14px;
+    }
+    .enquiry-top .menu a{
+        padding: 0 15px;
+    }
+    .banner-slider .owl-nav{
+        left: 15%;
+    }
+}
+
+
+@media(max-width:1199px){
+    .logo_sec a img{
+        max-width: 200px;
+    }
+    .header_outer{
+        height: 96px;
+    }
+    .heaeder_top_bar,
+    .desktop_menu{
+        display: none;
+    }
+    .logo_sec{
+        left: 15px;
+        -webkit-transform: translateX(0);
+        transform: translateX(0);
+    }
+    .mobile_menu{
+        display: flex;
+        -webkit-box-align: center;
+        -ms-flex-align: center;
+        align-items: center;
+    }
+    .emergency-btn{
+        display: none;
+    }
+    .enquiry-top .menu{
+        height: 96px;
+    }
+    .appointment-btn{
+        margin-right: 20px;
+    }
+    .banner-slider .owl-nav{
+        left: 15%;
+    }
+    .logo-top{
+        display: flex;
+        align-items: center;
+    }
+    .excellence-area{
+        flex-direction: column;
+    }
+    .excellence-left{
+        flex: 0 0 100%;
+        align-items: center;
+        padding: 50px 0;
+    }
+    .exc-icons{
+        padding: 0;
+        max-width: 500px;
+    }
+    .excellence-right{
+        flex: 0 0 100%;
+    }
+    .centres-listing{
+        display: flex;
+        flex-direction: column;
+    }
+    .hh-counter .counter-box{
+        align-items: center;
+    }
+    .hh-counter .counter-box p{
+        line-height: 1.2;
+    }
+}
+
+@media(max-width: 991px){
+    .logo-top{
+        display: flex;
+        align-items: center;
+    }
+    .header_outer {
+        height: auto;
+    }
+    .enquiry-top .menu{
+        height: 85px;
+    }
+    .blog-box{
+        margin-bottom: 30px;
+    }
+    .address-area{
+        border-left: none;
+    }
+}
+
+@media(max-width: 767px){
+    .appointment-btn{
+        display: none;
+    }
+    .banner-head h1{
+        font-size: 48px;
+    }
+    .banner-ct,
+    .banner-bg{
+        height: 500px;
+    }
+    .banner-slider .owl-nav{
+        left: 23%;
+        bottom: 70px;
+    }
+    .centres-listing .single-centre .centre-box{
+        min-height: 350px;
+    }
+    .hh-head h1{
+        font-size: 33px;
+    }
+    .hh-counter{
+        flex-wrap: wrap;
+    }
+    .hh-counter .counter-box{
+        flex: 0 0 50%;
+    }
+    .single-speciality{
+        flex-wrap: wrap;
+    }
+    .single-speciality .main-box{
+        flex: 0 0 50%;
+    }
+    .single-speciality .main-box:last-child{
+        flex: 0 0 100%;
+        flex-direction: row;
+    }
+    .single-speciality .main-box:last-child .speciality-box{
+        width: 50%;
+    }
+    .enquiry-top .menu{
+        height: 95px;
+    }
+}
+
+@media(max-width: 575px){
+    .logo_sec a img {
+        max-width: 130px;
+    }
+    .logo_sec {
+        padding: 20px 20px 25px;
+    }
+    .header_outer{
+        height: 85px;
+    }
+    .header_outer{
+        height: 75px;
+    }
+    .logo_sec{
+        padding: 15px 15px 20px;
+    }
+    .apply_now{
+        margin-right: 10px;
+        padding: 7px 29px;
+        font-size: 12px;
+    }
+    /* .view-btn{
+        width: 100%;
+        display: flex;
+        justify-content: center;
+        left: unset;
+        transform: unset;
+        bottom: -110px;
+    } */
+    .apply_now{
+        padding: 7px 22px;
+    }
+    .enquiry-top .menu{
+        height: 75px;
+    }
+    .enquiry-top{
+        flex: 0 0 25%;
+        background: transparent;
+    }
+    .logo-top{
+        flex: 0 0 75%;
+    }
+    .enquiry-top .menu a.tt-menu-toggle{
+        display: none !important;
+    }
+    .enquiry-top .menu{
+        padding: 0 15px;
+    }
+    .banner-head h1{
+        font-size: 40px;
+    }
+    .banner-head p{
+        font-size: 18px;
+    }
+    .banner-ct, .banner-bg {
+        height: 370px;
+    }
+    .banner-slider .owl-nav{
+        bottom: 20px;
+    }
+    .banner-slider .owl-nav button{
+        width: 40px;
+        height: 40px;
+    }
+    .banner-overlay{
+        position: absolute;
+        left: 0;
+        top: 0;
+        right: 0;
+        bottom: 0;
+        background: #28a74561;
+        opacity: 0.8;
+    }
+    .excellence-left{
+        padding: 50px 15px;
+    }
+    .exc-icons{
+        text-align: center;
+    }
+    .exc-icons .text h3 a{
+        font-size: 22px;
+    }
+    .excellence-right{
+        padding: 65px 20px;
+    }
+    .exc-content-area .header .head h3{
+        font-size: 22px;
+    }
+    .exc-content-area .header .head{
+        flex: 0 0 50%;
+    }
+    .hh-head p{
+        font-size: 18px;
+    }
+    .hh-head h1{
+        font-size: 24px;
+    }
+    .hh-counter .counter-box h2{
+        font-size: 40px;
+    }
+    .hh-counter .counter-box p{
+        font-size: 15px;
+    }
+    .hh-counter .counter-box.counter-last{
+        padding: 20px;
+    }
+    .counter-inner .icon a{
+        width: 40px;
+        height: 40px;
+        line-height: 35px;
+    }
+    .counter-inner .text h1{
+        font-size: 25px;
+    }
+    .counter-inner .text h4{
+        font-size: 10px;
+    }
+    .speciality-head .head h1{
+        font-size: 28px;
+    }
+    .speciality-head .head{
+        flex: 0 0 50%;
+    }
+    .single-speciality .main-box{
+        flex: 0 0 100%;
+        flex-direction: row;
+    }
+    .speciality-box{
+        width: 50%;
+    }
+    .speciality-box .name h3{
+        font-size: 12px;
+    }
+    .spc-bx-hover{
+        padding: 10px;
+    }
+    .spc-bx-hover p{
+        font-size: 12px;
+    }
+    .service-img img{
+        width: 350px;
+    }
+    .single-testi .testi-content .text p{
+        font-size: 17px;
+        line-height: 30px;
+    }
+    .single-testi .img-details{
+        margin-bottom: 25px;
+    }
+    .speciality-head.news-head .head h1{
+        font-size: 20px;
+    }
+    .footer-main-list{
+        flex-direction: column;
+    }
+    .footer-list-one{
+        flex: 0 0 100%;
+        margin-bottom: 25px;
+    }
+    .footer-list-two{
+        flex: 0 0 100%;
+    }
+    .footer-address, .footer-number, .footer-email{
+        padding: 15px 0;
+    }
+    .footer-number .numbers a{
+        font-size: 18px;
+    }
+    .number-head h2, .email-head h2{
+        font-size: 20px;
+    }
+    .appointment-box .text h3{
+        font-size: 18px;
+    }
+    .emergency-box .text{
+        margin-left: 0;
+    }
+    .emergency-box .icon{
+        padding-left: 25px;
+        justify-content: inherit;
+    }
+    .emergency-box .text .number a{
+        font-size: 22px;
+    }
+    .copy-right{
+        text-align: center;
+    }
+
+}
+
+@media(max-width:359px){
+    .apply_now{
+        display: none;
+    }
+    .tt-menu-toggle {
+        width: 30px;
+    }
+}
