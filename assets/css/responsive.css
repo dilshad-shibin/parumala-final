@@ -106,6 +106,44 @@
     .address-area{
         border-left: none;
     }
+    .about-banner,
+    .bread-text{
+        height: 350px;
+    }
+    .bread-text{
+        float: inherit;
+        margin-top: -25px;
+        right: -100px;
+        position: absolute;
+    }
+    .bread-text h1{
+        font-size: 70px;
+    }
+    .bread-text p{
+        font-size: 25px;
+    }
+    .order-1-991{
+        order: 1;
+    }
+    .order-2-991{
+        order: 2;
+    }
+    .about-img{
+        margin-top: -160px;
+        margin-bottom: 35px;
+    }
+    .about-img img{
+        max-width: 260px;
+    }
+    .about-count{
+        margin-bottom: 35px;
+    }
+    .mng-details{
+        margin-bottom: 25px;
+    }
+    .mision-bx{
+        margin-bottom: 25px;
+    }
 }
 
 @media(max-width: 767px){
@@ -339,6 +377,24 @@
     }
     .copy-right{
         text-align: center;
+    }
+    .about-banner, .bread-text{
+        height: 200px;
+    }
+    .about-img{
+        margin-top: -110px;
+    }
+    .bread-text h1 {
+        font-size: 40px;
+    }
+    .innerbanner-overlay{
+        position: absolute;
+        top: 0;
+        bottom: 0;
+        right: 0;
+        left: 0;
+        background: #41602394;
+        opacity: 0.9;
     }
 
 }

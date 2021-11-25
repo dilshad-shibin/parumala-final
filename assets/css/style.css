@@ -35,6 +35,10 @@ body {
     position: relative;
 }
 
+.section{
+    position: relative;
+}
+
 
 ul {
     margin: 0;
@@ -1763,4 +1767,217 @@ a {
 .about-img{
     position: relative;
     margin-top: -215px;
+}
+
+.location-area{
+    background: #f7f1eb;
+    padding: 70px 0 100px;
+}
+
+.about-count{
+    background: #fe5a01;
+    padding: 35px 40px;
+    max-width: 420px;
+    margin-top: -150px;
+}
+
+.about-count .count{
+    padding: 25px 0;
+    border-bottom: 2px solid #feae01;
+    margin: 20px 10px;
+}
+
+.about-count .count:last-child{
+    border-bottom: none;
+}
+
+.about-count .count h1{
+    color: #fff;
+    font-weight: 500;
+    font-size: 68px;
+    position: relative;
+}
+
+.about-count .count h1::before{
+    position: absolute;
+    content: "+";
+    color: #fff;
+    left: 28%;
+}
+
+.about-count .count h1.counting::before{
+    left: 43%;
+}
+
+.about-count .count p{
+    color: #fff;
+    font-weight: 400;
+    margin: 0;
+    text-transform: uppercase;
+    font-size: 22px;
+    letter-spacing: 1px;
+}
+
+.location-content h2{
+    position: relative;
+    color: #535353;
+    font-size: 38px;
+    font-weight: 700;
+    margin-bottom: 50px;
+}
+
+.location-content h2::before{
+    position: absolute;
+    content: "";
+    background: linear-gradient( 
+    90deg, rgba(254,90,1,1) 0%, rgba(254,90,1,1) 35%, rgba(254,90,1,1) 35%, rgba(254,90,1,0.6502976190476191) 100%);
+    height: 5px;
+    width: 12%;
+    left: 0;
+    bottom: -18px;
+    border-radius: 10px;
+}
+
+.location-content p{
+    font-family: 'DM Sans', sans-serif;
+    font-size: 17px;
+}
+
+.mng-section{
+    position: relative;
+    background: #004a9b;
+    padding: 80px 0 100px;
+}
+
+.mng-head h2{
+    color: #fff;
+    margin-bottom: 30px;
+    font-size: 35px;
+    font-weight: 600;
+}
+
+.mng-head p{
+    color: #fff;
+    margin-bottom: 75px;
+}
+
+.mng-details{
+    background: #fff;
+    position: relative;
+    overflow: hidden;
+    min-height: 560px;
+}
+
+.mng-details img{
+    width: 100%;
+}
+
+.mng-details .mng-text{
+    padding: 45px;
+}
+
+.mng-details .mng-text h1{
+    font-size: 23px;
+    text-transform: uppercase;
+    font-weight: 600;
+    color: #4d4d4d;
+    position: relative;
+}
+
+.mng-details .mng-text h1 span{
+    width: 70px;
+    background: #fe6c05;
+    height: 1px;
+    display: inline-block;
+    position: absolute;
+    top: 50%;
+    margin-left: 10px;
+}
+
+.mng-details .mng-text h1 span.third{
+    top: 70%;
+}
+
+.mng-details .mng-text h4{
+    font-size: 17px;
+    color: #4d4d4d;
+    /* font-weight: 700; */
+}
+
+.mng-details .mng-text p{
+    color: #fe6c05;
+    font-size: 15px;
+    margin: 0;
+    line-height: 18px;
+}
+
+.mision-area{
+    padding: 70px 0;
+}
+
+.mision-bx{
+    border: 1px solid #ddd;
+    border-radius: 20px;
+    padding: 50px;
+    min-height: 350px;
+}
+
+.mision-bx .logo{
+    display: flex;
+    align-items: flex-end;
+    margin-bottom: 35px;
+}
+
+.mision-bx .logo h2{
+    position: relative;
+    color: #535353;
+    font-size: 38px;
+    font-weight: 700;
+    padding-left: 10px;
+}
+
+.mision-bx .text p{
+    font-family: 'DM Sans', sans-serif;
+    font-size: 17px;   
+}
+
+.quality-area{
+    margin: 50px 0;
+}
+
+.quality-area h2{
+    position: relative;
+    color: #535353;
+    font-size: 38px;
+    font-weight: 700;
+    margin-bottom: 12px;
+}
+
+.quality-area p{
+    font-family: 'DM Sans', sans-serif;
+    font-size: 18px;
+    line-height: 22px;
+}
+
+.quality-points{
+    display: flex;
+    margin-top: 35px;
+}
+
+.quality-points ul li h3{
+    color: #fe5a01;
+    font-size: 25px;
+}
+
+.quality-points ul li{
+    margin-bottom: 30px;
+}
+
+.quality-points ul{
+    flex: 0 0 45%;
+}
+
+.quality-points ul:last-child{
+    padding-left: 40px;
+    flex: 0 0 50%;
 }
