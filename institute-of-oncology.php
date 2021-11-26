@@ -49,6 +49,20 @@
                     </div>
                 </div>
             </section>
+
+            <!-- Our Department Area -->
+            <section class="department-area section">
+                <div class="container">
+                    <div class="row">
+                        <div class="col-12 text-center">
+                            <div class="dpt-head">
+                                <h2>Our Departments</h2>
+                                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Molestias enim tenetur sit quas quaerat voluptatum voluptate explicabo perspiciatis culpa corrupti, et deserunt maxime dolor animi</p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </section>
             
 
             <!-- Footer -->
