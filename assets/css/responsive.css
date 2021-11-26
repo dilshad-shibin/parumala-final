@@ -376,13 +376,22 @@
         font-size: 22px;
     }
     .copy-right{
-        text-align: center;
+        /* text-align: center; */
     }
-    .about-banner, .bread-text{
+    .about-banner, .bread-text {
         height: 200px;
     }
     .about-img{
         margin-top: -110px;
+    }
+    .bread-text{
+        margin-top: 0;
+        right: inherit;
+        text-align: center;
+    }
+    .bread-text p {
+        font-size: 20px;
+        line-height: 25px;
     }
     .bread-text h1 {
         font-size: 40px;
@@ -395,6 +404,29 @@
         left: 0;
         background: #41602394;
         opacity: 0.9;
+    }
+    .about-img img {
+        max-width: 220px;
+    }
+    .about-count .count h1{
+        font-size: 60px;
+    }
+    .about-count{
+        padding: 10px 25px;
+        max-width: 350px;
+    }
+    .about-count .count{
+        padding: 20px 0;
+        margin: 20px 0px;
+    }
+    .about-count .count p{
+        font-size: 18px;
+    }
+    .quality-points{
+        flex-direction: column;
+    }
+    .quality-points ul:last-child{
+        padding-left: 0;
     }
 
 }
