@@ -234,39 +234,39 @@ setTimeout(function() {
 
 
 
- $('#datepicker').datepicker({
+//  $('#datepicker').datepicker({
 
-        weekStart: 1,
+//         weekStart: 1,
 
-        daysOfWeekHighlighted: "6,0",
+//         daysOfWeekHighlighted: "6,0",
 
-        autoclose: true,
+//         autoclose: true,
 
-        todayHighlight: true,
+//         todayHighlight: true,
 
-    });
+//     });
 
 
-    $('#datepicker2').datepicker({
+//     $('#datepicker2').datepicker({
 
-        weekStart: 1,
+//         weekStart: 1,
 
-        daysOfWeekHighlighted: "6,0",
+//         daysOfWeekHighlighted: "6,0",
 
-        autoclose: true,
+//         autoclose: true,
 
-        todayHighlight: true,
+//         todayHighlight: true,
 
-    });
+//     });
 
     
 
 
- $('.totop').tottTop({
+//  $('.totop').tottTop({
 
-            scrollTop: 100
+//             scrollTop: 100
 
-        });  
+//         });  
 
 
 

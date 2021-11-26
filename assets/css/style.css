@@ -1,7 +1,8 @@
-/*********************** 
+/****************************** 
 01. HOME PAGE CSS 
 02. ABOUT PAGE CSS 
-************************/
+03. CENTRE OF EXCELLENCE CSS
+********************************/
 
 
 /* Custom css */
@@ -1980,4 +1981,55 @@ a {
 .quality-points ul:last-child{
     padding-left: 40px;
     flex: 0 0 50%;
+}
+
+/****************************** 
+03. CENTRE OF EXCELLENCE CSS
+********************************/
+.center-excellence{
+    position: relative;
+    padding: 60px 0 100px;
+    background-color: #fefaf5;
+}
+
+.excellence-head{
+    margin-bottom: 80px;
+}
+
+.excellence-head h1{
+    color: #535353;
+    position: relative;
+    font-weight: 700;
+    font-size: 50px;
+}
+
+.excellence-head h1::before{
+    position: absolute;
+    content: "";
+    height: 5px;
+    border-radius: 10px;
+    width: 50px;
+    text-align: center;
+    bottom: -18px;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    background: linear-gradient( 
+    90deg, rgba(254,90,1,1) 0%, rgba(254,90,1,1) 35%, rgba(254,90,1,1) 35%, rgba(254,90,1,0.6502976190476191) 100%);
+}
+
+.centres-listing .single-centre .centre-box2{
+    min-height: 355px;
+    margin-bottom: 35px;
+}
+
+.centre-box2 .icon{
+    margin-bottom: 15px;
+}
+
+.centre-box2 .head h4{
+    margin-bottom: 18px;
+}
+
+.bread-text h1 span{
+    font-size: 60px;
 }

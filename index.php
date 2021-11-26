@@ -103,7 +103,7 @@
                     <div class="exc-content-area">
                         <div class="header">
                             <div class="head"><h3>Centres Of Excellence</h3></div>
-                            <div class="view-btn"><a href="">View All &nbsp;<img src="assets/img/arrow-right-orange.png" alt=""></a></div>
+                            <div class="view-btn"><a href="centres-of-excellence.php">View All &nbsp;<img src="assets/img/arrow-right-orange.png" alt=""></a></div>
                         </div>
                         <div class="centres-listing owl-carousel"><!--  owl-carousel -->
                             <div class="single-centre">
