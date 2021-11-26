@@ -20,7 +20,7 @@
                 <div class="container">
                     <div class="row">
                         <div class="col-12">
-                            <div class="bread-text">
+                            <div class="bread-text bread-text2">
                                 <h1><span>Centres Of</span> <br>Excellence</h1>
                                 <!-- <p>St. Gregorios Medical Mission Hospital</p> -->
                             </div>
@@ -44,7 +44,7 @@
                             <div class="centres-listing">
                                 <div class="single-centre">
                                     <div class="centre-box centre-box2">
-                                        <a href="#">
+                                        <a href="institute-of-oncology.php">
                                             <div class="icon">
                                                 <img src="assets/img/excelence/png-color/01.png" alt="" class="hover-none">
                                                 <img src="assets/img/excelence/png/01.png" alt="" class="d-none hover-block">

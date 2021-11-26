@@ -2,6 +2,7 @@
 01. HOME PAGE CSS 
 02. ABOUT PAGE CSS 
 03. CENTRE OF EXCELLENCE CSS
+04. Institute Of Oncology CSS
 ********************************/
 
 
@@ -2032,4 +2033,11 @@ a {
 
 .bread-text h1 span{
     font-size: 60px;
+}
+
+/****************************** 
+04. Institute Of Oncology CSS
+********************************/
+.excellence-head2{
+    margin-bottom: 40px;
 }
