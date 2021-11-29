@@ -144,6 +144,10 @@
     .mision-bx{
         margin-bottom: 25px;
     }
+    .dept--doctrs-head .head h2{
+        font-size: 35px;
+        max-width: 450px;
+    }
 }
 
 @media(max-width: 767px){
@@ -188,6 +192,9 @@
     }
     .enquiry-top .menu{
         height: 95px;
+    }
+    .dept--doctrs-head .head h2{
+        max-width: 250px;
     }
 }
 
@@ -427,6 +434,32 @@
     }
     .quality-points ul:last-child{
         padding-left: 0;
+    }
+    .bread-text2{
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        float: none;
+        position: relative;
+        padding: 0;
+    }
+    .bread-text2 h1 span{
+        font-size: 45px;
+    }
+    .department-area {
+        padding: 60px 0;
+    }
+    .featured-block .inner-box{
+        padding: 30px;
+    }
+    .dept--doctrs-head{
+        flex-direction: column;
+        justify-content: inherit;
+        align-items: inherit;
+    }
+    .dept--doctrs-head .head h2{
+        max-width: inherit;
+        margin-bottom: 26px;
     }
 
 }

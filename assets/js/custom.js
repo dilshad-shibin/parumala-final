@@ -151,6 +151,33 @@
         }
     });
 
+
+    //Inner Doctor Slider ACTIVE CODE
+    $('.doctor-slider.owl-carousel').owlCarousel({
+        loop: true,
+        margin: 15,
+        nav: true,
+        dots: false, 
+        smartSpeed: 2000,
+        autoplay: false,
+        responsiveClass: true,
+        autoplayTimeout: 4000,
+        responsive: {
+            0: {
+                items: 1
+            },
+            576: {
+                items: 1
+            },
+            768: {
+                items: 3
+            },
+            992: {
+                items: 4
+            }
+        }
+    });
+
     
     // :: COUNTERUP ACTIVE CODE
     $('.counter').counterUp({

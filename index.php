@@ -108,7 +108,7 @@
                         <div class="centres-listing owl-carousel"><!--  owl-carousel -->
                             <div class="single-centre">
                                 <div class="centre-box">
-                                    <a href="#">
+                                    <a href="institute-of-oncology.php">
                                         <div class="icon">
                                             <img src="assets/img/excelence/png-color/01.png" alt="" class="hover-none">
                                             <img src="assets/img/excelence/png/01.png" alt="" class="d-none hover-block">

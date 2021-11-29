@@ -2042,6 +2042,315 @@ a {
     margin-bottom: 40px;
 }
 
+.dpt-head h2{
+    color: #535353;
+    position: relative;
+    font-weight: 700;
+    font-size: 50px;
+    margin-bottom: 20px;
+}
+
+.dpt-head p{
+    font-family: 'Poppins', sans-serif;
+    color: #303030;
+}
+
+.dpt-head{
+    margin-bottom: 50px;
+}
+
 .department-area{
     padding: 100px 0;
 }
+
+.featured-block {
+    margin-bottom: 30px;
+}
+
+.featured-block .inner-box {
+    position: relative;
+    padding: 50px 30px;
+}
+
+.featured-block .image-layer:before {
+    position: absolute;
+    content: '';
+    left: 0px;
+    top: 0px;
+    right: 0px;
+    bottom: 0px;
+    background-color: rgba(34, 58, 102, 0.88);
+}
+
+.featured-block .image-layer {
+    position: absolute;
+    left: 0px;
+    top: 0px;
+    width: 100%;
+    height: 100%;
+    opacity: 0;
+    background-size: cover;
+    transition: all 700ms ease;
+    -webkit-transition: all 700ms ease;
+    -ms-transition: all 700ms ease;
+    -o-transition: all 700ms ease;
+    -webkit-transform: scaleX(0.7) translateX(-30px);
+    -ms-transform: scaleX(0.7) translateX(-30px);
+    -moz-transform: scaleX(0.7) translateX(-30px);
+    transform: scaleX(0.7) translateX(-30px);
+    -webkit-transform-origin: left;
+    -ms-transform-origin: left;
+    -moz-transform-origin: left;
+    transform-origin: left;
+}
+
+.featured-block .inner-box:hover .image-layer {
+    opacity: 1;
+    -webkit-transform: scaleX(1) translateX(0px);
+    -ms-transform: scaleX(1) translateX(0px);
+    -moz-transform: scaleX(1) translateX(0px);
+    transform: scaleX(1) translateX(0px);
+}
+
+.featured-block .icon-box {
+    position: relative;
+    font-size: 35px;
+    font-weight: 600;
+    line-height: 60px;
+    /* color: #1bb399; */
+    -webkit-transition: all 300ms ease;
+    -ms-transition: all 300ms ease;
+    -o-transition: all 300ms ease;
+    -moz-transition: all 300ms ease;
+    transition: all 300ms ease;
+    color: #fff;
+    background-color: rgb(254,90,1);
+    height: 60px;
+    width: 60px;
+    text-align: center;
+    border-radius: 50%;
+}
+
+.featured-block h3 {
+    position: relative;
+    font-size: 28px;
+    font-weight: 700;
+    line-height: 1.3em;
+    margin-top: 20px;
+}
+
+.featured-block h3 a {
+    position: relative;
+    color: #222222;
+    -webkit-transition: all 300ms ease;
+    -ms-transition: all 300ms ease;
+    -o-transition: all 300ms ease;
+    -moz-transition: all 300ms ease;
+    transition: all 300ms ease;
+}
+
+.featured-block p {
+    position: relative;
+    font-size: 17px;
+    line-height: 1.7em;
+    margin-top: 12px;
+    color: rgba(0, 0, 0, 0.70);
+    -webkit-transition: all 300ms ease;
+    -ms-transition: all 300ms ease;
+    -o-transition: all 300ms ease;
+    -moz-transition: all 300ms ease;
+    transition: all 300ms ease;
+}
+
+.featured-block .inner-box:hover .icon-box,
+.featured-block .inner-box:hover p,
+.featured-block .inner-box:hover h3 a {
+    color: #ffffff;
+}
+
+#more, #more2, #more3, #more4, #more5, #more6{
+    display: none;
+}
+
+.readmore-btn{
+    /* background: rgb(254,90,1); */
+    color: rgb(254,90,1);
+    background: transparent;
+    opacity: 1;
+    display: block;
+    position: relative;
+    outline: none;
+    border: none;
+    padding: 0;
+    transition: all .3s ease;
+}
+
+.readmore-btn:hover{
+    color: #fff;
+    letter-spacing: 1px;
+}
+
+.readmore-btn:focus{
+    border: none;
+    outline: none;
+}
+
+.dept-doctors{
+    padding-top: 100px;
+    background-image: url(../img/01_departments.jpg);
+    background-size: cover;
+    background-position: center;
+    height: 450px;
+    position: relative;
+}
+
+.dept--doctrs-head{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.dept--doctrs-head .head h2{
+    color: #fff;
+    font-size: 50px;
+    font-weight: 600;
+    line-height: 1.2;
+    max-width: 500px;
+}
+
+.dept--doctrs-head .btn-doctrs a{
+    padding: 15px 20px;
+    color: #fff;
+    border-radius: 8px;
+    background: rgb(254,90,1);
+    background: linear-gradient( 
+    90deg, rgba(254,90,1,1) 0%, rgba(254,90,1,1) 35%, rgba(254,90,1,1) 35%, rgba(254,90,1,0.6502976190476191) 100%);
+    text-transform: uppercase;
+    font-size: 14px;
+    transition: all .3s ease-in-out;
+}
+
+.dept--doctrs-head .btn-doctrs a:hover{
+    background: linear-gradient( 
+    90deg, rgb(254 90 1 / 53%) 0%, rgb(254 90 1 / 98%) 35%, rgb(254 90 1 / 98%) 35%, rgb(254 90 1 / 88%) 100%);
+}
+
+.overlay-doctors-bg{
+    background-color: rgb(26 61 125 / 90%);
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+}
+
+.dept-doctors-area{
+    padding-bottom: 150px;
+    margin-top: -150px;
+}
+
+.single-doctor{
+    padding: 20px 20px 35px;
+    border: 3px solid #ddd;
+    text-align: center;
+    position: relative;
+    transition: all .3s ease;
+}
+
+.single-doctor .doctor-photo img{
+    width: 100%;
+}
+
+.single-doctor .doctor-info{
+    padding: 10px 0 0;
+    -webkit-box-shadow: none;
+    box-shadow: none;
+    left: 0;
+    right: 0;
+    bottom: -10px;
+    background-color: transparent;
+    background-image: url(../img/shape.png);
+    background-position: center top;
+    background-size: cover;
+    position: relative;
+    z-index: 2;
+}
+
+.single-doctor .doctor-info .name{
+    margin-bottom: 10px;
+    line-height: 1.1;
+    font-size: 20px;
+    font-weight: 500;
+    color: #535353;
+}
+
+.single-doctor .doctor-info p{
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 1;
+    color: rgb(254,90,1);
+}
+
+.single-doctor .doctor-info .dr-appointment{
+    display: none;
+    margin-top: 10px;
+}
+
+.single-doctor .doctor-info .dr-appointment .apt h3{
+    color: #535353;
+    font-size: 18px;
+    margin-bottom: 0;   
+}
+
+.single-doctor .doctor-info .dr-appointment .call{
+    width: 30px;
+    height: 30px;
+    border: 1px solid;
+    transition: all .3s ease;
+}
+
+.single-doctor:hover .doctor-info .dr-appointment{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.single-doctor .doctor-info .dr-appointment .call:hover{
+    background-color: rgb(254,90,1);
+    color: #fff;
+}
+
+.single-doctor .doctor-info .dr-appointment .call:hover a{
+    color: #fff;
+}
+
+.doctor-slider .owl-nav{
+    position: relative;
+    top: 25px;
+}
+
+.doctor-slider .owl-nav button{
+    width: 45px;
+    height: 45px;
+    border: 1px solid rgb(254,90,1) !important;
+    transition: all .3s ease;
+    margin-right: 10px;
+    outline: none;
+}
+
+.doctor-slider .owl-nav button span {
+    font-size: 45px;
+    font-weight: 200;
+    line-height: 35px;
+    color: rgb(254,90,1);
+}
+
+.doctor-slider .owl-nav [class*=owl-]:hover {
+    background: rgb(254,90,1);
+    border: 1px solid rgb(254,90,1) !important;
+}
+
+.doctor-slider .owl-nav [class*=owl-]:hover span{
+    color: #fff;
+}
+

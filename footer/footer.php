@@ -32,7 +32,7 @@
                             <h3>Centres of Excellence</h3>
                         </div>
                         <ul class="list-items">
-                            <li><a href="">Institute of Oncology</a></li>
+                            <li><a href="institute-of-oncology.php">Institute of Oncology</a></li>
                             <li><a href="">Institute of Cardiothoracic Centre</a></li>
                             <li><a href="">Renal Care Centre</a></li>
                             <li><a href="">Neuroscience</a></li>
