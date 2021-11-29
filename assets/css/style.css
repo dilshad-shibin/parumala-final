@@ -2356,6 +2356,36 @@ a {
     color: #fff;
 }
 
+.doctor-slider2 .owl-nav{
+    position: relative;
+    top: 25px;
+}
+
+.doctor-slider2 .owl-nav button{
+    width: 45px;
+    height: 45px;
+    border: 1px solid rgb(254,90,1) !important;
+    transition: all .3s ease;
+    margin-right: 10px;
+    outline: none;
+}
+
+.doctor-slider2 .owl-nav button span {
+    font-size: 45px;
+    font-weight: 200;
+    line-height: 35px;
+    color: rgb(254,90,1);
+}
+
+.doctor-slider2 .owl-nav [class*=owl-]:hover {
+    background: rgb(254,90,1);
+    border: 1px solid rgb(254,90,1) !important;
+}
+
+.doctor-slider2 .owl-nav [class*=owl-]:hover span{
+    color: #fff;
+}
+
 
 /************************************ 
 05. Institute Of  Cardiothoracic CSS

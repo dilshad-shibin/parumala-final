@@ -34,7 +34,7 @@
                         <ul class="list-items">
                             <li><a href="institute-of-oncology.php">Institute of Oncology</a></li>
                             <li><a href="institute-of-cardiothoracic-centre.php">Institute of Cardiothoracic Centre</a></li>
-                            <li><a href="">Renal Care Centre</a></li>
+                            <li><a href="renal-care-centre.php">Renal Care Centre</a></li>
                             <li><a href="">Neuroscience</a></li>
                             <li><a href="">Orthopaedics and Arthroscopic Surgery</a></li>
                             <li><a href="">Head and Neck Reconstructive Surgery</a></li>
