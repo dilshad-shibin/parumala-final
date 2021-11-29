@@ -1,9 +1,10 @@
-/****************************** 
+/***********************************
 01. HOME PAGE CSS 
 02. ABOUT PAGE CSS 
 03. CENTRE OF EXCELLENCE CSS
 04. Institute Of Oncology CSS
-********************************/
+05. Institute Of  Cardiothoracic CSS
+**************************************/
 
 
 /* Custom css */
@@ -2255,6 +2256,7 @@ a {
     text-align: center;
     position: relative;
     transition: all .3s ease;
+    min-height: 350px;
 }
 
 .single-doctor .doctor-photo img{
@@ -2354,3 +2356,31 @@ a {
     color: #fff;
 }
 
+
+/************************************ 
+05. Institute Of  Cardiothoracic CSS
+**************************************/
+.dp-content .head h2{
+    color: #535353;
+    position: relative;
+    font-weight: 700;
+    font-size: 35px;
+    margin-bottom: 20px;
+}
+
+.dp-content .head p{
+    color: #303030;
+}
+
+.dp-image{
+    padding-left: 50px;
+}
+
+.dp-content, .dp-image{
+    margin-bottom: 80px;
+}
+
+.dp-image2{
+    padding-right: 50px;
+    margin-bottom: 80px;
+}

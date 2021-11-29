@@ -7,7 +7,7 @@
             <a href="#">Center Of Excellence</a>
             <ul>
                 <li><a href="institute-of-oncology.php">Institute Of Oncology</a></li>
-                <li><a href="">Institute Of Cardiothoracic Centre</a></li>
+                <li><a href="institute-of-cardiothoracic-centre.php">Institute Of Cardiothoracic Centre</a></li>
                 <li><a href="">Renal Care Centre</a></li>
                 <li><a href="">NeuroScience</a></li>
                 <li><a href="">Orthopaedics and Arthroscopic surgery</a></li>

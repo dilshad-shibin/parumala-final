@@ -196,6 +196,15 @@
     .dept--doctrs-head .head h2{
         max-width: 250px;
     }
+    .dp-image{
+        padding-left: 0;
+    }
+    .dp-content, .dp-image{
+        margin-bottom: 30px;
+    }
+    .order-2-767{
+        order: 2;
+    }
 }
 
 @media(max-width: 575px){
@@ -219,14 +228,6 @@
         padding: 7px 29px;
         font-size: 12px;
     }
-    /* .view-btn{
-        width: 100%;
-        display: flex;
-        justify-content: center;
-        left: unset;
-        transform: unset;
-        bottom: -110px;
-    } */
     .apply_now{
         padding: 7px 22px;
     }
@@ -460,6 +461,16 @@
     .dept--doctrs-head .head h2{
         max-width: inherit;
         margin-bottom: 26px;
+    }
+    .excellence-head2 h1{
+        font-size: 36px;
+    }
+    .dp-content .head h2 {
+        font-size: 30px;
+    }
+    .dept--doctrs-head .head h2{
+        font-size: 30px;
+        max-width: 310px;
     }
 
 }
