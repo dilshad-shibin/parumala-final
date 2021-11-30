@@ -1,11 +1,13 @@
-/***********************************
+/***********************************************
 01. HOME PAGE CSS 
 02. ABOUT PAGE CSS 
 03. CENTRE OF EXCELLENCE CSS
 04. Institute Of Oncology CSS
 05. Institute Of  Cardiothoracic CSS
 06. Neuroscience CSS
-**************************************/
+07.  Head and Neck CSS
+08.  Medical and Surgical Gasteroentrology CSS
+***************************************************/
 
 
 /* Custom css */
@@ -2421,6 +2423,35 @@ a {
     color: #fff;
 }
 
+.doctor-slider4 .owl-nav{
+    position: relative;
+    top: 25px;
+}
+
+.doctor-slider4 .owl-nav button{
+    width: 45px;
+    height: 45px;
+    border: 1px solid rgb(254,90,1) !important;
+    transition: all .3s ease;
+    margin-right: 10px;
+    outline: none;
+}
+
+.doctor-slider4 .owl-nav button span {
+    font-size: 45px;
+    font-weight: 200;
+    line-height: 35px;
+    color: rgb(254,90,1);
+}
+
+.doctor-slider4 .owl-nav [class*=owl-]:hover {
+    background: rgb(254,90,1);
+    border: 1px solid rgb(254,90,1) !important;
+}
+
+.doctor-slider4 .owl-nav [class*=owl-]:hover span{
+    color: #fff;
+}
 
 /************************************ 
 05. Institute Of  Cardiothoracic CSS
@@ -2529,4 +2560,23 @@ a {
 .hght-points li{
     margin-bottom: 10px;
     color: #fff;
+}
+
+/********************************************* 
+08.  Medical and Surgical Gasteroentrology CSS
+***********************************************/
+.highlight-head p{
+    color: #fff;
+    margin-bottom: 50px;
+    font-size: 32px;
+    line-height: 44px;
+}
+
+.hght-points h2{
+    color: #fff;
+    margin: 25px 0 18px;
+}
+
+.dept-highlight-gastro{
+    background-image: url(../img/excelence/gastro-bg.jpg);
 }
