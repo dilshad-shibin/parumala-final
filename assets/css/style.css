@@ -2576,6 +2576,7 @@ a {
 .hght-points h2{
     color: #fff;
     margin: 25px 0 18px;
+    line-height: 25px;
 }
 
 .dept-highlight-gastro{
@@ -2587,4 +2588,16 @@ a {
 **************************************/
 .dept-highlight-critical{
     background-image: url(../img/excelence/critical-bg.jpg);
+}
+
+/************************************ 
+10. Women Health CSS
+**************************************/
+.hght-points h2 span{
+    color: #ffffffe0;
+    font-size: 16px;
+}
+
+.dept-highlight-women{
+    background-image: url(../img/excelence/women-health.jpg);
 }
