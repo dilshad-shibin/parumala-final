@@ -5,8 +5,9 @@
 04. Institute Of Oncology CSS
 05. Institute Of  Cardiothoracic CSS
 06. Neuroscience CSS
-07.  Head and Neck CSS
-08.  Medical and Surgical Gasteroentrology CSS
+07. Head and Neck CSS
+08. Medical and Surgical Gasteroentrology CSS
+09. Critical Care CSS
 ***************************************************/
 
 
@@ -2579,4 +2580,11 @@ a {
 
 .dept-highlight-gastro{
     background-image: url(../img/excelence/gastro-bg.jpg);
+}
+
+/************************************ 
+09. Critical Care CSS
+**************************************/
+.dept-highlight-critical{
+    background-image: url(../img/excelence/critical-bg.jpg);
 }
