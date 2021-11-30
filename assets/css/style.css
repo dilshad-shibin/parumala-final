@@ -2391,6 +2391,36 @@ a {
     color: #fff;
 }
 
+.doctor-slider3 .owl-nav{
+    position: relative;
+    top: 25px;
+}
+
+.doctor-slider3 .owl-nav button{
+    width: 45px;
+    height: 45px;
+    border: 1px solid rgb(254,90,1) !important;
+    transition: all .3s ease;
+    margin-right: 10px;
+    outline: none;
+}
+
+.doctor-slider3 .owl-nav button span {
+    font-size: 45px;
+    font-weight: 200;
+    line-height: 35px;
+    color: rgb(254,90,1);
+}
+
+.doctor-slider3 .owl-nav [class*=owl-]:hover {
+    background: rgb(254,90,1);
+    border: 1px solid rgb(254,90,1) !important;
+}
+
+.doctor-slider3 .owl-nav [class*=owl-]:hover span{
+    color: #fff;
+}
+
 
 /************************************ 
 05. Institute Of  Cardiothoracic CSS
@@ -2460,4 +2490,43 @@ a {
     color: #fff;
     font-size: 18px;
     margin-bottom: 10px;
+}
+
+/************************************ 
+07.  Head and Neck CSS
+**************************************/
+.dept-highlight{
+    /* background-color: rgb(254,90,1); */
+    padding: 100px 0;
+    background-image: url(../img/excelence/head-neck.jpg);
+    background-size: cover;
+    background-position: center;
+}
+
+.highlight-head h2{
+    color: #fff;
+    position: relative;
+    font-weight: 700;
+    margin-bottom: 50px;
+}
+
+.highlight-head h2::before{
+    position: absolute;
+    content: "";
+    background-color: #fff;
+    height: 4px;
+    width: 6%;
+    left: 0;
+    bottom: -18px;
+    border-radius: 10px;
+}
+
+.hght-points{
+    list-style: disc;
+    padding-left: 25px;
+}
+
+.hght-points li{
+    margin-bottom: 10px;
+    color: #fff;
 }
