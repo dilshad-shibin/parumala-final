@@ -21,7 +21,7 @@
                     <div class="row">
                         <div class="col-12">
                             <div class="bread-text bread-text2">
-                                <h1><span>Orthopaedics</span> <br>& Arthroscopic</h1>
+                                <h1 class="ortho-head"><span>Orthopaedics</span> <br>& Arthroscopic</h1>
                                 <!-- <p>St. Gregorios Medical Mission Hospital</p> -->
                             </div>
                         </div>
