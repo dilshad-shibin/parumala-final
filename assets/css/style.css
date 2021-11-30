@@ -4,6 +4,7 @@
 03. CENTRE OF EXCELLENCE CSS
 04. Institute Of Oncology CSS
 05. Institute Of  Cardiothoracic CSS
+06. Neuroscience CSS
 **************************************/
 
 
@@ -84,6 +85,10 @@ img {
 
 a {
     color: #193d6f
+}
+
+.mt-4{
+    margin-top: 2rem !important;
 }
 
 /*********************** 
@@ -2413,4 +2418,46 @@ a {
 .dp-image2{
     padding-right: 50px;
     margin-bottom: 80px;
+}
+
+/************************************ 
+06. Neuroscience CSS
+**************************************/
+.facility-box{
+    background-color: rgb(254,90,1);
+    padding: 40px;
+}
+
+.fac-head h2{
+    color: #fff;
+    position: relative;
+    margin-bottom: 32px;
+    font-size: 26px;
+    font-weight: 600;
+}
+
+.fac-head h2::before{
+    position: absolute;
+    content: "";
+    background-color:#f8f9fa;
+    height: 4px;
+    width: 20%;
+    left: 0;
+    bottom: -15px;
+    border-radius: 10px;
+}
+
+.dp-content-neuro{
+    padding-right: 50px;
+}
+
+.fac-text .fac-list{
+    list-style: disc;
+    padding-left: 20px;
+}
+
+.fac-text .fac-list li{
+    color: #fff;
+    font-size: 18px;
+    margin-bottom: 10px;
 }

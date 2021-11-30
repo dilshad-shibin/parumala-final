@@ -205,6 +205,12 @@
     .order-2-767{
         order: 2;
     }
+    .dp-content-neuro{
+        margin-bottom: 40px;
+    }
+    .dp-content-neuro2{
+        margin-top: 50px;
+    }
 }
 
 @media(max-width: 575px){
