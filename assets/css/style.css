@@ -8,6 +8,8 @@
 07. Head and Neck CSS
 08. Medical and Surgical Gasteroentrology CSS
 09. Critical Care CSS
+10. Women Health CSS
+11. Multi Specialities Page CSS
 ***************************************************/
 
 
@@ -2600,4 +2602,12 @@ a {
 
 .dept-highlight-women{
     background-image: url(../img/excelence/women-health.jpg);
+}
+
+/************************************ 
+11. Multi Specialities Page CSS
+**************************************/
+.single-speciality-innerpage{
+    display: block;
+    justify-content: inherit;
 }

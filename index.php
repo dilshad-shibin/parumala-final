@@ -290,7 +290,7 @@
                         <div class="col-12">
                             <div class="speciality-head">
                                 <div class="head"><h1>Multi Specialities</h1></div>
-                                <div class="view-btn"><a href="">View All &nbsp;<img src="assets/img/arrow-right-orange.png" alt=""></a></div>
+                                <div class="view-btn"><a href="multi-speciality.php">View All &nbsp;<img src="assets/img/arrow-right-orange.png" alt=""></a></div>
                             </div>
                         </div>
                     </div>
