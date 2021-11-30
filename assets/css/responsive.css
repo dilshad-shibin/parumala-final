@@ -488,6 +488,12 @@
         font-size: 23px;
         line-height: 34px;
     }
+    .speciality-box2{
+        width: 100%;
+    }
+    .speciality-box2 .name h3{
+        font-size: 16px;
+    }
 
 }
 

@@ -42,7 +42,7 @@
                     <div class="row">
                         <div class="col-lg-3">
                            <div class="single-speciality single-speciality-innerpage">
-                               <div class="speciality-box">
+                               <div class="speciality-box speciality-box2">
                                    <a href="">
                                        <div class="icon">
                                             <img src="assets/img/specialities/anasthesia.png" alt="">
@@ -59,7 +59,7 @@
                         </div>
                         <div class="col-lg-3">
                             <div class="single-speciality single-speciality-innerpage">
-                                <div class="speciality-box">
+                                <div class="speciality-box speciality-box2">
                                     <a href="">
                                         <div class="icon">
                                                 <img src="assets/img/specialities/heart.png" alt="">
@@ -76,7 +76,7 @@
                         </div>
                         <div class="col-lg-3">
                             <div class="single-speciality single-speciality-innerpage">
-                                <div class="speciality-box">
+                                <div class="speciality-box speciality-box2">
                                     <a href="">
                                         <div class="icon">
                                                 <img src="assets/img/specialities/cardio.png" alt="">
@@ -93,7 +93,7 @@
                         </div>
                         <div class="col-lg-3">
                             <div class="single-speciality single-speciality-innerpage">
-                                <div class="speciality-box">
+                                <div class="speciality-box speciality-box2">
                                     <a href="">
                                         <div class="icon">
                                                 <img src="assets/img/specialities/rahabilitation.png" alt="">
@@ -110,7 +110,7 @@
                         </div>
                         <div class="col-lg-3">
                             <div class="single-speciality single-speciality-innerpage">
-                                <div class="speciality-box">
+                                <div class="speciality-box speciality-box2">
                                     <a href="">
                                         <div class="icon">
                                                 <img src="assets/img/specialities/critical.png" alt="">
@@ -127,7 +127,7 @@
                         </div>
                         <div class="col-lg-3">
                             <div class="single-speciality single-speciality-innerpage">
-                                <div class="speciality-box">
+                                <div class="speciality-box speciality-box2">
                                     <a href="">
                                         <div class="icon">
                                                 <img src="assets/img/specialities/dentistry.png" alt="">
@@ -144,7 +144,7 @@
                         </div>
                         <div class="col-lg-3">
                             <div class="single-speciality single-speciality-innerpage">
-                                <div class="speciality-box">
+                                <div class="speciality-box speciality-box2">
                                     <a href="">
                                         <div class="icon">
                                                 <img src="assets/img/specialities/dermatology.png" alt="">
@@ -161,7 +161,7 @@
                         </div>
                         <div class="col-lg-3">
                             <div class="single-speciality single-speciality-innerpage">
-                                <div class="speciality-box">
+                                <div class="speciality-box speciality-box2">
                                     <a href="">
                                         <div class="icon">
                                                 <img src="assets/img/specialities/emergency.png" alt="">
@@ -178,7 +178,7 @@
                         </div>
                         <div class="col-lg-3">
                             <div class="single-speciality single-speciality-innerpage">
-                                <div class="speciality-box">
+                                <div class="speciality-box speciality-box2">
                                     <a href="">
                                         <div class="icon">
                                                 <img src="assets/img/specialities/endo.png" alt="">
@@ -195,7 +195,7 @@
                         </div>
                         <div class="col-lg-3">
                             <div class="single-speciality single-speciality-innerpage">
-                                <div class="speciality-box">
+                                <div class="speciality-box speciality-box2">
                                     <a href="">
                                         <div class="icon">
                                                 <img src="assets/img/specialities/endo.png" alt="">
@@ -212,7 +212,7 @@
                         </div>
                         <div class="col-lg-3">
                             <div class="single-speciality single-speciality-innerpage">
-                                <div class="speciality-box">
+                                <div class="speciality-box speciality-box2">
                                     <a href="">
                                         <div class="icon">
                                                 <img src="assets/img/specialities/endo.png" alt="">
@@ -229,7 +229,7 @@
                         </div>
                         <div class="col-lg-3">
                             <div class="single-speciality single-speciality-innerpage">
-                                <div class="speciality-box">
+                                <div class="speciality-box speciality-box2">
                                     <a href="">
                                         <div class="icon">
                                                 <img src="assets/img/specialities/endo.png" alt="">
@@ -246,7 +246,7 @@
                         </div>
                         <div class="col-lg-3">
                             <div class="single-speciality single-speciality-innerpage">
-                                <div class="speciality-box">
+                                <div class="speciality-box speciality-box2">
                                     <a href="">
                                         <div class="icon">
                                                 <img src="assets/img/specialities/general.png" alt="">
@@ -263,7 +263,7 @@
                         </div>
                         <div class="col-lg-3">
                             <div class="single-speciality single-speciality-innerpage">
-                                <div class="speciality-box">
+                                <div class="speciality-box speciality-box2">
                                     <a href="">
                                         <div class="icon">
                                                 <img src="assets/img/specialities/general.png" alt="">
@@ -280,7 +280,7 @@
                         </div>
                         <div class="col-lg-3">
                             <div class="single-speciality single-speciality-innerpage">
-                                <div class="speciality-box">
+                                <div class="speciality-box speciality-box2">
                                     <a href="">
                                         <div class="icon">
                                                 <img src="assets/img/specialities/general.png" alt="">
@@ -297,7 +297,7 @@
                         </div>
                         <div class="col-lg-3">
                             <div class="single-speciality single-speciality-innerpage">
-                                <div class="speciality-box">
+                                <div class="speciality-box speciality-box2">
                                     <a href="">
                                         <div class="icon">
                                                 <img src="assets/img/specialities/general.png" alt="">
@@ -314,7 +314,7 @@
                         </div>
                         <div class="col-lg-3">
                             <div class="single-speciality single-speciality-innerpage">
-                                <div class="speciality-box">
+                                <div class="speciality-box speciality-box2">
                                     <a href="">
                                         <div class="icon">
                                                 <img src="assets/img/specialities/general.png" alt="">
@@ -331,7 +331,7 @@
                         </div>
                         <div class="col-lg-3">
                             <div class="single-speciality single-speciality-innerpage">
-                                <div class="speciality-box">
+                                <div class="speciality-box speciality-box2">
                                     <a href="">
                                         <div class="icon">
                                                 <img src="assets/img/specialities/general.png" alt="">
@@ -348,7 +348,7 @@
                         </div>
                         <div class="col-lg-3">
                             <div class="single-speciality single-speciality-innerpage">
-                                <div class="speciality-box">
+                                <div class="speciality-box speciality-box2">
                                     <a href="">
                                         <div class="icon">
                                                 <img src="assets/img/specialities/general.png" alt="">
@@ -365,7 +365,7 @@
                         </div>
                         <div class="col-lg-3">
                             <div class="single-speciality single-speciality-innerpage">
-                                <div class="speciality-box">
+                                <div class="speciality-box speciality-box2">
                                     <a href="">
                                         <div class="icon">
                                                 <img src="assets/img/specialities/general.png" alt="">
@@ -382,7 +382,7 @@
                         </div>
                         <div class="col-lg-3">
                             <div class="single-speciality single-speciality-innerpage">
-                                <div class="speciality-box">
+                                <div class="speciality-box speciality-box2">
                                     <a href="">
                                         <div class="icon">
                                                 <img src="assets/img/specialities/general.png" alt="">
@@ -399,7 +399,7 @@
                         </div>
                         <div class="col-lg-3">
                             <div class="single-speciality single-speciality-innerpage">
-                                <div class="speciality-box">
+                                <div class="speciality-box speciality-box2">
                                     <a href="">
                                         <div class="icon">
                                                 <img src="assets/img/specialities/general.png" alt="">
@@ -416,7 +416,7 @@
                         </div>
                         <div class="col-lg-3">
                             <div class="single-speciality single-speciality-innerpage">
-                                <div class="speciality-box">
+                                <div class="speciality-box speciality-box2">
                                     <a href="">
                                         <div class="icon">
                                                 <img src="assets/img/specialities/general.png" alt="">
@@ -433,7 +433,7 @@
                         </div>
                         <div class="col-lg-3">
                             <div class="single-speciality single-speciality-innerpage">
-                                <div class="speciality-box">
+                                <div class="speciality-box speciality-box2">
                                     <a href="">
                                         <div class="icon">
                                                 <img src="assets/img/specialities/general.png" alt="">
@@ -450,7 +450,7 @@
                         </div>
                         <div class="col-lg-3">
                             <div class="single-speciality single-speciality-innerpage">
-                                <div class="speciality-box">
+                                <div class="speciality-box speciality-box2">
                                     <a href="">
                                         <div class="icon">
                                                 <img src="assets/img/specialities/general.png" alt="">
@@ -467,7 +467,7 @@
                         </div>
                         <div class="col-lg-3">
                             <div class="single-speciality single-speciality-innerpage">
-                                <div class="speciality-box">
+                                <div class="speciality-box speciality-box2">
                                     <a href="">
                                         <div class="icon">
                                                 <img src="assets/img/specialities/general.png" alt="">
@@ -484,7 +484,7 @@
                         </div>
                         <div class="col-lg-3">
                             <div class="single-speciality single-speciality-innerpage">
-                                <div class="speciality-box">
+                                <div class="speciality-box speciality-box2">
                                     <a href="">
                                         <div class="icon">
                                                 <img src="assets/img/specialities/general.png" alt="">
@@ -501,7 +501,7 @@
                         </div>
                         <div class="col-lg-3">
                             <div class="single-speciality single-speciality-innerpage">
-                                <div class="speciality-box">
+                                <div class="speciality-box speciality-box2">
                                     <a href="">
                                         <div class="icon">
                                                 <img src="assets/img/specialities/general.png" alt="">
@@ -518,7 +518,7 @@
                         </div>
                         <div class="col-lg-3">
                             <div class="single-speciality single-speciality-innerpage">
-                                <div class="speciality-box">
+                                <div class="speciality-box speciality-box2">
                                     <a href="">
                                         <div class="icon">
                                                 <img src="assets/img/specialities/general.png" alt="">
@@ -535,7 +535,7 @@
                         </div>
                         <div class="col-lg-3">
                             <div class="single-speciality single-speciality-innerpage">
-                                <div class="speciality-box">
+                                <div class="speciality-box speciality-box2">
                                     <a href="">
                                         <div class="icon">
                                                 <img src="assets/img/specialities/general.png" alt="">
@@ -552,7 +552,7 @@
                         </div>
                         <div class="col-lg-3">
                             <div class="single-speciality single-speciality-innerpage">
-                                <div class="speciality-box">
+                                <div class="speciality-box speciality-box2">
                                     <a href="">
                                         <div class="icon">
                                                 <img src="assets/img/specialities/general.png" alt="">
@@ -569,7 +569,7 @@
                         </div>
                         <div class="col-lg-3">
                             <div class="single-speciality single-speciality-innerpage">
-                                <div class="speciality-box">
+                                <div class="speciality-box speciality-box2">
                                     <a href="">
                                         <div class="icon">
                                                 <img src="assets/img/specialities/general.png" alt="">
