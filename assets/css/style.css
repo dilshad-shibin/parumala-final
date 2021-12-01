@@ -10,6 +10,7 @@
 09. Critical Care CSS
 10. Women Health CSS
 11. Multi Specialities Page CSS
+12. Doctors View Page CSS
 ***************************************************/
 
 
@@ -2610,4 +2611,20 @@ a {
 .single-speciality-innerpage{
     display: block;
     justify-content: inherit;
+}
+
+.speciality-box2{
+    margin-bottom: 25px;
+}
+
+/************************************ 
+12. Doctors View Page CSS
+**************************************/
+.single-team2{
+    min-height: 420px;
+    margin-bottom: 30px;
+}
+
+.team-img img{
+    width: 100%;
 }

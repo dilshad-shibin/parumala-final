@@ -759,7 +759,7 @@
                         <div class="col-12">
                             <div class="speciality-head">
                                 <div class="head"><h1>Our Doctors</h1></div>
-                                <div class="view-btn"><a href="">View All &nbsp;<img src="assets/img/arrow-right-orange.png" alt=""></a></div>
+                                <div class="view-btn"><a href="our-doctors.php">View All &nbsp;<img src="assets/img/arrow-right-orange.png" alt=""></a></div>
                             </div>
                         </div>
                     </div>
