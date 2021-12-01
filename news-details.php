@@ -69,7 +69,7 @@
                                             <img src="assets/img/news/news-details/post-widget-1.jpg" alt="Image">
                                         </div>
                                         <div class="content">
-                                            <h6><a href="blog-details.html">International Microorganism Day</a></h6>
+                                            <h6><a href="news-details.php">International Microorganism Day</a></h6>
                                             <span class="date"><i class="far fa-calendar-alt"></i> 17 Sep 2021</span>
                                         </div>
                                     </div>
@@ -78,7 +78,7 @@
                                             <img src="assets/img/news/news-details/post-widget-1.jpg" alt="Image">
                                         </div>
                                         <div class="content">
-                                            <h6><a href="blog-details.html">National Doctors Day Celebration 2021</a></h6>
+                                            <h6><a href="news-details.php">National Doctors Day Celebration 2021</a></h6>
                                             <span class="date"><i class="far fa-calendar-alt"></i> 21 June 2021</span>
                                         </div>
                                     </div>
@@ -87,7 +87,7 @@
                                             <img src="assets/img/news/news-details/post-widget-1.jpg" alt="Image">
                                         </div>
                                         <div class="content">
-                                            <h6><a href="blog-details.html">Jyothis 2021</a></h6>
+                                            <h6><a href="news-details.php">Jyothis 2021</a></h6>
                                             <span class="date"><i class="far fa-calendar-alt"></i> 25 Feb 2021</span>
                                         </div>
                                     </div>
