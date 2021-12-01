@@ -494,6 +494,29 @@
     .speciality-box2 .name h3{
         font-size: 16px;
     }
+    .news-details-inner{
+        padding-right: 0;
+    }
+    .news-details{
+        padding: 70px 0;
+    }
+    .post-content{
+        padding: 35px 10px 60px;
+    }
+    .news-details-inner .post-content h3{
+        font-size: 22px;
+    }
+    .news-block-slider .single-block{
+        padding: 15px;
+    }
+    .news-block-slider .owl-nav button{
+        width: 30px;
+        height: 30px;
+    }
+    .news-block-slider .owl-nav button span{
+        font-size: 35px;
+        line-height: 28px;
+    }
 
 }
 

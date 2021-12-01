@@ -1031,7 +1031,7 @@
                                         <h3>International Microorganism Day</h3>
                                     </div>
                                     <div class="read-btn">
-                                        <a href="">Read More &nbsp;<img src="assets/img/arrow-right-orange.png" alt=""></a></a>
+                                        <a href="news-details.php">Read More &nbsp;<img src="assets/img/arrow-right-orange.png" alt=""></a></a>
                                     </div>
                                 </div>
                             </div>
@@ -1047,7 +1047,7 @@
                                         <h3>Jyothis 2021</h3>
                                     </div>
                                     <div class="read-btn">
-                                        <a href="">Read More &nbsp;<img src="assets/img/arrow-right-orange.png" alt=""></a></a>
+                                        <a href="news-details.php">Read More &nbsp;<img src="assets/img/arrow-right-orange.png" alt=""></a></a>
                                     </div>
                                 </div>
                             </div>
@@ -1063,7 +1063,7 @@
                                         <h3>Dedicated of H.H BASELIOUS PAULOSE || CARDIOLOGY BLOCK</h3>
                                     </div>
                                     <div class="read-btn">
-                                        <a href="">Read More &nbsp;<img src="assets/img/arrow-right-orange.png" alt=""></a></a>
+                                        <a href="news-details.php">Read More &nbsp;<img src="assets/img/arrow-right-orange.png" alt=""></a></a>
                                     </div>
                                 </div>
                             </div>
@@ -1079,7 +1079,7 @@
                                         <h3>National Doctors Day Celebration 2021</h3>
                                     </div>
                                     <div class="read-btn">
-                                        <a href="">Read More &nbsp;<img src="assets/img/arrow-right-orange.png" alt=""></a></a>
+                                        <a href="news-details.php">Read More &nbsp;<img src="assets/img/arrow-right-orange.png" alt=""></a></a>
                                     </div>
                                 </div>
                             </div>
