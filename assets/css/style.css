@@ -938,9 +938,13 @@ a {
 }
 
 .centres-listing .owl-nav button svg{
-    font-size: 35px;
+    font-size: 28px;
     line-height: 40px;
     color: #c0b4a4;
+}
+
+.centres-listing .owl-nav button .svg-inline--fa{
+    height: .7em;
 }
 
 .centres-listing .owl-nav [class*=owl-]:hover {
@@ -1308,6 +1312,10 @@ a {
     font-size: 28px;
     line-height: 40px;
     color: #c0b4a4;
+}
+
+.team-slider .owl-nav button .svg-inline--fa{
+    height: .7em;
 }
 
 .team-slider .owl-nav [class*=owl-]:hover {
