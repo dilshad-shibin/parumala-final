@@ -66,7 +66,7 @@
                 <li><a href="">Insurance</a></li>
             </ul>
         </li>
-        <li><a href="contact.html">Contact</a></li>
+        <li><a href="contact.php">Contact</a></li>
         <!-- <li class="mb_signbtn qebtn"><a href="#" class="mobile_btn" data-toggle="modal" data-target="#exampleModal0">Book Now </a></li> -->
     </ul>
     <div class="mm-navbtn-names">

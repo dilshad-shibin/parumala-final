@@ -517,6 +517,28 @@
         font-size: 35px;
         line-height: 28px;
     }
+    .contact-area{
+        padding: 70px 0 40px;
+    }
+    .contact-head h3{
+        font-size: 26px;
+    }
+    .contact-head p{
+        font-size: 15px;
+    }
+    .contact-form{
+        padding: 45px 25px;
+    }
+    .contact-form .form-control{
+        height: 55px;
+    }
+    .right-side-info{
+        padding-left: 0;
+        padding-top: 50px;
+    }
+    .location-area-map{
+        height: 300px;
+    }
 
 }
 

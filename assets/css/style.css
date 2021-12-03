@@ -2846,3 +2846,161 @@ a {
     text-transform: uppercase;
     letter-spacing: 1px;
 }
+
+/************************************ 
+14. Contact Page CSS
+**************************************/
+.contact-area{
+    padding: 100px 0;
+    position: relative;
+}
+
+.contact-form{
+    background-color: #fff;
+    box-shadow: 0 0 20px 3px rgb(0 0 0 / 5%);
+    padding: 80px 45px;
+}
+
+.contact-form .form-group{
+    margin-bottom: 30px;
+}
+
+.contact-form .form-control{
+    height: 70px;
+    color: #24416b;
+    border: 1px solid #e8e8e8;
+    background-color: #f9f9f9;
+    border-radius: 10px;
+    font-size: 15px;
+    padding: 10px 20px;
+    width: 100%;
+}
+
+.contact-form .form-control:focus{
+    color: #000;
+    background-color: transparent;
+    outline: 0;
+    border: 1px solid #fe5a01;
+    box-shadow: none;
+}
+
+.contact-form textarea.form-control{
+    height: unset !important;
+}
+
+.contactform-btn{
+    font-size: 16px;
+    color: #ffffff;
+    padding: 15px 25px 15px 25px;
+    line-height: 1;
+    transition: all 0.5s;
+    z-index: 1;
+    text-transform: capitalize;
+    background-color: rgb(254,90,1);
+    border: 1px solid #fe5a01 !important;
+    border-radius: 50px;
+    text-align: center;
+    outline: none;
+    border: none;
+    transition: all .5s;
+}
+
+.contactform-btn:hover{
+    background-color: #fff;
+    border: 1px solid rgb(254,90,1);
+    color: #000;
+}
+
+.single-info{
+    text-align: center;
+    box-shadow: 0 0 20px 3px rgb(0 0 0 / 5%);
+    background-color: transparent;
+    margin-bottom: 15px;
+    padding: 30px;
+    transition: all .5s;
+}
+
+.single-info i{
+    display: block;
+    color: rgb(254,90,1);
+    transition: all .5s;
+    font-size: 25px;
+    width: 50px;
+    height: 50px;
+    margin: 0 auto 15px;
+    line-height: 50px;
+    /* border: 2px dotted #cc8c18; */
+    border-radius: 50%;
+}
+
+.single-info svg{
+    display: block;
+    color: rgb(254,90,1);
+    transition: all .5s;
+    font-size: 25px;
+    width: 50px;
+    /* height: 50px; */
+    margin: 0 auto 15px;
+    line-height: 50px;
+    /* border: 2px dotted #cc8c18; */
+    border-radius: 50%;
+}
+
+.single-info h3{
+    color: #5c5c5c;
+    font-size: 25px;
+    margin-bottom: 15px;
+    font-weight: 700;    
+}
+
+.single-info p,
+.single-info a{
+    color: #7a7e9a;
+    display: block;
+    font-size: 15px;
+    line-height: 1.8;
+}
+
+.single-info a:hover{
+    color: #fe5a01;
+}
+
+.right-side-info{
+    padding-left: 50px;
+}
+
+.contact-head span{
+    color: #fe5a01;
+    text-transform: uppercase;
+    letter-spacing: 4px;
+    font-size: 17px;
+    font-weight: 600;
+}
+
+.contact-head h3{
+    position: relative;
+    color: #535353;
+    font-size: 35px;
+    font-weight: 700;
+    margin-bottom: 20px;
+}
+
+.contact-head p{
+    max-width: 800px;
+    margin: 0 auto;
+    margin-bottom: 50px;
+}
+
+.location-area-map{
+    height: 450px;
+    filter: saturate(0.5);
+}
+
+.location-area-map iframe{
+    width: 100%;
+    height: 100%;
+}
+
+.google-location{
+    padding-bottom: 100px;
+}
