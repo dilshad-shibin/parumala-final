@@ -2851,7 +2851,7 @@ a {
 14. Contact Page CSS
 **************************************/
 .contact-area{
-    padding: 100px 0;
+    padding: 100px 0 50px;
     position: relative;
 }
 
