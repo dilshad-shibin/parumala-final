@@ -22,7 +22,7 @@
             <a href="#">Multi Speciality</a>
             <ul>
                 <li><a href="anaesthesiology.php">Anaesthesiology</a></li>
-                <li><a href="">Ayurvedic Medicine</a></li>
+                <li><a href="ayurvedic-medicine.php">Ayurvedic Medicine</a></li>
                 <li><a href="">Cardiothoracic-Centre</a></li>
                 <li><a href="">Clinical and Rehabilitation Psychology</a></li>
                 <li><a href="">Critical-Carer</a></li>

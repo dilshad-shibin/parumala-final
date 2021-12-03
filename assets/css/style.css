@@ -12,6 +12,7 @@
 11. Multi Specialities Page CSS
 12. Doctors View Page CSS
 13. News Details Page CSS
+14. Ayurvedic Medicine CSS 
 ***************************************************/
 
 
@@ -3003,4 +3004,33 @@ a {
 
 .google-location{
     padding-bottom: 100px;
+}
+
+/***************************** 
+14. Ayurvedic Medicine CSS 
+********************************/
+.content-head h2{
+    color: #535353;
+    position: relative;
+    font-weight: 700;
+    font-size: 42px;
+}
+
+.content-head p{
+    max-width: 1000px;
+    margin: 0 auto;
+    margin-bottom: 15px;
+}
+
+.inner-content{
+    max-width: 1000px;
+    margin: 0 auto
+}
+
+.inner-content h1{
+    color: #535353;
+    position: relative;
+    font-weight: 700;
+    font-size: 42px;
+    margin-bottom: 15px;
 }
