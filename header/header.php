@@ -29,7 +29,7 @@
                 <li><a href="dentistry.php">Dentistry</a></li>
                 <li><a href="dermatology.php">Dermatology</a></li>
                 <li><a href="emergency-medicine.php">Emergency-Medicine</a></li>
-                <li><a href="">Endocrinology</a></li>
+                <li><a href="endocrinology.php">Endocrinology</a></li>
                 <li><a href="">ENT</a></li>
                 <li><a href="">Gastroenterology</a></li>
                 <li><a href="">General and Laparoscopic Surgery</a></li>
