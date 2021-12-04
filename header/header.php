@@ -27,7 +27,7 @@
                 <li><a href="clinical-and-rehabilitation-psychology.php">Clinical and Rehabilitation Psychology</a></li>
                 <li><a href="criticalcare-speciality.php">Critical-Carer</a></li>
                 <li><a href="dentistry.php">Dentistry</a></li>
-                <li><a href="">Dermatology</a></li>
+                <li><a href="dermatology.php">Dermatology</a></li>
                 <li><a href="">Emergency-Medicine</a></li>
                 <li><a href="">Endocrinology</a></li>
                 <li><a href="">ENT</a></li>
