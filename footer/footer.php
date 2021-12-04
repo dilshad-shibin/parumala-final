@@ -76,7 +76,7 @@
                                 <li><a href="obstetrics-and-gynaecology.php">Obstetrics & Gynaecology</a></li>
                                 <li><a href="oncology.php">Oncology</a></li>
                                 <li><a href="ophthalmology.php">Ophthalmology</a></li>
-                                <li><a href="">Orthopedics</a></li>
+                                <li><a href="orthopedics.php">Orthopedics</a></li>
                                 <li><a href="">Pathology</a></li>
                                 <li><a href="">Pediatrics</a></li>
                                 <li><a href="">Physiotherapy</a></li>
