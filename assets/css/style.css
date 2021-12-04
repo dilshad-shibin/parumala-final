@@ -3034,3 +3034,12 @@ a {
     font-size: 42px;
     margin-bottom: 15px;
 }
+
+.treatment-ayurvedic{
+    background-color: #fefaf5;
+}
+
+.dpt-head2 p{
+    margin: 0 auto;
+    max-width: 1000px;
+}
