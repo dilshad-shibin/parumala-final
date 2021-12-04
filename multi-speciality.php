@@ -43,7 +43,7 @@
                         <div class="col-lg-3">
                            <div class="single-speciality single-speciality-innerpage">
                                <div class="speciality-box speciality-box2">
-                                   <a href="">
+                                   <a href="anaesthesiology.php">
                                        <div class="icon">
                                             <img src="assets/img/specialities/anasthesia.png" alt="">
                                        </div>
@@ -60,7 +60,7 @@
                         <div class="col-lg-3">
                             <div class="single-speciality single-speciality-innerpage">
                                 <div class="speciality-box speciality-box2">
-                                    <a href="">
+                                    <a href="ayurvedic-medicine.php">
                                         <div class="icon">
                                                 <img src="assets/img/specialities/heart.png" alt="">
                                         </div>
@@ -77,7 +77,7 @@
                         <div class="col-lg-3">
                             <div class="single-speciality single-speciality-innerpage">
                                 <div class="speciality-box speciality-box2">
-                                    <a href="">
+                                    <a href="cardiothoracic-centre.php">
                                         <div class="icon">
                                                 <img src="assets/img/specialities/cardio.png" alt="">
                                         </div>
@@ -94,7 +94,7 @@
                         <div class="col-lg-3">
                             <div class="single-speciality single-speciality-innerpage">
                                 <div class="speciality-box speciality-box2">
-                                    <a href="">
+                                    <a href="clinical-and-rehabilitation-psychology.php">
                                         <div class="icon">
                                                 <img src="assets/img/specialities/rahabilitation.png" alt="">
                                         </div>
@@ -111,7 +111,7 @@
                         <div class="col-lg-3">
                             <div class="single-speciality single-speciality-innerpage">
                                 <div class="speciality-box speciality-box2">
-                                    <a href="">
+                                    <a href="critical-care.php">
                                         <div class="icon">
                                                 <img src="assets/img/specialities/critical.png" alt="">
                                         </div>
@@ -128,7 +128,7 @@
                         <div class="col-lg-3">
                             <div class="single-speciality single-speciality-innerpage">
                                 <div class="speciality-box speciality-box2">
-                                    <a href="">
+                                    <a href="dentistry.php">
                                         <div class="icon">
                                                 <img src="assets/img/specialities/dentistry.png" alt="">
                                         </div>
@@ -145,7 +145,7 @@
                         <div class="col-lg-3">
                             <div class="single-speciality single-speciality-innerpage">
                                 <div class="speciality-box speciality-box2">
-                                    <a href="">
+                                    <a href="dermatology.php">
                                         <div class="icon">
                                                 <img src="assets/img/specialities/dermatology.png" alt="">
                                         </div>
@@ -162,7 +162,7 @@
                         <div class="col-lg-3">
                             <div class="single-speciality single-speciality-innerpage">
                                 <div class="speciality-box speciality-box2">
-                                    <a href="">
+                                    <a href="emergency-medicine.php">
                                         <div class="icon">
                                                 <img src="assets/img/specialities/emergency.png" alt="">
                                         </div>
@@ -179,7 +179,7 @@
                         <div class="col-lg-3">
                             <div class="single-speciality single-speciality-innerpage">
                                 <div class="speciality-box speciality-box2">
-                                    <a href="">
+                                    <a href="endocrinology.php">
                                         <div class="icon">
                                                 <img src="assets/img/specialities/endo.png" alt="">
                                         </div>
@@ -196,7 +196,7 @@
                         <div class="col-lg-3">
                             <div class="single-speciality single-speciality-innerpage">
                                 <div class="speciality-box speciality-box2">
-                                    <a href="">
+                                    <a href="ent.php">
                                         <div class="icon">
                                                 <img src="assets/img/specialities/endo.png" alt="">
                                         </div>
@@ -213,7 +213,7 @@
                         <div class="col-lg-3">
                             <div class="single-speciality single-speciality-innerpage">
                                 <div class="speciality-box speciality-box2">
-                                    <a href="">
+                                    <a href="gastroenterology.php">
                                         <div class="icon">
                                                 <img src="assets/img/specialities/endo.png" alt="">
                                         </div>
@@ -230,7 +230,7 @@
                         <div class="col-lg-3">
                             <div class="single-speciality single-speciality-innerpage">
                                 <div class="speciality-box speciality-box2">
-                                    <a href="">
+                                    <a href="general-and-laparoscopic-surgery.php">
                                         <div class="icon">
                                                 <img src="assets/img/specialities/endo.png" alt="">
                                         </div>
@@ -247,7 +247,7 @@
                         <div class="col-lg-3">
                             <div class="single-speciality single-speciality-innerpage">
                                 <div class="speciality-box speciality-box2">
-                                    <a href="">
+                                    <a href="general-medicine.php">
                                         <div class="icon">
                                                 <img src="assets/img/specialities/general.png" alt="">
                                         </div>
@@ -264,7 +264,7 @@
                         <div class="col-lg-3">
                             <div class="single-speciality single-speciality-innerpage">
                                 <div class="speciality-box speciality-box2">
-                                    <a href="">
+                                    <a href="head-neck-reconstructive-surgery.php">
                                         <div class="icon">
                                                 <img src="assets/img/specialities/general.png" alt="">
                                         </div>
@@ -281,7 +281,7 @@
                         <div class="col-lg-3">
                             <div class="single-speciality single-speciality-innerpage">
                                 <div class="speciality-box speciality-box2">
-                                    <a href="">
+                                    <a href="microbiology.php">
                                         <div class="icon">
                                                 <img src="assets/img/specialities/general.png" alt="">
                                         </div>
@@ -298,7 +298,7 @@
                         <div class="col-lg-3">
                             <div class="single-speciality single-speciality-innerpage">
                                 <div class="speciality-box speciality-box2">
-                                    <a href="">
+                                    <a href="neonatology.php">
                                         <div class="icon">
                                                 <img src="assets/img/specialities/general.png" alt="">
                                         </div>
@@ -315,7 +315,7 @@
                         <div class="col-lg-3">
                             <div class="single-speciality single-speciality-innerpage">
                                 <div class="speciality-box speciality-box2">
-                                    <a href="">
+                                    <a href="nephrology.php">
                                         <div class="icon">
                                                 <img src="assets/img/specialities/general.png" alt="">
                                         </div>
@@ -332,7 +332,7 @@
                         <div class="col-lg-3">
                             <div class="single-speciality single-speciality-innerpage">
                                 <div class="speciality-box speciality-box2">
-                                    <a href="">
+                                    <a href="neuro-surgery.php">
                                         <div class="icon">
                                                 <img src="assets/img/specialities/general.png" alt="">
                                         </div>
@@ -349,7 +349,7 @@
                         <div class="col-lg-3">
                             <div class="single-speciality single-speciality-innerpage">
                                 <div class="speciality-box speciality-box2">
-                                    <a href="">
+                                    <a href="neurology.php">
                                         <div class="icon">
                                                 <img src="assets/img/specialities/general.png" alt="">
                                         </div>
@@ -366,7 +366,7 @@
                         <div class="col-lg-3">
                             <div class="single-speciality single-speciality-innerpage">
                                 <div class="speciality-box speciality-box2">
-                                    <a href="">
+                                    <a href="nuclear-medicine.php">
                                         <div class="icon">
                                                 <img src="assets/img/specialities/general.png" alt="">
                                         </div>
@@ -383,7 +383,7 @@
                         <div class="col-lg-3">
                             <div class="single-speciality single-speciality-innerpage">
                                 <div class="speciality-box speciality-box2">
-                                    <a href="">
+                                    <a href="obstetrics-and-gynaecology.php">
                                         <div class="icon">
                                                 <img src="assets/img/specialities/general.png" alt="">
                                         </div>
@@ -400,7 +400,7 @@
                         <div class="col-lg-3">
                             <div class="single-speciality single-speciality-innerpage">
                                 <div class="speciality-box speciality-box2">
-                                    <a href="">
+                                    <a href="oncology.php">
                                         <div class="icon">
                                                 <img src="assets/img/specialities/general.png" alt="">
                                         </div>
@@ -417,7 +417,7 @@
                         <div class="col-lg-3">
                             <div class="single-speciality single-speciality-innerpage">
                                 <div class="speciality-box speciality-box2">
-                                    <a href="">
+                                    <a href="ophthalmology.php">
                                         <div class="icon">
                                                 <img src="assets/img/specialities/general.png" alt="">
                                         </div>
@@ -434,7 +434,7 @@
                         <div class="col-lg-3">
                             <div class="single-speciality single-speciality-innerpage">
                                 <div class="speciality-box speciality-box2">
-                                    <a href="">
+                                    <a href="orthopedics.php">
                                         <div class="icon">
                                                 <img src="assets/img/specialities/general.png" alt="">
                                         </div>
@@ -451,7 +451,7 @@
                         <div class="col-lg-3">
                             <div class="single-speciality single-speciality-innerpage">
                                 <div class="speciality-box speciality-box2">
-                                    <a href="">
+                                    <a href="pathology.php">
                                         <div class="icon">
                                                 <img src="assets/img/specialities/general.png" alt="">
                                         </div>
@@ -468,7 +468,7 @@
                         <div class="col-lg-3">
                             <div class="single-speciality single-speciality-innerpage">
                                 <div class="speciality-box speciality-box2">
-                                    <a href="">
+                                    <a href="pediatrics.php">
                                         <div class="icon">
                                                 <img src="assets/img/specialities/general.png" alt="">
                                         </div>
@@ -485,7 +485,7 @@
                         <div class="col-lg-3">
                             <div class="single-speciality single-speciality-innerpage">
                                 <div class="speciality-box speciality-box2">
-                                    <a href="">
+                                    <a href="physiotherapy.php">
                                         <div class="icon">
                                                 <img src="assets/img/specialities/general.png" alt="">
                                         </div>
@@ -502,7 +502,7 @@
                         <div class="col-lg-3">
                             <div class="single-speciality single-speciality-innerpage">
                                 <div class="speciality-box speciality-box2">
-                                    <a href="">
+                                    <a href="plastic-surgery.php">
                                         <div class="icon">
                                                 <img src="assets/img/specialities/general.png" alt="">
                                         </div>
@@ -519,7 +519,7 @@
                         <div class="col-lg-3">
                             <div class="single-speciality single-speciality-innerpage">
                                 <div class="speciality-box speciality-box2">
-                                    <a href="">
+                                    <a href="psychiatry-de-addiction-and-rehabilitation.php">
                                         <div class="icon">
                                                 <img src="assets/img/specialities/general.png" alt="">
                                         </div>
@@ -536,7 +536,7 @@
                         <div class="col-lg-3">
                             <div class="single-speciality single-speciality-innerpage">
                                 <div class="speciality-box speciality-box2">
-                                    <a href="">
+                                    <a href="pulmonology.php">
                                         <div class="icon">
                                                 <img src="assets/img/specialities/general.png" alt="">
                                         </div>
@@ -553,7 +553,7 @@
                         <div class="col-lg-3">
                             <div class="single-speciality single-speciality-innerpage">
                                 <div class="speciality-box speciality-box2">
-                                    <a href="">
+                                    <a href="radiology.php">
                                         <div class="icon">
                                                 <img src="assets/img/specialities/general.png" alt="">
                                         </div>
@@ -570,7 +570,7 @@
                         <div class="col-lg-3">
                             <div class="single-speciality single-speciality-innerpage">
                                 <div class="speciality-box speciality-box2">
-                                    <a href="">
+                                    <a href="urology.php">
                                         <div class="icon">
                                                 <img src="assets/img/specialities/general.png" alt="">
                                         </div>

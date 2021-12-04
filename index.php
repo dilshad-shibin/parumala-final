@@ -302,7 +302,7 @@
 
                                     <div class="main-box">
                                         <div class="speciality-box">
-                                            <a href="">
+                                            <a href="anaesthesiology.php">
                                                 <div class="icon">
                                                     <img src="assets/img/specialities/anasthesia.png" alt="">
                                                 </div>
@@ -315,7 +315,7 @@
                                             </a>
                                         </div>
                                         <div class="speciality-box">
-                                            <a href="">
+                                            <a href="dentistry.php">
                                                 <div class="icon">
                                                     <img src="assets/img/specialities/dentistry.png" alt="">
                                                 </div>
@@ -331,7 +331,7 @@
 
                                     <div class="main-box">
                                         <div class="speciality-box">
-                                            <a href="">
+                                            <a href="ayurvedic-medicine.php">
                                                 <div class="icon">
                                                     <img src="assets/img/specialities/heart.png" alt="">
                                                 </div>
@@ -344,7 +344,7 @@
                                             </a>
                                         </div>
                                         <div class="speciality-box">
-                                            <a href="">
+                                            <a href="dermatology.php">
                                                 <div class="icon">
                                                     <img src="assets/img/specialities/dermatology.png" alt="">
                                                 </div>
@@ -360,7 +360,7 @@
 
                                     <div class="main-box">
                                         <div class="speciality-box">
-                                            <a href="">
+                                            <a href="cardiothoracic-centre.php">
                                                 <div class="icon">
                                                     <img src="assets/img/specialities/cardio.png" alt="">
                                                </div>
@@ -373,7 +373,7 @@
                                             </a>
                                         </div>
                                         <div class="speciality-box">
-                                            <a href="">
+                                            <a href="emergency-medicine.php">
                                                 <div class="icon">
                                                     <img src="assets/img/specialities/emergency.png" alt="">
                                                 </div>
@@ -389,7 +389,7 @@
 
                                     <div class="main-box">
                                         <div class="speciality-box">
-                                            <a href="">
+                                            <a href="clinical-and-rehabilitation-psychology.php">
                                                 <div class="icon">
                                                     <img src="assets/img/specialities/rahabilitation.png" alt="">
                                                 </div>
@@ -402,7 +402,7 @@
                                             </a>
                                         </div>
                                         <div class="speciality-box">
-                                            <a href="">
+                                            <a href="endocrinology.php">
                                                 <div class="icon">
                                                     <img src="assets/img/specialities/endo.png" alt="">
                                                 </div>
@@ -418,7 +418,7 @@
 
                                     <div class="main-box">
                                         <div class="speciality-box">
-                                            <a href="">
+                                            <a href="critical-care.php">
                                                 <div class="icon">
                                                     <img src="assets/img/specialities/critical.png" alt="">
                                                 </div>
@@ -431,7 +431,7 @@
                                             </a>
                                         </div>
                                         <div class="speciality-box">
-                                            <a href="">
+                                            <a href="general-medicine.php">
                                                 <div class="icon">
                                                     <img src="assets/img/specialities/general.png" alt="">
                                                 </div>
@@ -451,7 +451,7 @@
 
                                     <div class="main-box">
                                         <div class="speciality-box">
-                                            <a href="">
+                                            <a href="anaesthesiology.php">
                                                 <div class="icon">
                                                     <img src="assets/img/specialities/anasthesia.png" alt="">
                                                 </div>
