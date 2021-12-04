@@ -3100,6 +3100,12 @@ a {
     list-style: none;
 }
 
+/* Last general css */
+
 .hght-points-color li{
     color: #303030;
+}
+
+.hght-points-last{
+    margin-top: 52px;
 }

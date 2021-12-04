@@ -54,7 +54,7 @@
                                 <li><a href="ayurvedic-medicine.php">Ayurvedic Medicine</a></li>
                                 <li><a href="cardiothoracic-centre.php">Cardiothoracic Centre</a></li>
                                 <li><a href="clinical-and-rehabilitation-psychology.php">Clinical & Rehabilitation Psychology</a></li>
-                                <li><a href="criticalcare-speciality.php"">Critical Care</a></li>
+                                <li><a href="criticalcare-speciality.php">Critical Care</a></li>
                                 <li><a href="dentistry.php">Dentistry</a></li>
                                 <li><a href="dermatology.php">Dermatology</a></li>
                                 <li><a href="emergency-medicine.php">Emergency-Medicine</a></li>
@@ -63,7 +63,7 @@
                                 <li><a href="gastroenterology.php">Gastroenterology</a></li>
                                 <li><a href="general-and-laparoscopic-surgery.php">General & Laparoscopic Surgery</a></li>
                                 <li><a href="general-medicine.php">General Medicine</a></li>
-                                <li><a href="">Head & Neck Reconstructive Surgery</a></li>
+                                <li><a href="headand-neck-reconstructive-surgery.php">Head & Neck Reconstructive Surgery</a></li>
                                 <li><a href="">Microbiology</a></li>
                                 <li><a href="">Neonatology</a></li>
                                 <li><a href="">Nephrology</a></li>
