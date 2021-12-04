@@ -38,7 +38,7 @@
                 <li><a href="microbiology.php">Microbiology</a></li>
                 <li><a href="neonatology.php">Neonatology</a></li>
                 <li><a href="nephrology.php">Nephrology</a></li>
-                <li><a href="">Neuro Surgery</a></li>
+                <li><a href="neuro-surgery.php">Neuro Surgery</a></li>
                 <li><a href="">Neurology</a></li>
                 <li><a href="">Nuclear Medicine</a></li>
                 <li><a href="">Obstetrics and Gynaecology</a></li>
