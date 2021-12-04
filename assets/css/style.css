@@ -3095,3 +3095,11 @@ a {
 .middle-section p{
     font-size: 18px;    
 }
+
+.hght-points-color{
+    list-style: none;
+}
+
+.hght-points-color li{
+    color: #303030;
+}

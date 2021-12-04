@@ -55,7 +55,7 @@
                                 <li><a href="cardiothoracic-centre.php">Cardiothoracic Centre</a></li>
                                 <li><a href="clinical-and-rehabilitation-psychology.php">Clinical & Rehabilitation Psychology</a></li>
                                 <li><a href="criticalcare-speciality.php"">Critical Care</a></li>
-                                <li><a href="">Dentistry</a></li>
+                                <li><a href="dentistry.php">Dentistry</a></li>
                                 <li><a href="">Dermatology</a></li>
                                 <li><a href="">Emergency-Medicine</a></li>
                                 <li><a href="">Endocrinology</a></li>
