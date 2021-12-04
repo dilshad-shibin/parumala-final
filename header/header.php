@@ -31,7 +31,7 @@
                 <li><a href="emergency-medicine.php">Emergency-Medicine</a></li>
                 <li><a href="endocrinology.php">Endocrinology</a></li>
                 <li><a href="ent.php">ENT</a></li>
-                <li><a href="">Gastroenterology</a></li>
+                <li><a href="gastroenterology.php">Gastroenterology</a></li>
                 <li><a href="">General and Laparoscopic Surgery</a></li>
                 <li><a href="">General-Medicine</a></li>
                 <li><a href="">Headand Neck Reconstructive Surgery</a></li>
