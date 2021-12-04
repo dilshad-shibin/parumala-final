@@ -75,7 +75,7 @@
                                 <li><a href="nuclear-medicine.php">Nuclear Medicine</a></li>
                                 <li><a href="obstetrics-and-gynaecology.php">Obstetrics & Gynaecology</a></li>
                                 <li><a href="oncology.php">Oncology</a></li>
-                                <li><a href="">Ophthalmology</a></li>
+                                <li><a href="ophthalmology.php">Ophthalmology</a></li>
                                 <li><a href="">Orthopedics</a></li>
                                 <li><a href="">Pathology</a></li>
                                 <li><a href="">Pediatrics</a></li>
