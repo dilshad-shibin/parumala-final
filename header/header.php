@@ -39,8 +39,8 @@
                 <li><a href="neonatology.php">Neonatology</a></li>
                 <li><a href="nephrology.php">Nephrology</a></li>
                 <li><a href="neuro-surgery.php">Neuro Surgery</a></li>
-                <li><a href="">Neurology</a></li>
-                <li><a href="">Nuclear Medicine</a></li>
+                <li><a href="neurology.php">Neurology</a></li>
+                <li><a href="nuclear-medicine.php">Nuclear Medicine</a></li>
                 <li><a href="">Obstetrics and Gynaecology</a></li>
                 <li><a href="">Oncology</a></li>
                 <li><a href="">Ophthalmology</a></li>
