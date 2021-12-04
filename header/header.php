@@ -45,7 +45,7 @@
                 <li><a href="oncology.php">Oncology</a></li>
                 <li><a href="ophthalmology.php">Ophthalmology</a></li>
                 <li><a href="orthopedics.php">Orthopedics</a></li>
-                <li><a href="">Pathology</a></li>
+                <li><a href="pathology.php">Pathology</a></li>
                 <li><a href="">Pediatrics</a></li>
                 <li><a href="">Physiotherapy</a></li>
                 <li><a href="">Plastic Surgery</a></li>
