@@ -52,7 +52,7 @@
                             <ul class="list-items">
                                 <li><a href="anaesthesiology.php">Anaesthesiology</a></li>
                                 <li><a href="ayurvedic-medicine.php">Ayurvedic Medicine</a></li>
-                                <li><a href="">Cardiothoracic Centre</a></li>
+                                <li><a href="cardiothoracic-centre.php">Cardiothoracic Centre</a></li>
                                 <li><a href="">Clinical & Rehabilitation Psychology</a></li>
                                 <li><a href="">Critical Care</a></li>
                                 <li><a href="">Dentistry</a></li>

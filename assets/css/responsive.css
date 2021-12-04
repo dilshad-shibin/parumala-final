@@ -545,6 +545,9 @@
     .inner-content h1{
         font-size: 35px;
     }
+    .second-col{
+        padding-left: 15px;
+    }
 
 }
 

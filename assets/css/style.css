@@ -13,6 +13,7 @@
 12. Doctors View Page CSS
 13. News Details Page CSS
 14. Ayurvedic Medicine CSS 
+15. Cardiothoracic  CSS 
 ***************************************************/
 
 
@@ -97,6 +98,10 @@ a {
 
 .mt-4{
     margin-top: 2rem !important;
+}
+
+.mb-40{
+    margin-bottom: 40px;
 }
 
 /*********************** 
@@ -2589,7 +2594,7 @@ a {
 .hght-points h2{
     color: #fff;
     margin: 25px 0 18px;
-    line-height: 25px;
+    line-height: 40px;
 }
 
 .dept-highlight-gastro{
@@ -3042,4 +3047,23 @@ a {
 .dpt-head2 p{
     margin: 0 auto;
     max-width: 1000px;
+}
+
+/***************************** 
+15. Cardiothoracic  CSS 
+********************************/
+.second-col{
+    padding-left: 50px;
+}
+
+.hght-points p{
+    color: #fff;
+}
+
+.service-col h2{
+    color: #fff;
+}
+
+.service-col p{
+    color: #fff
 }
