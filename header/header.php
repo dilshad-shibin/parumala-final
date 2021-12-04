@@ -41,7 +41,7 @@
                 <li><a href="neuro-surgery.php">Neuro Surgery</a></li>
                 <li><a href="neurology.php">Neurology</a></li>
                 <li><a href="nuclear-medicine.php">Nuclear Medicine</a></li>
-                <li><a href="">Obstetrics and Gynaecology</a></li>
+                <li><a href="obstetrics-and-gynaecology.php">Obstetrics and Gynaecology</a></li>
                 <li><a href="">Oncology</a></li>
                 <li><a href="">Ophthalmology</a></li>
                 <li><a href="">Orthopedics</a></li>
