@@ -74,7 +74,7 @@
                                 <li><a href="neurology.php">Neurology</a></li>
                                 <li><a href="nuclear-medicine.php">Nuclear Medicine</a></li>
                                 <li><a href="obstetrics-and-gynaecology.php">Obstetrics & Gynaecology</a></li>
-                                <li><a href="">Oncology</a></li>
+                                <li><a href="oncology.php">Oncology</a></li>
                                 <li><a href="">Ophthalmology</a></li>
                                 <li><a href="">Orthopedics</a></li>
                                 <li><a href="">Pathology</a></li>
