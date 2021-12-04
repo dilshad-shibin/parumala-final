@@ -548,6 +548,15 @@
     .second-col{
         padding-left: 15px;
     }
+    .bread-text h1.rehabilitation-head{
+        font-size: 30px;
+    }
+    .bread-text h1.rehabilitation-head span{
+        font-size: 22px;
+    }
+    .middle-section h2{
+        font-size: 25px;
+    }
 
 }
 

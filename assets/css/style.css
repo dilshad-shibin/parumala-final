@@ -14,6 +14,7 @@
 13. News Details Page CSS
 14. Ayurvedic Medicine CSS 
 15. Cardiothoracic  CSS 
+16. Clinical and Rehabilitation CSS 
 ***************************************************/
 
 
@@ -3066,4 +3067,31 @@ a {
 
 .service-col p{
     color: #fff
+}
+
+/********************************** 
+16. Clinical and Rehabilitation CSS 
+************************************/
+.bread-text h1.rehabilitation-head{
+    font-size: 40px;
+}
+
+.bread-text h1.rehabilitation-head span{
+    font-size: 35px;
+}
+
+.middle-section{
+    padding: 100px 0;
+}
+
+.middle-section h2{
+    color: #535353;
+    position: relative;
+    font-weight: 700;
+    font-size: 40px;
+    margin-bottom: 50px;
+}
+
+.middle-section p{
+    font-size: 18px;    
 }
