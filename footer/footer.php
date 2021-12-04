@@ -61,7 +61,7 @@
                                 <li><a href="endocrinology.php">Endocrinology</a></li>
                                 <li><a href="ent.php">ENT</a></li>
                                 <li><a href="gastroenterology.php">Gastroenterology</a></li>
-                                <li><a href="">General & Laparoscopic Surgery</a></li>
+                                <li><a href="general-and-laparoscopic-surgery.php">General & Laparoscopic Surgery</a></li>
                                 <li><a href="">General Medicine</a></li>
                                 <li><a href="">Head & Neck Reconstructive Surgery</a></li>
                                 <li><a href="">Microbiology</a></li>
