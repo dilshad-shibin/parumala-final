@@ -46,13 +46,13 @@
                 <li><a href="ophthalmology.php">Ophthalmology</a></li>
                 <li><a href="orthopedics.php">Orthopedics</a></li>
                 <li><a href="pathology.php">Pathology</a></li>
-                <li><a href="">Pediatrics</a></li>
-                <li><a href="">Physiotherapy</a></li>
-                <li><a href="">Plastic Surgery</a></li>
-                <li><a href="">Psychiatry De Addiction and Rehabilitation</a></li>
-                <li><a href="">Pulmonology</a></li>
-                <li><a href="">Radiology</a></li>
-                <li><a href="">Urology</a></li>
+                <li><a href="pediatrics.php">Pediatrics</a></li>
+                <li><a href="physiotherapy.php">Physiotherapy</a></li>
+                <li><a href="plastic-surgery.php">Plastic Surgery</a></li>
+                <li><a href="psychiatry-de-addiction-and-rehabilitation.php">Psychiatry De Addiction and Rehabilitation</a></li>
+                <li><a href="pulmonology.php">Pulmonology</a></li>
+                <li><a href="radiology.php">Radiology</a></li>
+                <li><a href="urology.php">Urology</a></li>
             </ul>
         </li>
         <li class="arrow_sub">
