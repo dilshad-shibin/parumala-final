@@ -65,8 +65,8 @@
                                 <li><a href="general-medicine.php">General Medicine</a></li>
                                 <li><a href="headand-neck-reconstructive-surgery.php">Head & Neck Reconstructive Surgery</a></li>
                                 <li><a href="microbiology.php">Microbiology</a></li>
-                                <li><a href="">Neonatology</a></li>
-                                <li><a href="">Nephrology</a></li>
+                                <li><a href="neonatology.php">Neonatology</a></li>
+                                <li><a href="nephrology.php">Nephrology</a></li>
                             </ul>
 
                             <ul class="list-items list-items2">
