@@ -59,7 +59,7 @@
             <a href="#">Patient and Visitors</a>
             <ul>
                 <li><a href="facilities-services.php">Facilities & Services</a></li>
-                <li><a href="">OP & IP</a></li>
+                <li><a href="op-ip.php">OP & IP</a></li>
                 <li><a href="">Department Location</a></li>
                 <li><a href="">Health Package</a></li>
                 <li><a href="">Appointments</a></li>

@@ -16,6 +16,7 @@
 15. Cardiothoracic  CSS 
 16. Clinical and Rehabilitation CSS 
 17. Facilities and Services CSS 
+18. IP & OP CSS 
 ***************************************************/
 
 
@@ -3163,6 +3164,7 @@ a {
     background-color: #fff;
     transition: all .3s;
     margin-bottom: 30px;
+    min-height: 480px;
 }
 
 .fs-box .fs-img{
@@ -3336,4 +3338,35 @@ a {
     justify-content: center;
     background-color: #ff4e00;
     color: #fff;
+}
+
+/*********************** 
+18. IP & OP CSS 
+************************/
+
+.ip-area{
+    max-width: 1000px;
+    margin: 0 auto;
+}
+
+.ip-area h1{
+    color: #535353;
+    position: relative;
+    font-weight: 700;
+    font-size: 50px;
+    margin-bottom: 50px;
+}
+
+.ip-area h1::before{
+    position: absolute;
+    content: "";
+    height: 5px;
+    border-radius: 10px;
+    width: 50px;
+    text-align: center;
+    bottom: -18px;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    background: linear-gradient( 
+    90deg, rgba(254,90,1,1) 0%, rgba(254,90,1,1) 35%, rgba(254,90,1,1) 35%, rgba(254,90,1,0.6502976190476191) 100%);
 }
