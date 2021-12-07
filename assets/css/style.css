@@ -15,6 +15,7 @@
 14. Ayurvedic Medicine CSS 
 15. Cardiothoracic  CSS 
 16. Clinical and Rehabilitation CSS 
+17. Facilities and Services CSS 
 ***************************************************/
 
 
@@ -3117,4 +3118,127 @@ a {
 .middle-section2 h2{
     margin-bottom: 30px;
     margin-top: 50px;
+}
+
+/********************************** 
+17. Facilities and Services CSS 
+************************************/
+.services-fac-area{
+    padding: 100px 0;
+    background-color: #f7f1eb;
+}
+
+.nav-tabs-custom{
+    border-bottom: none;
+}
+
+.nav-tabs .nav-link.active, 
+.nav-tabs .nav-item.show .nav-link,
+.nav-tabs-custom .nav-link:hover{
+    border: 1px solid #ff4e00;
+    background-color: #ff4e00;
+    color: #fff;
+    transition: all .5s;
+}
+
+.nav-tabs-custom .nav-link{
+    border: 1px solid #ff4e00;
+    margin-right: 10px;
+    border-radius: unset;
+}
+
+.fs-row{
+    margin-top: 50px;
+    margin-bottom: 80px;
+}
+
+.fs-box{
+    position: relative;
+    padding: 30px;
+    text-align: center;
+    background-color: #fff;
+    transition: all .3s;
+    margin-bottom: 30px;
+}
+
+.fs-box .fs-img{
+    margin-bottom: 20px;
+}
+
+.fs-box h4.title{
+    font-size: 24px;
+    margin-bottom: 15px;
+}
+
+.fs-box h4 a{
+    color: #535353;
+    font-size: 22px;
+    text-transform: uppercase;
+    font-weight: 700;
+}
+
+.fs-box p{
+    color: #535353;
+    line-height: 25px;
+    font-size: 16px;
+}
+
+.fs-box .box-link-wrap{
+    position: relative;
+    margin-top: 20px;
+    font-size: 15px;
+    text-align: center;
+    min-height: 45px;
+    overflow: hidden;
+}
+
+.fs-box .box-link-wrap .link-icon{
+    position: absolute;
+    left: 50%;
+    transform: translateX(-50%);
+    top: 0;
+    height: 45px;
+    width: 45px;
+    line-height: 45px;
+    background-color: #499afa1a;
+    border-radius: 50%;
+    transition: all .3s;
+    color: #499afa;
+}
+
+.fs-box .box-link-wrap .box-link{
+    position: absolute;
+    z-index: 2;
+    left: 50%;
+    -webkit-transform: translateX(-50%);
+    -ms-transform: translateX(-50%);
+    transform: translateX(-50%);
+    top: 100%;
+    background-color: #499afa;
+    color: #fff;
+    width: 160px;
+    line-height: 45px;
+    border-radius: 30px;
+    font-size: 15px;
+    font-weight: 600;
+    -webkit-transition: all 0.4s;
+    -o-transition: all 0.4s;
+    transition: all 0.4s;
+    visibility: hidden;
+    opacity: 0;
+}
+
+.fs-box .box-link-wrap .box-link i{
+    margin-left: 5px;
+}
+
+.fs-box:hover .box-link-wrap .box-link {
+    visibility: visible;
+    opacity: 1;
+    top: 0;
+}
+
+.fs-box:hover{
+    box-shadow: 0 4px 8px rgba(0,0,0,0.15);
+    border-radius: 10px;
 }
