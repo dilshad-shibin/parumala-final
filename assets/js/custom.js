@@ -282,6 +282,33 @@
         }
     });
 
+    //Insurance Slider ACTIVE CODE
+    $('.insurance-slider.owl-carousel').owlCarousel({
+        loop: true,
+        margin: 30,
+        nav: false,
+        dots: false, 
+        smartSpeed: 2000,
+        autoplay: true,
+        responsiveClass: true,
+        autoplayTimeout: 4000,
+        responsive: {
+            0: {
+                items: 2
+            },
+            576: {
+                items: 2
+            },
+            768: {
+                items: 4
+            },
+            992: {
+                items: 5
+            }
+        }
+    });
+
+
     
     // :: COUNTERUP ACTIVE CODE
     $('.counter').counterUp({

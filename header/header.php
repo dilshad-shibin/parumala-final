@@ -63,7 +63,7 @@
                 <li><a href="#">Department Location</a></li>
                 <li><a href="health-checkup.php">Health Checkup</a></li>
                 <li><a href="appointment.php">Appointments</a></li>
-                <li><a href="">Insurance</a></li>
+                <li><a href="insurance.php">Insurance</a></li>
             </ul>
         </li>
         <li><a href="contact.php">Contact</a></li>

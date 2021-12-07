@@ -604,6 +604,12 @@
     .section-heading .tagline{
         font-size: 16px;
     }
+    .ins-head h1{
+        font-size: 32px;
+    }
+    .insurance-area{
+        padding-top: 70px;
+    }
 
 }
 
