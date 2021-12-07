@@ -103,7 +103,7 @@
                         <div class="col-lg-4">
                             <div class="mng-details">
                                 <div class="mng-img">
-                                    <img src="assets/img/about/president.jpg" alt="">
+                                    <img src="assets/img/about/new-president.jpg" alt="">
                                 </div>
                                 <div class="mng-text">
                                     <h1>President <span></span></h1>
@@ -132,7 +132,7 @@
                                 </div>
                                 <div class="mng-text">
                                     <h1>Chief Executive Officer <span class="third"></span></h1>
-                                    <h4>Ref.Fr.M.C.Poulose</h4>
+                                    <h4>Fr.M.C.Poulose</h4>
                                 </div>
                             </div>
                         </div>
