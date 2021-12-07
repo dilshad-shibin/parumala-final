@@ -62,7 +62,7 @@
                 <li><a href="op-ip.php">OP & IP</a></li>
                 <li><a href="#">Department Location</a></li>
                 <li><a href="health-checkup.php">Health Checkup</a></li>
-                <li><a href="">Appointments</a></li>
+                <li><a href="appointment.php">Appointments</a></li>
                 <li><a href="">Insurance</a></li>
             </ul>
         </li>

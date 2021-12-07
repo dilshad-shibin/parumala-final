@@ -18,6 +18,7 @@
 17. Facilities and Services CSS 
 18. IP & OP CSS 
 19. Health Checkup CSS 
+20. Appointment CSS 
 ***************************************************/
 
 
@@ -3381,4 +3382,90 @@ a {
 
 .featured-block .inner-box:hover ul li{
     color: #ffffffe0;
+}
+
+/*********************** 
+20. Appointment CSS 
+************************/
+.appointment-area{
+    padding: 100px 0 150px;
+}
+
+.appointment-form-two{
+    position: relative;
+    z-index: 2;
+    background-color: #f3f5f8;
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -ms-flex-wrap: wrap;
+    flex-wrap: wrap;
+    -webkit-box-pack: center;
+    -ms-flex-pack: center;
+    justify-content: center;
+}
+
+.appointment-image{
+    width: 38%;
+    background-size: cover;
+    background-position: top center;
+}
+
+.form-wrap{
+    width: 62%;
+    padding: 125px 70px 95px;
+}
+
+.section-heading{
+    max-width: 90%;
+}
+
+.section-heading .tagline{
+    font-size: 18px;
+    font-weight: 500;
+    color: #ff4e00;
+    line-height: 1.2;
+    margin-bottom: 15px;
+}
+
+.section-heading .title{
+    text-transform: uppercase;
+    font-size: 28px;
+    margin-bottom: 25px;
+    color: #535353;
+    position: relative;
+    font-weight: 700;
+}
+
+.appointment-form-two .input-field{
+    margin-bottom: 30px;
+}
+
+.appointment-form-two input{
+    background-color: #fff;
+    border-radius: 35px;
+    font-size: 18px;
+    font-weight: 500;
+    color: #535353;
+    width: 100%;
+    height: 65px;
+    border: 1px solid transparent;
+    line-height: 1.4;
+    padding: 0 30px;
+    transition: all .3s ease-in-out;
+}
+
+.appointment-form-two .apt-btn{
+    width: 100%;
+    height: 65px;
+    padding: 0 10px;
+    text-align: center;
+    border-radius: 35px;
+    font-size: 17px;
+    font-weight: 600;
+    line-height: 1.2;
+    background-color: #ff4e00;
+    color: #fff;
+    transition: all .3s;
+    border: none;
 }
