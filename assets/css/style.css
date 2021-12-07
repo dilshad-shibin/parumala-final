@@ -17,6 +17,7 @@
 16. Clinical and Rehabilitation CSS 
 17. Facilities and Services CSS 
 18. IP & OP CSS 
+19. Health Checkup CSS 
 ***************************************************/
 
 
@@ -3369,4 +3370,15 @@ a {
     transform: translate(-50%,-50%);
     background: linear-gradient( 
     90deg, rgba(254,90,1,1) 0%, rgba(254,90,1,1) 35%, rgba(254,90,1,1) 35%, rgba(254,90,1,0.6502976190476191) 100%);
+}
+
+/*********************** 
+19. Health Checkup CSS 
+************************/
+.featured-block ul{
+    position: relative;
+}
+
+.featured-block .inner-box:hover ul li{
+    color: #ffffffe0;
 }
