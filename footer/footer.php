@@ -2,7 +2,7 @@
     <div class="container">
         <div class="row emergency-area">
             <div class="col-lg-6 p-0">
-                <a href="">
+                <a href="" data-toggle="modal" data-target="#exampleModal">
                     <div class="appointment-box">
                         <div class="icon"><img src="assets/img/appointment.png" alt=""></div>
                         <div class="text">

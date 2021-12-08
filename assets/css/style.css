@@ -716,8 +716,9 @@ a {
     display: inline-block;
     padding: 10px 30px 12px;
     color: #fff !important;
-    background: #eba24a !important;
+    /* background: #eba24a !important; */
     border-radius: 5px;
+    background: linear-gradient( 90deg, rgba(254,90,1,1) 0%, rgba(254,90,1,1) 35%, rgba(254,90,1,1) 35%, rgba(254,90,1,0.6502976190476191) 100%);
 }
 
 .panel-menu ul li.mb_signbtn a:hover{
@@ -3497,4 +3498,133 @@ a {
 .single-ins:hover a img{
     -webkit-filter: grayscale(0);
     filter: grayscale(0);
+}
+
+/*********************** 
+22. Popup CSS 
+************************/
+.modal{
+    background: rgba(0,0,0,.7);
+}
+
+.modal-padding{
+    padding: 25px;
+}
+
+.modal-title{
+    font-size: 24px;
+}
+
+.modal-header .close{
+    font-size: 51px;
+    position: absolute;
+    top: 0;
+    right: 24px;
+    color: #21212d;
+    margin-top: 0;
+    padding: 0;
+    margin: 0;
+    outline: none;
+}
+
+.modal-header .close img{
+    width: 35px;
+    height: 35px;
+}
+
+.modal-header .close span{
+    color: #21212d;
+}
+
+.submit-area.submit-area-popup{
+    margin-top: 0;
+}
+
+.submit-area-popup button{
+    margin-top: 0;
+    background: #7bc416;
+    border: 1px solid #7bc416;
+}
+
+.submit-area-popup button:hover{
+    background: #527c16;
+    border: 1px solid #527c16;
+}
+
+.modal-aurevoir .form-control{
+    margin-bottom: 25px;
+}
+
+.modal-header{
+    border-bottom: none;
+    text-align: center;
+}
+
+.modal-header h5{
+    font-size: 25px;
+    font-weight: 700;
+    text-transform: uppercase;
+    padding-left: 25px;
+}
+
+.modal-content{
+    overflow: hidden;
+    z-index: 1;
+}
+
+.modal-content::before{
+    position: absolute;
+    content: "";
+    width: 100%;
+    height: 100%;
+    background-color: #ff4e0017;
+    top: -50%;
+    right: -50%;
+    border-radius: 50%;
+}
+
+@media(min-width: 575px){
+    .modal-dialog{
+        margin-top: 150px;
+        max-width: 555px;
+    }
+}
+
+.modal-body .input-field{
+    margin-bottom: 30px;
+}
+
+.modal-body input{
+    background-color: #f9f9f9;
+    border-radius: 35px;
+    font-size: 16px;
+    font-weight: 500;
+    color: #535353;
+    width: 100%;
+    height: 65px;
+    border: 1px solid transparent;
+    line-height: 1.4;
+    padding: 0 30px;
+    transition: all .3s ease-in-out;
+}
+
+.modal-body .apt-btn{
+    width: 100%;
+    height: 65px;
+    padding: 0 10px;
+    text-align: center;
+    border-radius: 35px;
+    font-size: 17px;
+    font-weight: 600;
+    line-height: 1.2;
+    background-color: #ff4e00;
+    color: #fff;
+    transition: all .3s;
+    border: none;
+}
+
+.modal-body .apt-btn:hover{
+    border: 1px solid #ff4e00;
+    background: transparent;
+    color: #ff4e00;
 }

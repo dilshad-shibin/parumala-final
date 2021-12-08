@@ -610,6 +610,23 @@
     .insurance-area{
         padding-top: 70px;
     }
+    .modal-body .apt-btn,
+    .modal-body input{
+        height: 50px;
+        font-size: 15px;
+    }
+    .modal-body .input-field{
+        margin-bottom: 20px;
+    }
+    .modal-dialog{
+        margin-top: 60px;
+    }
+    .modal-header h5 {
+        font-size: 26px;
+        max-width: 200px;
+        margin: 0 auto;
+        padding-left: 0;
+    }
 
 }
 

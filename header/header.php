@@ -67,7 +67,7 @@
             </ul>
         </li>
         <li><a href="contact.php">Contact</a></li>
-        <!-- <li class="mb_signbtn qebtn"><a href="#" class="mobile_btn" data-toggle="modal" data-target="#exampleModal0">Book Now </a></li> -->
+        <li class="mb_signbtn qebtn"><a href="#" class="mobile_btn" data-toggle="modal" data-target="#exampleModal">Appointment Now </a></li>
     </ul>
     <div class="mm-navbtn-names">
         <div class="mm-closebtn">Close</div>
@@ -90,7 +90,7 @@
                                     </div>
                                     <div class="enquiry-top">
                                         <div class="appointment-btn">
-                                            <a href="">Make an Appointment</a>
+                                            <a href="#" data-toggle="modal" data-target="#exampleModal">Make an Appointment</a>
                                         </div>
                                         <div class="emergency-btn">
                                             <div class="icon"><img src="assets/img/phone.png" alt=""></div>
@@ -123,3 +123,69 @@
         </div>
     </div>
 </section>
+
+<!-- popup -->
+<div class="modal fade" id="exampleModal" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
+    <div class="modal-dialog" role="document">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h5 class="modal-title" id="exampleModalLabel">Make an Appointment</h5>
+                <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                    <!-- <span aria-hidden="true">&times;</span> -->
+                    <img src="assets/img/close-icon.png" alt="">
+                </button>
+            </div>
+            <div class="modal-body wpo-contact-form-map modal-padding modal-aurevoir">
+                <form method="post" class="contact-validation-active" id="contact-form" novalidate="novalidate" action="email.php" name="form1">
+                    <!-- <div>
+                        <input placeholder="Check In" name="check_in" class="textbox-n" type="text" onfocus="(this.type='date')" id="date" required>
+                    </div>
+                    <div>
+                        <input placeholder="Check Out" name="check_out" class="textbox-n" type="text" onfocus="(this.type='date')" id="date" required>
+                    </div> -->
+                    <div class="row">
+                        <div class="col-md-6">
+                            <div class="input-field">
+                                <input type="text" placeholder="Your Full Name">
+                            </div>
+                        </div>
+                        <div class="col-md-6">
+                            <div class="input-field">
+                                <input type="text" placeholder="Your Number">
+                            </div>
+                        </div>
+                        <div class="col-12">
+                            <div class="input-field">
+                                <input type="email" placeholder="Your Email Address">
+                            </div>
+                        </div>
+                        <div class="col-12">
+                            <div class="input-field">
+                                <input type="date">
+                            </div>
+                        </div>
+
+                        <div class="col-12">
+                            <div class="input-field">
+                                <button type="button" class="apt-btn">Make an Appointment <i class="fas fa-plus"></i></button>
+                            </div>
+                        </div>
+                    </div>
+
+                    <!-- <div>
+                        <input type="text" class="form-control" name="name" placeholder="Name" required>
+                    </div>
+                    <div>
+                        <input class="form-control" name="phone" placeholder="Phone No." required type="tel" pattern="[0-9]{10}" maxlength="10" oninvalid="this.setCustomValidity('Please Enter 10 Digit Number')" onchange="this.setCustomValidity('')">
+                    </div>
+                    <div class="clearfix">
+                        <input type="email" class="form-control" name="email" placeholder="Email" required>
+                    </div>
+                    <div class="submit-area submit-area-popup">
+                        <button type="submit" class="theme-btn" name="submit" value="submit">Send Message</button>
+                    </div> -->
+                </form>
+            </div>
+        </div>
+    </div>
+</div>
