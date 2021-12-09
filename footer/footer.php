@@ -121,7 +121,7 @@
         <div class="row">
             <div class="col-12">
                 <div class="copy-right">
-                    <p>Copyright &copy; 2021. All rights reserved by <a href=""><img src="assets/img/logo/viralmafia.svg" alt=""></a></p>
+                    <p>Copyright &copy; 2021. All rights reserved. Designed by <a href=""><img src="assets/img/logo/viralmafia.svg" alt=""></a></p>
                 </div>
             </div>
         </div>

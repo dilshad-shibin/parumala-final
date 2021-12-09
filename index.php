@@ -122,7 +122,7 @@
                                     </a>
                                 </div>
                                 <div class="centre-box">
-                                    <a href="">
+                                    <a href="neuroscience.php">
                                         <div class="icon"> 
                                             <img src="assets/img/excelence/png-color/04.png" alt=""  class="hover-none">
                                             <img src="assets/img/excelence/png/04.png" alt="" class="d-none hover-block">
@@ -139,7 +139,7 @@
                             <!-- 1st Single close -->
                             <div class="single-centre">
                                 <div class="centre-box">
-                                    <a href="">
+                                    <a href="institute-of-cardiothoracic-centre.php">
                                         <div class="icon">
                                             <img src="assets/img/excelence/png-color/02.png" alt=""  class="hover-none">
                                             <img src="assets/img/excelence/png/02.png" alt="" class="d-none hover-block">
@@ -153,7 +153,7 @@
                                     </a>
                                 </div>
                                 <div class="centre-box">
-                                    <a href="">
+                                    <a href="orthopaedics-arthroscopic-surgery.php">
                                         <div class="icon">
                                             <img src="assets/img/excelence/png-color/05.png" alt=""  class="hover-none">
                                             <img src="assets/img/excelence/png/05.png" alt="" class="d-none hover-block">                                         
@@ -170,7 +170,7 @@
                             <!-- 2nd Single close -->
                             <div class="single-centre">
                                 <div class="centre-box">
-                                    <a href="">
+                                    <a href="renal-care-centre.php">
                                         <div class="icon">
                                             <img src="assets/img/excelence/png-color/03.png" alt=""  class="hover-none">
                                             <img src="assets/img/excelence/png/03.png" alt="" class="d-none hover-block">                                         
@@ -184,7 +184,7 @@
                                     </a>
                                 </div>
                                 <div class="centre-box">
-                                    <a href="">
+                                    <a href="headand-neck-reconstructive-surgery.php">
                                         <div class="icon">
                                             <img src="assets/img/excelence/png-color/06.png" alt=""  class="hover-none">
                                             <img src="assets/img/excelence/png/06.png" alt="" class="d-none hover-block">                                          
@@ -201,13 +201,13 @@
                             <!-- 3rd Single close -->
                             <div class="single-centre">
                                 <div class="centre-box">
-                                    <a href="#">
+                                    <a href="medical-surgical-gastroenterology.php">
                                         <div class="icon">
-                                            <img src="assets/img/excelence/png-color/01.png" alt="" class="hover-none">
-                                            <img src="assets/img/excelence/png/01.png" alt="" class="d-none hover-block">
+                                            <img src="assets/img/excelence/png-color/07.png" alt="" class="hover-none">
+                                            <img src="assets/img/excelence/png/07.png" alt="" class="d-none hover-block">
                                         </div>
-                                        <div class="head"><h4>Institute of Oncology</h4></div>
-                                        <div class="text"><p>St. Gregorios International Cancer Care Centre (SGICCC) provides multidisciplinary...</p></div>
+                                        <div class="head"><h4>Medical & Surgical Gastroenterology</h4></div>
+                                        <div class="text"><p>The Gastroenterology department in the hospital offers advanced care for comprehensive....</p></div>
                                         <div class="btm-icon">
                                             <img src="assets/img/arrow-right-orange.png" alt="" class="hover-none">
                                             <img src="assets/img/arrow-right-white.png" alt="" class="d-none hover-block">
@@ -215,13 +215,13 @@
                                     </a>
                                 </div>
                                 <div class="centre-box">
-                                    <a href="">
+                                    <a href="critical-care.php">
                                         <div class="icon"> 
-                                            <img src="assets/img/excelence/png-color/04.png" alt=""  class="hover-none">
-                                            <img src="assets/img/excelence/png/04.png" alt="" class="d-none hover-block">
+                                            <img src="assets/img/excelence/png-color/08.png" alt=""  class="hover-none">
+                                            <img src="assets/img/excelence/png/08.png" alt="" class="d-none hover-block">
                                         </div>
-                                        <div class="head"><h4>Neuroscience</h4></div>
-                                        <div class="text"><p>We offer comprehensive state of the art facilities for treatment in the field of Neurological...</p></div>
+                                        <div class="head"><h4>Critical Care</h4></div>
+                                        <div class="text"><p>The Department of Critical Care Medicine provides 24 X 7 comprehensive solution....</p></div>
                                         <div class="btm-icon">
                                             <img src="assets/img/arrow-right-orange.png" alt="" class="hover-none">
                                             <img src="assets/img/arrow-right-white.png" alt="" class="d-none hover-block">
@@ -230,6 +230,37 @@
                                 </div>
                             </div>
                             <!-- 4th Single close -->
+                            <div class="single-centre">
+                                <div class="centre-box">
+                                    <a href="women-health.php">
+                                        <div class="icon">
+                                            <img src="assets/img/excelence/png-color/09.png" alt="" class="hover-none">
+                                            <img src="assets/img/excelence/png/09.png" alt="" class="d-none hover-block">
+                                        </div>
+                                        <div class="head"><h4>Women Health</h4></div>
+                                        <div class="text"><p>With the most advanced facilities of its kind in the region....</p></div>
+                                        <div class="btm-icon">
+                                            <img src="assets/img/arrow-right-orange.png" alt="" class="hover-none">
+                                            <img src="assets/img/arrow-right-white.png" alt="" class="d-none hover-block">
+                                        </div>
+                                    </a>
+                                </div>
+                                <div class="centre-box">
+                                    <a href="child-care.php">
+                                        <div class="icon"> 
+                                            <img src="assets/img/excelence/png-color/10.png" alt=""  class="hover-none">
+                                            <img src="assets/img/excelence/png/10.png" alt="" class="d-none hover-block">
+                                        </div>
+                                        <div class="head"><h4>Child Care</h4></div>
+                                        <div class="text"><p>Children born with disabilities have to be addressed at an early stage to optimize their....</p></div>
+                                        <div class="btm-icon">
+                                            <img src="assets/img/arrow-right-orange.png" alt="" class="hover-none">
+                                            <img src="assets/img/arrow-right-white.png" alt="" class="d-none hover-block">
+                                        </div>
+                                    </a>
+                                </div>
+                            </div>
+                            <!-- 5th close -->
                         </div>
                     </div>
                 </div>    
