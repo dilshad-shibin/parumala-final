@@ -28,22 +28,11 @@
                                                 <h1>Everybody <br> Deserves <span>love</span>, <br> <span>Care</span> & <span>Healing</span></h1>
                                                 <p>Affordable Healthcare For all</p>
                                             </div>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="single-banner">
-                        <div class="banner-bg banner-bg1">
-                            <div class="banner-overlay"></div>
-                            <div class="container">
-                                <div class="row">
-                                    <div class="col-md-12">
-                                        <div class="banner-ct">
-                                            <div class="banner-head">
-                                                <h1>Everybody <br> Deserves love <br> Care & Healing</h1>
-                                                <p>Affordable Healthcare For all</p>
+                                            <div class="banner-search">
+                                                <form action="">
+                                                    <input type="search" name="" id="" placeholder="Search Your Departments">
+                                                    <button type="submit">Search</button>
+                                                </form>
                                             </div>
                                         </div>
                                     </div>
@@ -59,8 +48,37 @@
                                     <div class="col-md-12">
                                         <div class="banner-ct">
                                             <div class="banner-head">
-                                                <h1>Everybody <br> Deserves love <br> Care & Healing</h1>
+                                                <h1>Everybody <br> Deserves <span>love</span> <br> <span>Care</span> & <span>Healing</span></h1>
                                                 <p>Affordable Healthcare For all</p>
+                                            </div>
+                                            <div class="banner-search">
+                                                <form action="">
+                                                    <input type="search" name="" id="" placeholder="Search Your Departments">
+                                                    <button type="submit">Search</button>
+                                                </form>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="single-banner">
+                        <div class="banner-bg banner-bg1">
+                            <div class="banner-overlay"></div>
+                            <div class="container">
+                                <div class="row">
+                                    <div class="col-md-12">
+                                        <div class="banner-ct">
+                                            <div class="banner-head">
+                                                <h1>Everybody <br> Deserves <span>love</span> <br> <span>Care</span> & <span>Healing</span></h1>
+                                                <p>Affordable Healthcare For all</p>
+                                            </div>
+                                            <div class="banner-search">
+                                                <form action="">
+                                                    <input type="search" name="" id="" placeholder="Search Your Departments">
+                                                    <button type="submit">Search</button>
+                                                </form>
                                             </div>
                                         </div>
                                     </div>

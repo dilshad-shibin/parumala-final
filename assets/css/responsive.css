@@ -185,7 +185,7 @@
     }
     .banner-slider .owl-nav{
         left: 23%;
-        bottom: 70px;
+        bottom: 5px;
     }
     .centres-listing .single-centre .centre-box{
         min-height: 350px;
@@ -285,7 +285,7 @@
         height: 370px;
     }
     .banner-slider .owl-nav{
-        bottom: 20px;
+        bottom: -5px;
     }
     .banner-slider .owl-nav button{
         width: 40px;
@@ -626,6 +626,20 @@
         max-width: 200px;
         margin: 0 auto;
         padding-left: 0;
+    }
+    .banner-search {
+        margin-top: -15px;
+    }
+    .banner-search form{
+        width: 325px;
+    }
+    .banner-search form input{
+        height: 40px;
+        font-size: 14px;
+    }
+    .banner-search form button{
+        font-size: 15px;
+        height: 40px;
     }
 
 }
