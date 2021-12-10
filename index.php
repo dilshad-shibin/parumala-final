@@ -345,7 +345,7 @@
                     </div>
                     <div class="row">
                         <div class="col-12">
-                            <div class="speciality-slider owl-carousel">
+                            <div class="speciality-slider owl-carousel d-none-575">
 
                                 <div class="single-speciality">
 
@@ -829,6 +829,477 @@
 
                             </div>
                             <!-- owl Carousel End -->
+                            
+                            <!-- Mobile view Carousel -->
+                            <div class="speciality-slider2 owl-carousel d-block-575">
+                                <div class="single-speciality">
+                                    <div class="main-box">
+                                        <div class="speciality-box">
+                                            <a href="anaesthesiology.php">
+                                                <div class="icon">
+                                                    <img src="assets/img/specialities/anasthesia.png" alt="">
+                                                </div>
+                                                <div class="name">
+                                                    <h3>Anaesthesiology</h3>
+                                                </div>
+                                                <div class="spc-bx-hover">
+                                                    <p>As its name implies the Ayurveda department has been established in the St. Gregorios Medical Mission Hospital, Parumala in 2016 January...</p>
+                                                </div>
+                                            </a>
+                                        </div>
+                                        <div class="speciality-box">
+                                            <a href="dentistry.php">
+                                                <div class="icon">
+                                                    <img src="assets/img/specialities/dentistry.png" alt="">
+                                                </div>
+                                                <div class="name">
+                                                    <h3>Dentistry</h3>
+                                                </div>
+                                                <div class="spc-bx-hover">
+                                                    <p>As its name implies the Ayurveda department has been established in the St. Gregorios Medical Mission Hospital, Parumala in 2016 January...</p>
+                                                </div>
+                                            </a>
+                                        </div>
+                                    </div>
+                                    <div class="main-box">
+                                        <div class="speciality-box">
+                                            <a href="ayurvedic-medicine.php">
+                                                <div class="icon">
+                                                    <img src="assets/img/specialities/ayurvedic.png" alt="">
+                                                </div>
+                                                <div class="name">
+                                                    <h3>Ayurvedic Medicine</h3>
+                                                </div>
+                                                <div class="spc-bx-hover">
+                                                    <p>As its name implies the Ayurveda department has been established in the St. Gregorios Medical Mission Hospital, Parumala in 2016 January...</p>
+                                                </div>
+                                            </a>
+                                        </div>
+                                        <div class="speciality-box">
+                                            <a href="dermatology.php">
+                                                <div class="icon">
+                                                    <img src="assets/img/specialities/dermatology.png" alt="">
+                                                </div>
+                                                <div class="name">
+                                                    <h3>Dermatology</h3>
+                                                </div>
+                                                <div class="spc-bx-hover">
+                                                    <p>As its name implies the Ayurveda department has been established in the St. Gregorios Medical Mission Hospital, Parumala in 2016 January...</p>
+                                                </div>
+                                            </a>
+                                        </div>
+                                    </div>
+                                </div><!-- item 1 -->
+                                <div class="single-speciality">
+                                    <div class="main-box">
+                                        <div class="speciality-box">
+                                            <a href="cardiothoracic-centre.php">
+                                                <div class="icon">
+                                                    <img src="assets/img/specialities/cardio.png" alt="">
+                                               </div>
+                                               <div class="name">
+                                                   <h3>Cardiothoracic Centre</h3>
+                                               </div>
+                                               <div class="spc-bx-hover">
+                                                <p>As its name implies the Ayurveda department has been established in the St. Gregorios Medical Mission Hospital, Parumala in 2016 January...</p>
+                                            </div>
+                                            </a>
+                                        </div>
+                                        <div class="speciality-box">
+                                            <a href="emergency-medicine.php">
+                                                <div class="icon">
+                                                    <img src="assets/img/specialities/emergency.png" alt="">
+                                                </div>
+                                                <div class="name">
+                                                    <h3>Emergency Medicine</h3>
+                                                </div>
+                                                <div class="spc-bx-hover">
+                                                    <p>As its name implies the Ayurveda department has been established in the St. Gregorios Medical Mission Hospital, Parumala in 2016 January...</p>
+                                                </div>
+                                            </a>
+                                        </div>
+                                    </div>
+                                    <div class="main-box">
+                                        <div class="speciality-box">
+                                            <a href="clinical-and-rehabilitation-psychology.php">
+                                                <div class="icon">
+                                                    <img src="assets/img/specialities/rahabilitation.png" alt="">
+                                                </div>
+                                                <div class="name">
+                                                    <h3>Clinical & Rehabilitation Psychology</h3>
+                                                </div>
+                                                <div class="spc-bx-hover">
+                                                    <p>As its name implies the Ayurveda department has been established in the St. Gregorios Medical Mission Hospital, Parumala in 2016 January...</p>
+                                                </div>
+                                            </a>
+                                        </div>
+                                        <div class="speciality-box">
+                                            <a href="endocrinology.php">
+                                                <div class="icon">
+                                                    <img src="assets/img/specialities/endo.png" alt="">
+                                                </div>
+                                                <div class="name">
+                                                    <h3>Endocrinology</h3>
+                                                </div>
+                                                <div class="spc-bx-hover">
+                                                    <p>As its name implies the Ayurveda department has been established in the St. Gregorios Medical Mission Hospital, Parumala in 2016 January...</p>
+                                                </div>
+                                            </a>
+                                        </div>
+                                    </div>
+                                </div><!-- item 2 -->
+                                <div class="single-speciality">
+                                    <div class="main-box">
+                                        <div class="speciality-box">
+                                            <a href="critical-care.php">
+                                                <div class="icon">
+                                                    <img src="assets/img/specialities/critical.png" alt="">
+                                                </div>
+                                                <div class="name">
+                                                    <h3>Critical Care</h3>
+                                                </div>
+                                                <div class="spc-bx-hover">
+                                                    <p>As its name implies the Ayurveda department has been established in the St. Gregorios Medical Mission Hospital, Parumala in 2016 January...</p>
+                                                </div>
+                                            </a>
+                                        </div>
+                                        <div class="speciality-box">
+                                            <a href="general-medicine.php">
+                                                <div class="icon">
+                                                    <img src="assets/img/specialities/general.png" alt="">
+                                                </div>
+                                                <div class="name">
+                                                    <h3>General Medicine</h3>
+                                                </div>
+                                                <div class="spc-bx-hover">
+                                                    <p>As its name implies the Ayurveda department has been established in the St. Gregorios Medical Mission Hospital, Parumala in 2016 January...</p>
+                                                </div>
+                                            </a>
+                                        </div>
+                                    </div>
+                                    <div class="main-box">
+                                        <div class="speciality-box">
+                                            <a href="ent.php">
+                                                <div class="icon">
+                                                    <img src="assets/img/specialities/ent.png" alt="">
+                                                </div>
+                                                <div class="name">
+                                                    <h3>ENT</h3>
+                                                </div>
+                                                <div class="spc-bx-hover">
+                                                    <p>As its name implies the Ayurveda department has been established in the St. Gregorios Medical Mission Hospital, Parumala in 2016 January...</p>
+                                                </div>
+                                            </a>
+                                        </div>
+                                        <div class="speciality-box">
+                                            <a href="gastroenterology.php">
+                                                <div class="icon">
+                                                    <img src="assets/img/specialities/gastro.png" alt="">
+                                                </div>
+                                                <div class="name">
+                                                    <h3>Gastroenterology</h3>
+                                                </div>
+                                                <div class="spc-bx-hover">
+                                                    <p>As its name implies the Ayurveda department has been established in the St. Gregorios Medical Mission Hospital, Parumala in 2016 January...</p>
+                                                </div>
+                                            </a>
+                                        </div>
+                                    </div>
+                                </div><!-- item 3 -->
+                                <div class="single-speciality">
+                                    <div class="main-box">
+                                        <div class="speciality-box">
+                                            <a href="general-and-laparoscopic-surgery.php">
+                                                <div class="icon">
+                                                    <img src="assets/img/specialities/laparoscopic.png" alt="">
+                                                </div>
+                                                <div class="name">
+                                                    <h3>General and Laparoscopic Surgery</h3>
+                                                </div>
+                                                <div class="spc-bx-hover">
+                                                    <p>As its name implies the Ayurveda department has been established in the St. Gregorios Medical Mission Hospital, Parumala in 2016 January...</p>
+                                                </div>
+                                            </a>
+                                        </div>
+                                        <div class="speciality-box">
+                                            <a href="head-neck-reconstructive-surgery.php">
+                                                <div class="icon">
+                                                    <img src="assets/img/specialities/head.png" alt="">
+                                                </div>
+                                                <div class="name">
+                                                    <h3>Head and Neck Reconstructive Surgery</h3>
+                                                </div>
+                                                <div class="spc-bx-hover">
+                                                    <p>As its name implies the Ayurveda department has been established in the St. Gregorios Medical Mission Hospital, Parumala in 2016 January...</p>
+                                                </div>
+                                            </a>
+                                        </div>
+                                    </div>
+                                    <div class="main-box">
+                                        <div class="speciality-box">
+                                            <a href="microbiology.php">
+                                                <div class="icon">
+                                                    <img src="assets/img/specialities/microbiology.png" alt="">
+                                               </div>
+                                               <div class="name">
+                                                   <h3>Microbiology</h3>
+                                               </div>
+                                               <div class="spc-bx-hover">
+                                                <p>As its name implies the Ayurveda department has been established in the St. Gregorios Medical Mission Hospital, Parumala in 2016 January...</p>
+                                            </div>
+                                            </a>
+                                        </div>
+                                        <div class="speciality-box">
+                                            <a href="neonatology.php">
+                                                <div class="icon">
+                                                    <img src="assets/img/specialities/neonatology.png" alt="">
+                                                </div>
+                                                <div class="name">
+                                                    <h3>Neonatology</h3>
+                                                </div>
+                                                <div class="spc-bx-hover">
+                                                    <p>As its name implies the Ayurveda department has been established in the St. Gregorios Medical Mission Hospital, Parumala in 2016 January...</p>
+                                                </div>
+                                            </a>
+                                        </div>
+                                    </div>
+                                </div><!-- item 4 -->
+                                <div class="single-speciality">
+                                    <div class="main-box">
+                                        <div class="speciality-box">
+                                            <a href="nephrology.php">
+                                                <div class="icon">
+                                                    <img src="assets/img/specialities/nephrology.png" alt="">
+                                                </div>
+                                                <div class="name">
+                                                    <h3>Nephrology</h3>
+                                                </div>
+                                                <div class="spc-bx-hover">
+                                                    <p>As its name implies the Ayurveda department has been established in the St. Gregorios Medical Mission Hospital, Parumala in 2016 January...</p>
+                                                </div>
+                                            </a>
+                                        </div>
+                                        <div class="speciality-box">
+                                            <a href="neuro-surgery.php">
+                                                <div class="icon">
+                                                    <img src="assets/img/specialities/neuro.png" alt="">
+                                                </div>
+                                                <div class="name">
+                                                    <h3>Neuro Surgery</h3>
+                                                </div>
+                                                <div class="spc-bx-hover">
+                                                    <p>As its name implies the Ayurveda department has been established in the St. Gregorios Medical Mission Hospital, Parumala in 2016 January...</p>
+                                                </div>
+                                            </a>
+                                        </div>
+                                    </div>
+                                    <div class="main-box">
+                                        <div class="speciality-box">
+                                            <a href="neurology.php">
+                                                <div class="icon">
+                                                    <img src="assets/img/specialities/neurology.png" alt="">
+                                                </div>
+                                                <div class="name">
+                                                    <h3>Neurology</h3>
+                                                </div>
+                                                <div class="spc-bx-hover">
+                                                    <p>As its name implies the Ayurveda department has been established in the St. Gregorios Medical Mission Hospital, Parumala in 2016 January...</p>
+                                                </div>
+                                            </a>
+                                        </div>
+                                        <div class="speciality-box">
+                                            <a href="nuclear-medicine.php">
+                                                <div class="icon">
+                                                    <img src="assets/img/specialities/nuclear-medicine.png" alt="">
+                                                </div>
+                                                <div class="name">
+                                                    <h3>Nuclear Medicine</h3>
+                                                </div>
+                                                <div class="spc-bx-hover">
+                                                    <p>As its name implies the Ayurveda department has been established in the St. Gregorios Medical Mission Hospital, Parumala in 2016 January...</p>
+                                                </div>
+                                            </a>
+                                        </div>
+                                    </div>
+                                </div><!-- item 5 -->
+                                <div class="single-speciality">
+                                    <div class="main-box">
+                                        <div class="speciality-box">
+                                            <a href="obstetrics-and-gynaecology.php">
+                                                <div class="icon">
+                                                    <img src="assets/img/specialities/gynaecology.png" alt="">
+                                                </div>
+                                                <div class="name">
+                                                    <h3>Obstetrics and Gynaecology</h3>
+                                                </div>
+                                                <div class="spc-bx-hover">
+                                                    <p>As its name implies the Ayurveda department has been established in the St. Gregorios Medical Mission Hospital, Parumala in 2016 January...</p>
+                                                </div>
+                                            </a>
+                                        </div>
+                                        <div class="speciality-box">
+                                            <a href="oncology.php">
+                                                <div class="icon">
+                                                    <img src="assets/img/specialities/oncology.png" alt="">
+                                                </div>
+                                                <div class="name">
+                                                    <h3>Oncology</h3>
+                                                </div>
+                                                <div class="spc-bx-hover">
+                                                    <p>As its name implies the Ayurveda department has been established in the St. Gregorios Medical Mission Hospital, Parumala in 2016 January...</p>
+                                                </div>
+                                            </a>
+                                        </div>
+                                    </div>
+                                    <div class="main-box">
+                                        <div class="speciality-box">
+                                            <a href="ophthalmology.php">
+                                                <div class="icon">
+                                                    <img src="assets/img/specialities/opthalmology.png" alt="">
+                                                </div>
+                                                <div class="name">
+                                                    <h3>Ophthalmology</h3>
+                                                </div>
+                                                <div class="spc-bx-hover">
+                                                    <p>As its name implies the Ayurveda department has been established in the St. Gregorios Medical Mission Hospital, Parumala in 2016 January...</p>
+                                                </div>
+                                            </a>
+                                        </div>
+                                        <div class="speciality-box">
+                                            <a href="orthopedics.php">
+                                                <div class="icon">
+                                                    <img src="assets/img/specialities/orthopedics.png" alt="">
+                                                </div>
+                                                <div class="name">
+                                                    <h3>Orthopedics</h3>
+                                                </div>
+                                                <div class="spc-bx-hover">
+                                                    <p>As its name implies the Ayurveda department has been established in the St. Gregorios Medical Mission Hospital, Parumala in 2016 January...</p>
+                                                </div>
+                                            </a>
+                                        </div>
+                                    </div>
+                                </div><!-- item 6 -->
+                                <div class="single-speciality">
+                                    <div class="main-box">
+                                        <div class="speciality-box">
+                                            <a href="pathology.php">
+                                                <div class="icon">
+                                                    <img src="assets/img/specialities/pathologuy.png" alt="">
+                                               </div>
+                                               <div class="name">
+                                                   <h3>Pathology</h3>
+                                               </div>
+                                               <div class="spc-bx-hover">
+                                                <p>As its name implies the Ayurveda department has been established in the St. Gregorios Medical Mission Hospital, Parumala in 2016 January...</p>
+                                            </div>
+                                            </a>
+                                        </div>
+                                        <div class="speciality-box">
+                                            <a href="pediatrics.php">
+                                                <div class="icon">
+                                                    <img src="assets/img/specialities/pediatrics.png" alt="">
+                                                </div>
+                                                <div class="name">
+                                                    <h3>Pediatrics</h3>
+                                                </div>
+                                                <div class="spc-bx-hover">
+                                                    <p>As its name implies the Ayurveda department has been established in the St. Gregorios Medical Mission Hospital, Parumala in 2016 January...</p>
+                                                </div>
+                                            </a>
+                                        </div>
+                                    </div>
+                                    <div class="main-box">
+                                        <div class="speciality-box">
+                                            <a href="physiotherapy.php">
+                                                <div class="icon">
+                                                    <img src="assets/img/specialities/physiotherapy.png" alt="">
+                                                </div>
+                                                <div class="name">
+                                                    <h3>Physiotherapy</h3>
+                                                </div>
+                                                <div class="spc-bx-hover">
+                                                    <p>As its name implies the Ayurveda department has been established in the St. Gregorios Medical Mission Hospital, Parumala in 2016 January...</p>
+                                                </div>
+                                            </a>
+                                        </div>
+                                        <div class="speciality-box">
+                                            <a href="plastic-surgery.php">
+                                                <div class="icon">
+                                                    <img src="assets/img/specialities/plastic-surgery.png" alt="">
+                                                </div>
+                                                <div class="name">
+                                                    <h3>Plastic Surgery</h3>
+                                                </div>
+                                                <div class="spc-bx-hover">
+                                                    <p>As its name implies the Ayurveda department has been established in the St. Gregorios Medical Mission Hospital, Parumala in 2016 January...</p>
+                                                </div>
+                                            </a>
+                                        </div>
+                                    </div>
+                                </div><!-- item 7 -->
+                                <div class="single-speciality">
+                                    <div class="main-box">
+                                        <div class="speciality-box">
+                                            <a href="psychiatry-de-addiction-and-rehabilitation.php">
+                                                <div class="icon">
+                                                    <img src="assets/img/specialities/psychiatry.png" alt="">
+                                                </div>
+                                                <div class="name">
+                                                    <h3>Psychiatry De Addiction and Rehabilitation</h3>
+                                                </div>
+                                                <div class="spc-bx-hover">
+                                                    <p>As its name implies the Ayurveda department has been established in the St. Gregorios Medical Mission Hospital, Parumala in 2016 January...</p>
+                                                </div>
+                                            </a>
+                                        </div>
+                                        <div class="speciality-box">
+                                            <a href="pulmonology.php">
+                                                <div class="icon">
+                                                    <img src="assets/img/specialities/pulmonology.png" alt="">
+                                                </div>
+                                                <div class="name">
+                                                    <h3>Pulmonology</h3>
+                                                </div>
+                                                <div class="spc-bx-hover">
+                                                    <p>As its name implies the Ayurveda department has been established in the St. Gregorios Medical Mission Hospital, Parumala in 2016 January...</p>
+                                                </div>
+                                            </a>
+                                        </div>
+                                    </div>
+                                    <div class="main-box">
+                                        <div class="speciality-box">
+                                            <a href="radiology.php">
+                                                <div class="icon">
+                                                    <img src="assets/img/specialities/radiology.png" alt="">
+                                                </div>
+                                                <div class="name">
+                                                    <h3>Radiology</h3>
+                                                </div>
+                                                <div class="spc-bx-hover">
+                                                    <p>As its name implies the Ayurveda department has been established in the St. Gregorios Medical Mission Hospital, Parumala in 2016 January...</p>
+                                                </div>
+                                            </a>
+                                        </div>
+                                        <div class="speciality-box">
+                                            <a href="urology.php">
+                                                <div class="icon">
+                                                    <img src="assets/img/specialities/urology.png" alt="">
+                                                </div>
+                                                <div class="name">
+                                                    <h3>Urology</h3>
+                                                </div>
+                                                <div class="spc-bx-hover">
+                                                    <p>As its name implies the Ayurveda department has been established in the St. Gregorios Medical Mission Hospital, Parumala in 2016 January...</p>
+                                                </div>
+                                            </a>
+                                        </div>
+                                    </div>
+                                </div><!-- item 8 -->
+
+
+                            </div><!-- close mobile view carousel  -->
+
                         </div>
                     </div>
                 </div>

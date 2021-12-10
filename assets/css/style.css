@@ -113,6 +113,24 @@ a {
     margin-top: 40px;
 }
 
+@media(max-width: 575px){
+    .d-none-575{
+        display: none !important;
+    }
+}
+
+@media(max-width: 575px){
+    .d-block-575{
+        display: block !important;
+    }
+}
+
+@media(min-width: 576px){
+    .d-block-575{
+        display: none !important;
+    }
+}
+
 /*********************** 
 01. HOME PAGE CSS 
 ************************/
@@ -1266,6 +1284,35 @@ a {
 .speciality-slider .owl-dots button:hover{
     background: #ff7a08;
     box-shadow: 0 2px 4px rgb(255 122 8);
+}
+
+.speciality-slider2 .owl-nav{
+    position: relative;
+    top: 25px;
+}
+
+.speciality-slider2 .owl-nav button{
+    width: 55px;
+    height: 55px;
+    border: 1px solid #c0b4a4 !important;
+    transition: all .3s ease;
+    margin-right: 10px;
+    outline: none !important;
+}
+
+.speciality-slider2 .owl-nav button span{
+    font-size: 40px;
+    line-height: 40px;
+    color: #c0b4a4;
+}
+
+.speciality-slider2 .owl-nav [class*=owl-]:hover {
+    background: rgb(254,90,1);
+    border: 1px solid rgb(254,90,1) !important;
+}
+
+.speciality-slider2 .owl-nav [class*=owl-]:hover span{
+    color: #fff;
 }
 
 .spc-bx-hover{
@@ -3684,4 +3731,54 @@ a {
     border: 1px solid #ff4e00;
     background: transparent;
     color: #ff4e00;
+}
+
+/* Panel Menu modified */
+.panel-menu{
+    background: rgba(254,90,1,1);
+}
+
+.panel-menu li.mm-close-parent .mm-close{
+    color: #fff;
+}
+
+.panel-menu #mm0.mmpanel a:not(.mm-close){
+    color: #fff;
+}
+
+.panel-menu li.mm-close-parent .mm-close:before{
+    color: #fff;
+}
+
+.panel-menu ul li.mb_signbtn a{
+    background: #004a9b !important;
+}
+
+.panel-menu ul li a:hover{
+    color: #333 !important;
+}
+
+.panel-menu .mm-next-level:after{
+    color: #fff;
+}
+
+.panel-menu ul li a{
+    color: #fff;
+}
+
+.panel-menu .mm-close, .panel-menu .mm-prev-level, .panel-menu .mm-original-link{
+    color: #fff;
+}
+
+.panel-menu .mm-original-link{
+    opacity: 0.6;
+}
+
+.panel-menu .mm-prev-level:before{
+    color: #fff;
+}
+
+.panel-menu .mmpanel:not(#mm0) a:not(.mm-original-link),
+.panel-menu #mm0.mmpanel a:not(.mm-close){
+    font-weight: 600;
 }

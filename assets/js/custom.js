@@ -124,6 +124,32 @@
         }
     });
 
+    //Speciality Slider ACTIVE CODE
+    $('.speciality-slider2.owl-carousel').owlCarousel({
+        loop: true,
+        margin: 10,
+        nav: true,
+        dots: false, 
+        smartSpeed: 2000,
+        autoplay: false,
+        responsiveClass: true,
+        autoplayTimeout: 4000,
+        responsive: {
+            0: {
+                items: 1
+            },
+            576: {
+                items: 1
+            },
+            768: {
+                items: 1
+            },
+            992: {
+                items: 1
+            }
+        }
+    });
+
     //Doctor Slider ACTIVE CODE
     $('.team-slider.owl-carousel').owlCarousel({
         loop: true,

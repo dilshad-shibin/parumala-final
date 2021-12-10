@@ -365,6 +365,7 @@
     }
     .spc-bx-hover p{
         font-size: 12px;
+        line-height: 18px;
     }
     .service-img img{
         width: 350px;
@@ -640,6 +641,23 @@
     .banner-search form button{
         font-size: 13px;
         height: 40px;
+    }
+    .banner-head{
+        margin-top: 60px;
+    }
+    .speciality-box{
+        min-height: auto;
+    }
+    .speciality-box .icon img{
+        max-width: 50px;
+        height: 40px;
+    }
+    .speciality-box{
+        padding: 40px 6px;
+        min-height: 188px;
+    }
+    .speciality-area{
+        padding: 70px 0 100px;
     }
 
 }
