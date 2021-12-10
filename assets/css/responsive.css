@@ -631,14 +631,14 @@
         margin-top: -15px;
     }
     .banner-search form{
-        width: 325px;
+        width: 280px;
     }
     .banner-search form input{
         height: 40px;
-        font-size: 14px;
+        font-size: 12px;
     }
     .banner-search form button{
-        font-size: 15px;
+        font-size: 13px;
         height: 40px;
     }
 
