@@ -57,7 +57,7 @@
                         <div class="col-12 text-center">
                             <div class="dpt-head">
                                 <h2>Our Departments</h2>
-                                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Molestias enim tenetur sit quas quaerat voluptatum voluptate explicabo perspiciatis culpa corrupti, et deserunt maxime dolor animi</p>
+                                <p>Depending upon the nature, stage, and location of the tumor, we have different oncologists offering their services in cancer treatment. Following are our departments, which treat cancer through different procedures.</p>
                             </div>
                         </div>
                     </div>

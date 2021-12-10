@@ -42,7 +42,7 @@
                     <div class="row">
                         <div class="col-12 mt-3 text-center">
                             <div class="oncology-para">
-                                <p>We have ten bedded Neo Natal intensive Care unit (NICU) has the sophisticated Drager Baby log 8000 plus ventilator, double surface phototherapy units and infant warmers. There is centralized O2 and suction for every bed, in addition to 8 blue light and LED phototherapy units. The NICU is equipped with staff trained for neonatal resuscitation and new born care.</p>
+                                <p>We have ten bedded Neo Natal intensive Care unit (NICU) which has the sophisticated Drager Baby log 8000 plus ventilator, double surface phototherapy units and infant warmers. There is centralized O2 and suction for every bed, in addition to 8 blue light and LED phototherapy units. The NICU is equipped with staff trained for neonatal resuscitation and new born care.</p>
                             </div>
                         </div>
                     </div>

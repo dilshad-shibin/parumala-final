@@ -42,7 +42,7 @@
                     <div class="row">
                         <div class="col-12 mt-3 text-center">
                             <div class="oncology-para">
-                                <p>The department is committed to provide patients with comprehensive and superior dental carewith most advanced technologies in Dentistry and does a wide range of cosmetic and restorative procedures. :</p>
+                                <p>The department is committed to provide patients with comprehensive and superior dental care with most advanced technologies in Dentistry and does a wide range of cosmetic and restorative procedures</p>
                                 <p>Facilities provided: All dental procedures including</p>
                                 <ul class="hght-points hght-points-color">
                                     <li>Root canal treatment</li>

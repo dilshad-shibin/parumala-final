@@ -39,10 +39,9 @@
                                     <h1>The Genesis</h1>
                                 </div>
                                 <div class="text">
-                                    <p>St. Gregorios Medical Mission Hospital was inaugurated on the 11th of September 1975 with just 50 beds and 3 departments. The Hospital grew to the status of a Multi-Specialty Hospital with 197 beds and most modern facilities over forty-fiveyears.</p>
+                                    <p>St. Gregorios Medical Mission Hospital was inaugurated on the 11th of September 1975 with just 50 beds and 3 departments. The Hospital grew to the status of a Multi-Specialty Hospital with 197 beds and most modern facilities over forty-five years.</p>
 
-                                    <p>The Hospital is owned and controlled by a Charitable Society of the Indian (Malankara) Orthodox Syrian Church, registered under the Travancore-Cochin Literacy, Scientific and Charitable Act with Reg No. A334/78. The President of the Society is the Head of the Malankara Orthodox Church, His Holiness Baselios Marthoma Paulose II, the Catholicose of the Apostolic Throne of St. Thomas and the Vice-President of the Society is His Grace Dr. Yuhanan Mar Chrisostomos, Metropolitan of the Niranam Diocese of the Church. The day-to-day affairs of the Hospital is managed by the 
-                                        “St. Gregorios Medical Mission Managing Committee” formed under the Constitution of the Society.</p>
+                                    <p>The Hospital is owned and controlled by a Charitable Society of the Indian (Malankara) Orthodox Syrian Church, registered under the Travancore-Cochin Literacy, Scientific and Charitable Act with Reg No. A334/78. The President of the Society is the Head of the Malankara Orthodox Church, His Holiness Baselios Marthoma Paulose II, the Catholicos of the Apostolic Throne of St. Thomas and the Vice-President of the Society is His Grace Dr. Yuhanon Mar Chrisostomos, Metropolitan of the Niranam Diocese of the Church. The day-to-day affairs of the Hospital is managed by the “St. Gregorios Medical Mission Managing Committee” formed under the Constitution of the Society.</p>
                                 </div>
                             </div>
                         </div>
@@ -79,7 +78,7 @@
                             <div class="location-content">
                                 <h2>Location</h2>
                                 <p>The hospital is located at Parumala, in the vicinity of Parumala Church, which is sanctified by the presence of the tomb of Saint Mar Gregorios Thirumeni, where people from all walks of life throng for solace.</p>
-                                <p>arumala is a small picturesque island surrounded by the tributaries of the Pampa River. It is equidistant from Thiruvalla, Chengannur, Karthikapally and Mavelikkara towns. The place is easily accessible by road, rail and waterways. Thiruvalla, Chengannur, Mavelikkara and Haripad are the nearest railway stations.</p>                                    
+                                <p>Parumala is a small picturesque island surrounded by the tributaries of the Pampa River. It is equidistant from Thiruvalla, Chengannur, Karthikapally and Mavelikkara towns. The place is easily accessible by road, rail and waterways. Thiruvalla, Chengannur, Mavelikkara and Haripad are the nearest railway stations.</p>
                                 <p>Set in this beautiful and serene location, the St. Gregorios Medical Mission Hospital,the St Gregorios International Cancer Care Centre, St.Gregorios International Cardiothoracic Center and Research Institute and the Multi-Specialty Hospital offer best-in-class medical treatment through its various departments.</p>
                             </div>
                         </div>
@@ -94,8 +93,7 @@
                         <div class="col-12 text-center">
                             <div class="mng-head">
                                 <h2>Management & Administration</h2>
-                                <p>St. Gregorios Medical Mission Hospital is owned and controlled by a Charitable Society of Malankara Orthodox Syrian Church, the Head of which is His Holiness Baselius Marthoma Paulose II, the Catholicose of the Apostolic throne of St. Thomas and the Head of Malankara Orthodox Church and managed through a committee called "St. Gregorios Medical Mission Managing Committee" 
-                                constituted as provided in the constitution and memorandum of Charitable Society</p>
+                                <p>St. Gregorios Medical Mission Hospital is owned and controlled by a Charitable Society of Malankara Orthodox Syrian Church, the Head of which is His Holiness Baselius Marthoma Paulose II, the Catholicos of the Apostolic throne of St. Thomas and the Head of Malankara Orthodox Church and managed through a committee called "St. Gregorios Medical Mission Managing Committee" constituted as provided in the constitution and memorandum of Charitable Society</p>
                             </div>
                         </div>
                     </div>
@@ -108,8 +106,7 @@
                                 <div class="mng-text">
                                     <h1>President <span></span></h1>
                                     <h4>His Holiness Baselios Marthoma Paulose II</h4>
-                                    <p>Catholicos of the East and Malankara 
-                                        Metropolitan</p>
+                                    <p>Catholicos of the East and Malankara Metropolitan</p>
                                 </div>
                             </div>
                         </div>
@@ -120,8 +117,7 @@
                                 </div>
                                 <div class="mng-text">
                                     <h1>Vice President <span></span></h1>
-                                    <h4>H.G. Dr. Youhanon Mar 
-                                        Chrysostomos, Metropolitan</h4>
+                                    <h4>H.G. Dr. Yuhanon Mar Chrisostomos, Metropolitan</h4>
                                 </div>
                             </div>
                         </div>

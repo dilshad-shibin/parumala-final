@@ -297,8 +297,8 @@
                                 </div>
                             </div>
                             <div class="hh-content">
-                                <p>St. Gregorios Medical Mission Hospital was inaugurated on the 11th of September 1975 with just 50 beds and 3 departments. The Hospital grew to the status of a Multi-Specialty Hospital with 197 beds and most modern facilities over forty-fiveyears.</p>
-                                <p>The Hospital is owned and controlled by a Charitable Society of the Indian (Malankara) Orthodox Syrian Church, registered under the Travancore-Cochin Literacy, Scientific and Charitable Act with Reg No. A334/78. The President of the Society is the Head of the Malankara Orthodox Church, His Holiness Baselios Marthoma Paulose II, the Catholicose of the Apostolic Throne of St. Thomas and the Vice-President of the Society is His Grace Dr. Yuhanan Mar Chrisostomos, Metropolitan of the Niranam Diocese of the Church. </p>
+                                <p>St. Gregorios Medical Mission Hospital was inaugurated on the 11th of September 1975 with just 50 beds and 3 departments. The Hospital grew to the status of a Multi-Specialty Hospital with 197 beds and most modern facilities over forty-five years.</p>
+                                <p>The Hospital is owned and controlled by a Charitable Society of the Indian (Malankara) Orthodox Syrian Church, registered under the Travancore-Cochin Literacy, Scientific and Charitable Act with Reg No. A334/78. The President of the Society is the Head of the Malankara Orthodox Church, His Holiness Baselios Marthoma Paulose II, the Catholicos of the Apostolic Throne of St. Thomas and the Vice-President of the Society is His Grace Dr. Yuhanon Mar Chrisostomos, Metropolitan of the Niranam Diocese of the Church. </p>
                             </div>
                             <div class="hh-counter d-flex">
                                 <div class="counter-box">
@@ -1034,7 +1034,7 @@
                         <div class="col-12 text-center">
                             <div class="hh-head">
                                 <p>Testimonials</p>
-                                <h1>What Our Patients Are Saying</h1>
+                                <h1>What Our Patients Say</h1>
                             </div>
                         </div>
                     </div>
@@ -1046,13 +1046,27 @@
                                     <div class="img-details">
                                         <div class="testi-img"><img src="assets/img/testi/01.jpg" alt=""></div>
                                         <div class="testi-name">
-                                            <h3>Jobin Jose</h3>
+                                            <h3>Surajith </h3>
+                                            <span>Vellamkulangara</span>
+                                        </div>
+                                    </div>
+                                    <div class="testi-content">
+                                        <div class="quote-icon"><img src="assets/img/quotes.png" alt=""></div>
+                                        <div class="text"><p>Best hospital in Central Travancore. Hospitality and care of the doctors are excellent. We can call the doctors any time and clear our doubts regarding treatment. Hospitality of the receptionist, nursing staff, and other staff are appreciated. Good management.</p></div>
+                                    </div>
+                                </div>
+
+                                <div class="single-testi">
+                                    <div class="img-details">
+                                        <div class="testi-img"><img src="assets/img/testi/01.jpg" alt=""></div>
+                                        <div class="testi-name">
+                                            <h3>Grittu K Cherian</h3>
                                             <span>Kottayam</span>
                                         </div>
                                     </div>
                                     <div class="testi-content">
                                         <div class="quote-icon"><img src="assets/img/quotes.png" alt=""></div>
-                                        <div class="text"><p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown dummy text ever since the 1500s, when an unknowndummy text ever since the 1500s, when an unknown</p></div>
+                                        <div class="text"><p>I am speechless about the transformation the hospital has undergone. The facilities now are top notch and you could see perfection reflected in each and every nook and corner of the hospital. Wishing all the best for the future to the team SGMMH.</p></div>
                                     </div>
                                 </div>
 
@@ -1060,27 +1074,13 @@
                                     <div class="img-details">
                                         <div class="testi-img"><img src="assets/img/testi/01.jpg" alt=""></div>
                                         <div class="testi-name">
-                                            <h3>Aswath Ram</h3>
-                                            <span>Palakkad</span>
-                                        </div>
-                                    </div>
-                                    <div class="testi-content">
-                                        <div class="quote-icon"><img src="assets/img/quotes.png" alt=""></div>
-                                        <div class="text"><p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown dummy text ever since the 1500s, when an unknowndummy text ever since the 1500s, when an unknown</p></div>
-                                    </div>
-                                </div>
-
-                                <div class="single-testi">
-                                    <div class="img-details">
-                                        <div class="testi-img"><img src="assets/img/testi/01.jpg" alt=""></div>
-                                        <div class="testi-name">
-                                            <h3>Ayyapan</h3>
+                                            <h3>Gokul M Sharma</h3>
                                             <span>Calicut</span>
                                         </div>
                                     </div>
                                     <div class="testi-content">
                                         <div class="quote-icon"><img src="assets/img/quotes.png" alt=""></div>
-                                        <div class="text"><p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown dummy text ever since the 1500s, when an unknowndummy text ever since the 1500s, when an unknown</p></div>
+                                        <div class="text"><p>Highly recommended... amazing medical office and facilities .. warm experience in short.  Appreciate Doctors taking time to go over the diagnosis clearly and treatment options. Was referred over by my general doctor .The whole Cancer department was too fine and friendly , special mention to the co-ordinators , who had done their responsibility very well with a friendly manner.</p></div>
                                     </div>
                                 </div>
 

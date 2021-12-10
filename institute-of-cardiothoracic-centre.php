@@ -59,7 +59,7 @@
                             <div class="dp-content">
                                 <div class="head">
                                     <h2>Cardio–Vascular–Thoracic Surgery</h2>
-                                    <p>The highly experienced Cardiac Surgery team at the Parumala Hospital of Excellence in Cardiac Sciences offers advanced cardio vascular – thoracic surgical services for management of complex heart diseases.</p>
+                                    <p>We offer the most innovative and comprehensive care for patients with complex disorders of the heart, lungs, and blood vessels.</p>
                                 </div>
                                 <ul class="text">
                                     <li>- Coronary Artery Grafting Bypass Surgery/Bypass Surgery</li>
@@ -87,7 +87,7 @@
                             <div class="dp-content">
                                 <div class="head">
                                     <h2>World Class Technology Cathlab</h2>
-                                    <p>Parumala Hospital of excellence in Cardiac Sciences is the facility of Cathlab with a state of the art electrophysiology lab/Intravascular ultrasound, fractional flow reserve estimate and rotablation.</p>
+                                    <p>In order to visualise the arteries of the heart and the chambers of the heart an to treat the abnormalities, we have a world class Cath Lab.</p>
                                 </div>
                                 <ul class="text">
                                     <li>- Low radiation clarity Cathlab</li>
@@ -100,7 +100,7 @@
                             <div class="dp-content">
                                 <div class="head">
                                     <h2>Facilities & Services</h2>
-                                    <p>Parumal Hospital delivers 24x7 primary angioplasty programs with perfect logistics. We have a well functioning Cathlab with newer coronary imaging modalities. Coronary physiology assessment by FFR and facilities of rot ablation for complex angioplasty are also available.</p>
+                                    <p>We offer you all the facilities and services related to the healthy maintenance of your heart. We utilize state of the art techniques and technology in the treatment of various disorders of the heart.</p>
                                 </div>
                                 <ul class="text">
                                     <li>- 24x7 Primary Angioplasty</li>

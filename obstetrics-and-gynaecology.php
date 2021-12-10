@@ -80,7 +80,7 @@
                         <div class="col-12 text-center">
                             <div class="dpt-head dpt-head2">
                                 <h2>Obstetrics</h2>
-                                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Illum et esse nostrum repudiandae, velit ipsa!.</p>
+                                <p>Obstetrics department focuses on pregnancy, child birth, and post partum period. We ensure proper care to the mother and child and take care of the complications if any.</p>
                             </div>
                         </div>
                     </div>

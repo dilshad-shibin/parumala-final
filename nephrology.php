@@ -42,7 +42,7 @@
                     <div class="row">
                         <div class="col-12 mt-3 text-center">
                             <div class="oncology-para">
-                                <p>The fully equipped Nephrology Department hasa 24 hours functioning dialysis unit. The department provides comprehensive health care for patients with all types of Renal (Kidney) diseases.</p>
+                                <p>The fully equipped Nephrology Department has a 24 hours functioning dialysis unit. The department provides comprehensive health care for patients with all types of Renal (Kidney) diseases.</p>
                                 <p>The services offered include: Clinical nephrology, Renal stone diseases, Various forms of dialysis, Renal Biopsies</p>
 
                             </div>
@@ -73,7 +73,7 @@
                         <div class="col-lg-6">
                             <div class="service-col">
                                 <h2><strong> Peritoneal dialysis</strong></h2>
-                                <p class="mb-3">Lorem ipsum dolor sit amet consectetur adipisicing elit. Quae nam, repudiandae soluta suscipit eaque sunt.</p>
+                                <p class="mb-3">In peritoneal dialysis, the peritoneum in the abdomen is used as a membrane through which fluids and dissolved substances are exchanged with blood.</p>
                                 
                              </div>
                              <ul class="hght-points mb-40">
