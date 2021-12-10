@@ -733,6 +733,9 @@ a {
     border-bottom-left-radius: 15px;
     border: 1px solid #f0e6dd;
     padding-left: 20px;
+    -webkit-appearance: none;
+    -moz-appearance: none;
+    appearance: none;
 }
 
 .banner-search form button{
