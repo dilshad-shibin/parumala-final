@@ -120,7 +120,7 @@
                                     <h2>Meet Our Experience Doctors</h2>
                                 </div>
                                 <div class="btn-doctrs">
-                                    <a href="#">Make An Appointment</a>
+                                    <a href="#" data-toggle="modal" data-target="#exampleModal">Make An Appointment</a>
                                 </div>
                             </div>
                         </div>
