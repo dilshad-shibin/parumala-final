@@ -51,7 +51,7 @@
                                             <h3>Anaesthesiology</h3>
                                        </div>
                                        <div class="spc-bx-hover">
-                                            <p>As its name implies the Ayurveda department has been established in the St. Gregorios Medical Mission Hospital, Parumala in 2016 January...</p>
+                                            <p>The department of Anesthesiology offers excellent anesthesia and critical care services to patients in the postoperative setup…</p>
                                        </div>
                                    </a>
                                </div>
@@ -68,7 +68,7 @@
                                                 <h3>Ayurvedic Medicine</h3>
                                         </div>
                                         <div class="spc-bx-hover">
-                                                <p>As its name implies the Ayurveda department has been established in the St. Gregorios Medical Mission Hospital, Parumala in 2016 January...</p>
+                                                <p>As its name implies, the Ayurveda department has been established in the St. Gregorios Medical Mission Hospital, Parumala…</p>
                                         </div>
                                     </a>
                                 </div>
@@ -85,7 +85,7 @@
                                                 <h3>Cardiothoracic Centre</h3>
                                         </div>
                                         <div class="spc-bx-hover">
-                                                <p>As its name implies the Ayurveda department has been established in the St. Gregorios Medical Mission Hospital, Parumala in 2016 January...</p>
+                                                <p>St. Gregorios Cardiac Centre and Research Institute Centre of Excellence in Cardiac Sciences offers a comprehensive range…</p>
                                         </div>
                                     </a>
                                 </div>
@@ -102,7 +102,7 @@
                                                 <h3>Clinical & Rehabilitation Psychology</h3>
                                         </div>
                                         <div class="spc-bx-hover">
-                                                <p>As its name implies the Ayurveda department has been established in the St. Gregorios Medical Mission Hospital, Parumala in 2016 January...</p>
+                                                <p>Rehabilitation Psychology is recognized as a clinical specialty within the broad areas of psychology and the role of rehabilitation…</p>
                                         </div>
                                     </a>
                                 </div>
@@ -119,7 +119,7 @@
                                                 <h3>Critical Care</h3>
                                         </div>
                                         <div class="spc-bx-hover">
-                                                <p>As its name implies the Ayurveda department has been established in the St. Gregorios Medical Mission Hospital, Parumala in 2016 January...</p>
+                                                <p>The Department of Critical Care Medicine provides 24 X 7 comprehensive solutions for all patients who suffer from life-threatening…</p>
                                         </div>
                                     </a>
                                 </div>
@@ -136,7 +136,7 @@
                                                 <h3>Dentistry</h3>
                                         </div>
                                         <div class="spc-bx-hover">
-                                                <p>As its name implies the Ayurveda department has been established in the St. Gregorios Medical Mission Hospital, Parumala in 2016 January...</p>
+                                                <p>The department is committed to provide patients with comprehensive and superior dental care with most advanced technologies…</p>
                                         </div>
                                     </a>
                                 </div>
@@ -153,7 +153,7 @@
                                                 <h3>Dermatology</h3>
                                         </div>
                                         <div class="spc-bx-hover">
-                                                <p>As its name implies the Ayurveda department has been established in the St. Gregorios Medical Mission Hospital, Parumala in 2016 January...</p>
+                                                <p>The Dermatology Department offers comprehensive consultation and treatment for all dermatological conditions including…</p>
                                         </div>
                                     </a>
                                 </div>
@@ -170,7 +170,7 @@
                                                 <h3>Emergency Medicine</h3>
                                         </div>
                                         <div class="spc-bx-hover">
-                                                <p>As its name implies the Ayurveda department has been established in the St. Gregorios Medical Mission Hospital, Parumala in 2016 January...</p>
+                                                <p>Emergency Medicine is a medical specialty which deals with all acute illnesses whether it is medical or surgical of..</p>
                                         </div>
                                     </a>
                                 </div>
@@ -187,7 +187,7 @@
                                                 <h3>Endocrinology</h3>
                                         </div>
                                         <div class="spc-bx-hover">
-                                                <p>As its name implies the Ayurveda department has been established in the St. Gregorios Medical Mission Hospital, Parumala in 2016 January...</p>
+                                                <p>Endocrinology is a branch of medicine with the structure, function and disorders of the endocrine glands. The glands of the endocrine..</p>
                                         </div>
                                     </a>
                                 </div>
@@ -204,7 +204,7 @@
                                                 <h3>ENT</h3>
                                         </div>
                                         <div class="spc-bx-hover">
-                                                <p>As its name implies the Ayurveda department has been established in the St. Gregorios Medical Mission Hospital, Parumala in 2016 January...</p>
+                                                <p>The well-established ENT department has facilities for diagnosis and treatment of all common Ear, Nose & Throat diseases and also…</p>
                                         </div>
                                     </a>
                                 </div>
@@ -221,7 +221,7 @@
                                                 <h3>Gastroenterology</h3>
                                         </div>
                                         <div class="spc-bx-hover">
-                                                <p>As its name implies the Ayurveda department has been established in the St. Gregorios Medical Mission Hospital, Parumala in 2016 January...</p>
+                                                <p>The Gastroenterology department is equipped with all the advanced 190 series scopes and ERCP scopes.</p>
                                         </div>
                                     </a>
                                 </div>
@@ -238,7 +238,7 @@
                                                 <h3>General and Laparoscopic Surgery</h3>
                                         </div>
                                         <div class="spc-bx-hover">
-                                                <p>As its name implies the Ayurveda department has been established in the St. Gregorios Medical Mission Hospital, Parumala in 2016 January...</p>
+                                                <p>The hospital has a state-of-the-art department of General and Laparoscopic Surgery, which also forms the platform for the various..</p>
                                         </div>
                                     </a>
                                 </div>
@@ -255,7 +255,7 @@
                                                 <h3>General Medicine</h3>
                                         </div>
                                         <div class="spc-bx-hover">
-                                                <p>As its name implies the Ayurveda department has been established in the St. Gregorios Medical Mission Hospital, Parumala in 2016 January...</p>
+                                                <p>Our physicians with decades of experience, handle the prevention, diagnosis and treatment of various diseases…</p>
                                         </div>
                                     </a>
                                 </div>
@@ -272,7 +272,7 @@
                                                 <h3>Head and Neck Reconstructive Surgery</h3>
                                         </div>
                                         <div class="spc-bx-hover">
-                                                <p>As its name implies the Ayurveda department has been established in the St. Gregorios Medical Mission Hospital, Parumala in 2016 January...</p>
+                                                <p>The Head and Neck Oncology & Reconstructive Surgery department has excellence in the evaluation and treatment of…</p>
                                         </div>
                                     </a>
                                 </div>
@@ -289,7 +289,7 @@
                                                 <h3>Microbiology</h3>
                                         </div>
                                         <div class="spc-bx-hover">
-                                                <p>As its name implies the Ayurveda department has been established in the St. Gregorios Medical Mission Hospital, Parumala in 2016 January...</p>
+                                                <p>The microbiology lab is responsible for all the screening as well as advanced diagnostic techniques for the detection…</p>
                                         </div>
                                     </a>
                                 </div>
@@ -306,7 +306,7 @@
                                                 <h3>Neonatology</h3>
                                         </div>
                                         <div class="spc-bx-hover">
-                                                <p>As its name implies the Ayurveda department has been established in the St. Gregorios Medical Mission Hospital, Parumala in 2016 January...</p>
+                                                <p>We have a ten bedded NeoNatal intensive Care unit (NICU) which has the sophisticated Drager Baby log 8000 plus ventilator…</p>
                                         </div>
                                     </a>
                                 </div>
@@ -323,7 +323,7 @@
                                                 <h3>Nephrology</h3>
                                         </div>
                                         <div class="spc-bx-hover">
-                                                <p>As its name implies the Ayurveda department has been established in the St. Gregorios Medical Mission Hospital, Parumala in 2016 January...</p>
+                                                <p>The fully equipped Nephrology Department has a 24 hours functioning dialysis unit. The department provides…</p>
                                         </div>
                                     </a>
                                 </div>
@@ -340,7 +340,7 @@
                                                 <h3>Neuro Surgery</h3>
                                         </div>
                                         <div class="spc-bx-hover">
-                                                <p>As its name implies the Ayurveda department has been established in the St. Gregorios Medical Mission Hospital, Parumala in 2016 January...</p>
+                                                <p>The fully equipped Neurosurgery department provides treatment to patients with head injury, spine injury and to major road…</p>
                                         </div>
                                     </a>
                                 </div>
@@ -357,7 +357,7 @@
                                                 <h3>Neurology</h3>
                                         </div>
                                         <div class="spc-bx-hover">
-                                                <p>As its name implies the Ayurveda department has been established in the St. Gregorios Medical Mission Hospital, Parumala in 2016 January...</p>
+                                                <p>The department of neurology provides state of the art care to patients with all kinds of acute and chronic diseases..</p>
                                         </div>
                                     </a>
                                 </div>
@@ -374,7 +374,7 @@
                                                 <h3>Nuclear Medicine</h3>
                                         </div>
                                         <div class="spc-bx-hover">
-                                                <p>As its name implies the Ayurveda department has been established in the St. Gregorios Medical Mission Hospital, Parumala in 2016 January...</p>
+                                                <p>Nuclear Medicine is a branch of medicine that makes use of radioactive medicines for diagnosis and treatment of diseases. Small..</p>
                                         </div>
                                     </a>
                                 </div>
@@ -391,7 +391,7 @@
                                                 <h3>Obstetrics and Gynaecology</h3>
                                         </div>
                                         <div class="spc-bx-hover">
-                                                <p>As its name implies the Ayurveda department has been established in the St. Gregorios Medical Mission Hospital, Parumala in 2016 January...</p>
+                                                <p>The Obstetrics & Gynecology department provides comprehensive health services in a caring environment to women of all age groups.</p>
                                         </div>
                                     </a>
                                 </div>
@@ -408,7 +408,7 @@
                                                 <h3>Oncology</h3>
                                         </div>
                                         <div class="spc-bx-hover">
-                                                <p>As its name implies the Ayurveda department has been established in the St. Gregorios Medical Mission Hospital, Parumala in 2016 January...</p>
+                                                <p>St. Gregorios International Cancer Care Centre (SGICCC) is dedicated to provide multidisciplinary cancer treatment under one…</p>
                                         </div>
                                     </a>
                                 </div>
@@ -425,7 +425,7 @@
                                                 <h3>Ophthalmology</h3>
                                         </div>
                                         <div class="spc-bx-hover">
-                                                <p>As its name implies the Ayurveda department has been established in the St. Gregorios Medical Mission Hospital, Parumala in 2016 January...</p>
+                                                <p>We give comprehensive and quality eye care in the department.We have been conducting School Screening programs..</p>
                                         </div>
                                     </a>
                                 </div>
@@ -442,7 +442,7 @@
                                                 <h3>Orthopedics</h3>
                                         </div>
                                         <div class="spc-bx-hover">
-                                                <p>As its name implies the Ayurveda department has been established in the St. Gregorios Medical Mission Hospital, Parumala in 2016 January...</p>
+                                                <p>The department of Orthopedics has state of the art facilities for advanced trauma management, joint replacement, arthroplasty..</p>
                                         </div>
                                     </a>
                                 </div>
@@ -459,7 +459,7 @@
                                                 <h3>Pathology</h3>
                                         </div>
                                         <div class="spc-bx-hover">
-                                                <p>As its name implies the Ayurveda department has been established in the St. Gregorios Medical Mission Hospital, Parumala in 2016 January...</p>
+                                                <p>Pathology is the study of diseases. It bridges science and medicine and underpins every aspect of patient care, from…</p>
                                         </div>
                                     </a>
                                 </div>
@@ -476,7 +476,7 @@
                                                 <h3>Pediatrics</h3>
                                         </div>
                                         <div class="spc-bx-hover">
-                                                <p>As its name implies the Ayurveda department has been established in the St. Gregorios Medical Mission Hospital, Parumala in 2016 January...</p>
+                                                <p>The Department of Pediatrics aims at providing complete health care to infants, children and adolescents. The department works...</p>
                                         </div>
                                     </a>
                                 </div>
@@ -493,7 +493,7 @@
                                                 <h3>Physiotherapy</h3>
                                         </div>
                                         <div class="spc-bx-hover">
-                                                <p>As its name implies the Ayurveda department has been established in the St. Gregorios Medical Mission Hospital, Parumala in 2016 January...</p>
+                                                <p>The Department of Physiotherapy deals with the remediation of impairments, disabilities, promotion of mobility..</p>
                                         </div>
                                     </a>
                                 </div>
@@ -510,7 +510,7 @@
                                                 <h3>Plastic Surgery</h3>
                                         </div>
                                         <div class="spc-bx-hover">
-                                                <p>As its name implies the Ayurveda department has been established in the St. Gregorios Medical Mission Hospital, Parumala in 2016 January...</p>
+                                                <p>Plastic surgery (also known as reconstructive surgery) is used to repair and reconstruct damaged tissue and skin, to…</p>
                                         </div>
                                     </a>
                                 </div>
@@ -527,7 +527,7 @@
                                                 <h3>Psychiatry De Addiction and Rehabilitation</h3>
                                         </div>
                                         <div class="spc-bx-hover">
-                                                <p>As its name implies the Ayurveda department has been established in the St. Gregorios Medical Mission Hospital, Parumala in 2016 January...</p>
+                                                <p>St. Gregorios Medical Mission Hospital started the department of Psychiatry and De-addiction as a project for the…</p>
                                         </div>
                                     </a>
                                 </div>
@@ -544,7 +544,7 @@
                                                 <h3>Pulmonology</h3>
                                         </div>
                                         <div class="spc-bx-hover">
-                                                <p>As its name implies the Ayurveda department has been established in the St. Gregorios Medical Mission Hospital, Parumala in 2016 January...</p>
+                                                <p>The Department of Pulmonology, Critical Care Medicine and Sleep Medicine specializes in the diagnosis and treatment of..</p>
                                         </div>
                                     </a>
                                 </div>
@@ -561,7 +561,7 @@
                                                 <h3>Radiology</h3>
                                         </div>
                                         <div class="spc-bx-hover">
-                                                <p>As its name implies the Ayurveda department has been established in the St. Gregorios Medical Mission Hospital, Parumala in 2016 January...</p>
+                                                <p>The Department of Radiology is equipped with state of art equipment and facilities in various modalities. We provide round the clock…</p>
                                         </div>
                                     </a>
                                 </div>
@@ -578,7 +578,7 @@
                                                 <h3>Urology</h3>
                                         </div>
                                         <div class="spc-bx-hover">
-                                                <p>As its name implies the Ayurveda department has been established in the St. Gregorios Medical Mission Hospital, Parumala in 2016 January...</p>
+                                                <p>The department of Urology offers comprehensive facilities for the diagnosis and the treatment of genitourinary problems..</p>
                                         </div>
                                     </a>
                                 </div>
