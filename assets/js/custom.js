@@ -1,23 +1,36 @@
 (function($) {
 
     "use strict";
-    var win = $(window);
+    var $window = $(window);
+    var zero = 0;
 
-    win.on('scroll', function() {
-
-        var scroll = win.scrollTop();
-
-        if (scroll < 800) {
-
-            $("#sticky_funtion").removeClass("menu_secfixed");
-
-        } else {
-
-            $("#sticky_funtion").addClass("menu_secfixed");
-
-        }
-
+    // :: 1.0 PRELOADER ACTIVE CODE
+    $window.on('load', function () {
+        $('#preloader').fadeOut('slow', function () {
+            $(this).remove();
+        });
     });
+
+
+
+    // :: 3.0 SCROLL TO TOP ACTIVE CODE
+    var offset = 300;
+    var duration = 500;
+
+    $window.on('scroll', function () {
+        if ($(this).scrollTop() > offset) {
+            $("#scrollUp").fadeIn(duration);
+        } else {
+            $("#scrollUp").fadeOut(duration);
+        }
+    });
+
+    $("#scrollUp").on('click', function () {
+        $('html, body').animate({
+            scrollTop: 0
+        }, duration);
+    });
+    
 
     //Testimonials SLIDER ACTIVE CODE
     $('.testi-slider.owl-carousel').owlCarousel({

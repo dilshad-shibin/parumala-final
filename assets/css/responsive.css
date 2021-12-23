@@ -673,6 +673,9 @@
     .mng-details .mng-text{
         text-align: center;
     }
+    #scrollUp{
+        right: 5%;
+    }
 
 }
 

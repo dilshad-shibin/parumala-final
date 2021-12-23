@@ -1,3 +1,8 @@
+<!--====== Scroll To Top Area Start ======-->
+<div id="scrollUp" title="Scroll To Top">
+    <i class="fa fa-angle-up"></i>
+</div>
+
 <!-- Mobile menu / Header -->
 <nav class="panel-menu mobile-main-menu">
     <ul>
@@ -188,4 +193,14 @@
             </div>
         </div>
     </div>
+</div>
+
+<!-- Right Side Icos -->
+<div class="cont_link_box">
+    <a id="" href="tel:+914792317000" class="callnow_inte" target="">
+        <i class="fas fa-phone-alt"></i>
+    </a>
+    <a id="" href="https://wa.me/+914792317000" class="whatsapp_inte" target="_blank">
+        <i class="fab fa-whatsapp"></i>
+    </a>
 </div>
