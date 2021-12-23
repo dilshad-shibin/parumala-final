@@ -33,115 +33,66 @@
             <section class="section center-excellence">
                 <div class="container">
                     <div class="row">
-                        <div class="col-12 text-center">
-                            <div class="excellence-head excellence-head2">
-                                <h1>Psychiatry De Addiction and Rehabilitation</h1>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="row">
-                        <div class="col-12 mt-3 text-center">
-                            <div class="oncology-para">
-                                <p>St. Gregorios Medical Mission Hospital started the department Psychiatry and De-addiction as a project for the treatment of those who are addicted to alcohol and drugs. His Holiness Baselios Marthoma Mathews II formally inaugurated the St. Gregorios De-addiction Treatment and Rehabilitation center on February 15th 1999. This center has the facility for psychotherapy, group therapy, recreation therapy, physiotherapy, family counseling, and guidance and follows up.
-                                The department provides treatment for all psychiatric and psychological problems and has special focus on alcoholic problems.
-                                </p>
-                                
-                                <p><strong>Treatment for De-addiction and Mental Health</strong></p>
-                                <ul class="hght-points hght-points-color">
-                                    <li>Medications</li>
-                                    <li>Counseling</li>
-                                    <li>Psychotherapy</li>
-                                    <li>Group Therapy</li>
-                                    <li>Recreation Therapy</li>
-                                    <li>Case Management</li>
-                                </ul>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </section>
-
-            <!-- dep -->
-            <section class="dept-highlight dept-highlight-gastro">
-                <div class="container">
-                    <!-- <div class="row">
                         <div class="col-12">
-                            <div class="highlight-head text-center">
-                                <p>Our centre offers the most advanced methods for the diagnosis and treatment forall the gastrointestinal problems:-</p>
+                            <div class="excellence-head excellence-head2">
+                                <h1 class="bottom-change">Department Of Mental Health & De - Addiction</h1>
                             </div>
                         </div>
-                    </div> -->
+                    </div>
                     <div class="row">
-                        <div class="col-lg-6">
-                            <div class="service-col">
-                                <h2><strong>Objectives of the Center</strong></h2>
+                        <div class="col-12 mt-3">
+                            <div class="oncology-para">
+                                <p>Our multi-disciplinary team is focused on providing evidence based, holistic and personalized mental health care services for patients of all ages, families and the community. We are committed towards highest patient satisfaction by providing ample time and ensuring privacy and confidentiality. Our services include detailed assessment, treatment and rehabilitation of all patients in a highly professional and ethical manner and with dignity and compassion.</p>
                             </div>
-                            <ul class="hght-points mb-40">
-                               <li>Lorem ipsum dolor sit amet.</li>
-                               <li>Lorem ipsum dolor sit amet.</li>
-                               <li>Lorem ipsum dolor sit amet.</li>
-                               <li>Lorem ipsum dolor sit amet.</li>
-                               <li>Lorem ipsum dolor sit amet.</li>
-                               <li>Lorem ipsum dolor sit amet.</li>
-                               <li>Lorem ipsum dolor sit amet.</li>
-                               <li>Lorem ipsum dolor sit amet.</li>
-                             </ul>
-                             <div class="service-col">
-                                <h2><strong>Qualified Professionals in the Department</strong></h2>
-                            </div>
-                            <ul class="hght-points mb-40">
-                                <li>Lorem ipsum dolor sit amet.</li>
-                                <li>Lorem ipsum dolor sit amet.</li>
-                                <li>Lorem ipsum dolor sit amet.</li>
-                                <li>Lorem ipsum dolor sit amet.</li>
-                                <li>Lorem ipsum dolor sit amet.</li>
-                                <li>Lorem ipsum dolor sit amet.</li>
-                                <li>Lorem ipsum dolor sit amet.</li>
-                            </ul>
-                        </div>
-                        <div class="col-lg-6 second-col">
-                            <div class="service-col">
-                                <h2><strong>For Psychiatric Patients</strong></h2>
-                            </div>
-                            <ul class="hght-points mb-40">
-                                <li>Lorem ipsum dolor sit amet.</li>
-                                <li>Lorem ipsum dolor sit amet.</li>
-                                <li>Lorem ipsum dolor sit amet.</li>
-                                <li>Lorem ipsum dolor sit amet.</li>
-                                <li>Lorem ipsum dolor sit amet.</li>
-                                <li>Lorem ipsum dolor sit amet.</li>
-                                <li>Lorem ipsum dolor sit amet.</li>
-                            </ul>
-
-                            <div class="service-col">
-                                <h2><strong>For De Addiction Patients</strong></h2>
-                            </div>
-                            <ul class="hght-points mb-40">
-                                <li>Lorem ipsum dolor sit amet.</li>
-                                <li>Lorem ipsum dolor sit amet.</li>
-                                <li>Lorem ipsum dolor sit amet.</li>
-                                <li>Lorem ipsum dolor sit amet.</li>
-                                <li>Lorem ipsum dolor sit amet.</li>
-                                <li>Lorem ipsum dolor sit amet.</li>
-                            </ul>
-
-                            <div class="service-col">
-                                <h2><strong>Special Counseling</strong></h2>
-                            </div>
-                            <ul class="hght-points mb-40">
-                                <li>Lorem ipsum dolor sit amet.</li>
-                                <li>Lorem ipsum dolor sit amet.</li>
-                                <li>Lorem ipsum dolor sit amet.</li>
-                                <li>Lorem ipsum dolor sit amet.</li>
-                                <li>Lorem ipsum dolor sit amet.</li>
-                                <li>Lorem ipsum dolor sit amet.</li>
-                            </ul>
-                        </div>
-                            
                         </div>
                     </div>
                 </div>
             </section>
+
+           <!-- Sub Content Section -->
+           <section class="sub-excellence-area section">
+               <div class="container">
+                   <div class="row">
+                       <div class="col-12">
+                           <div class="sub-area-text">
+                                <div class="head">
+                                    <h2><strong>Speciality Clinics</strong></h2>
+                                </div>
+                                <div class="details">
+                                    <ul>
+                                        <li>De-addiction</li>
+                                        <li>Child, teenage, adolscent and parent guidance</li>
+                                        <li>Women's mental health</li>
+                                        <li>Geriatrics & Neuropsychiatry</li>
+                                        <li>Marital and Sexual Disorders</li>
+                                        <li>General Adult Psychiatry</li>
+                                        <li>Suicide prevention and life skills</li>
+                                        <li>Psychosomatic and Pain Clinic</li>
+                                        <li>Family Counseling/Marital Therapy</li>
+                                    </ul>
+                                </div>
+                                <div class="head">
+                                    <h2><strong>services</strong></h2>
+                                </div>
+                                <div class="details">
+                                    <ul>
+                                        <li>24x7 Emergency Consultation</li>
+                                        <li>OPD- Mon to Sat (9 am – 5 PM)</li>
+                                        <li>In-patient Service.</li>
+                                        <li>Closed and open wards (Separate Male & Female wards)</li>
+                                        <li>A/C and Non A/C Single/Sharing Rooms</li>
+                                        <li>Group Therapy, Therapeutic Activities and Recreation Facilities.</li>
+                                        <li>Psychotherapy, Counseling Services, Alcoholic Anonymous (AA) meetings & other group therapies.</li>
+                                        <li>Modified Electroconvulsive Therapy (ECT)</li>
+                                        <li>Mental health awareness camps and workshops.</li>
+                                        <li>Refferal center/ Nodal Center for treatment and counselling from Police Stations, Child Line and various Socio-Religious Organisations/NGOs.</li>
+                                    </ul>
+                                </div>
+                           </div>
+                       </div>
+                   </div>
+               </div>
+           </section>
 
             <!-- Department Doctors -->
             <section class="dept-doctors section">

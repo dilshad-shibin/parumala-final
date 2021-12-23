@@ -47,7 +47,7 @@
                         </div>
                         <div class="col-lg-5 order-1-991">
                             <div class="about-img">
-                                <img src="assets/img/about/genesis.jpg" alt="">
+                                <img src="assets/img/about/parumala-building.jpg" alt="">
                             </div>
                         </div>
                     </div>

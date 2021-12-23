@@ -33,28 +33,73 @@
             <section class="section center-excellence">
                 <div class="container">
                     <div class="row">
-                        <div class="col-12 text-center">
+                        <div class="col-12">
                             <div class="excellence-head excellence-head2">
-                                <h1>Neuro Surgery</h1>
+                                <h1 class="bottom-change">Neuro Surgery</h1>
                             </div>
                         </div>
                     </div>
                     <div class="row">
-                        <div class="col-12 mt-3 text-center">
+                        <div class="col-12 mt-3">
                             <div class="oncology-para">
-                                <p>The fully equipped Neurosurgery department provides treatment to patients with head injury, spine injuryand to major road traffic accidents and other trauma victims.
-                                The Department also has a fully equipped Neuro Intensive Care Unit with most modern ventilators, monitors and other life saving devices.Our neurosurgery operation theater is equipped with Carl Zeiss operating microscope and Aesculap motor drill; and the department carries out all major surgeries of the Brain and Spine.</p>
-                                <p><strong>The Department caters to following group of patients:</strong></p>
-                                <ul class="hght-points hght-points-color mb-40">
-                                    <li>Road Traffic Accidents/Head injury</li>
-                                    <li>Spine Injury</li>
-                                    <li>Brain tumors & Spine tumors</li>
-                                    <li>Neuro vascular diseases, intracerebral hemorrhage</li>
-                                    <li>Pediatric Neurosurgical disorders</li>
-                                    <li>Hydrocephalus</li>
-                                </ul>
-                                <p><strong>Minimally Invasive Spine Surgery</strong></p>
-                                <p>Key hole surgeries of spine for disc prolapse and spine fractures are done routinely which enables the patient to return to work soon after surgery.</p>
+                                <p>We the Dept. of Neurosurgery at Parumala Hospital are pledged to provide high quality care and expertise to the patients requiring attention related to brainand spine. We are available 24 x 7 to cater all emergencies as well as resuscitation which saved the lives and livelihood of thousands of people in central Travancore , and continuing the same. We carry out complicated neurosurgical procedures like Aneurysm Surgeries, Trans nasal Pituitary Surgeries, Pediatric Neurosurgeries and much more in the most professional way challenging international standards and still  continuing the saga.</p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </section>
+
+            <!-- Sub Content Section -->
+            <section class="sub-excellence-area section">
+                <div class="container">
+                    <div class="row">
+                        <div class="col-12">
+                            <div class="sub-area-text">
+                                <div class="head">
+                                    <h2><strong>Department of Neurosurgery</strong></h2>
+                                </div>
+                                <div class="details">
+                                    <ul>
+                                        <li>Dedicated trauma and Advanced Neurosurgery Centre</li>
+                                        <li>Centre of Excellence for spine surgery  with most advanced neuro navigation  system.</li>
+                                        <li>History of performing more than 1000 spine surgeries in past 10 years</li>
+                                        <li>Delivering Happy Healing with most advanced Neurosurgical Stools-under one roof from neonates to geriatrics.</li>
+                                    </ul>
+                                    <h4>Trauma and Neurosurgery</h4>
+                                    <p>Advanced trauma care and head injury clinic provide state of the art International standard care for trauma of any type, mode and severity with round the clock available trauma team comprising of expert neurosurgeons, orthopedicians and Emergency Physicians. We are equipped with Neuro Navigation system, advanced drill systems, latest microscope and minimally invasive Spine and Endoscopic sets.  We have 10 bedded Neurosurgery ICU with ICU trained Senior Nursing Staffs who provide one to one care to each patient. Resuscitation and stabilization of critically ill patient with 24x7 blood bank facility, providing blood and blood products on demand.</p>
+                                </div>
+                                <div class="head">
+                                    <h2><strong>Advanced Spine Surgery</strong></h2>
+                                </div>
+                                <div class="details">
+                                    <p>We routinely manage patients with neck pain and back pain and carry out spine surgeries through minimal access / Keyhole techniques. Our minimal access spine procedures have helped in early ambulation and return to work. Neuro navigation guided procedures have resulted in significant reduction in  morbidity and post operative pain.</p>
+                                    <h4>Scope of Department</h4>
+                                    <ul>
+                                        <li>Spine fixation-Percutaneous as well as open techniques</li>
+                                        <li>Spine Decompression- Post trauma/ Canal Stenosis</li>
+                                        <li>Spine tumour Decompression</li>
+                                        <li>Scoliosis Correction</li>
+                                        <li>Pediatric Congenital Spine Abnormality Correction</li>
+                                        <li>Routine discectomy through tubular system(minimal access) as well as microlumbar discectomy</li>
+                                        <li>Navigation guided spine surgeries</li>
+                                        <li>Aneurysm surgeries and Microvascular procedures</li>
+                                        <li>Traumatic brain injury surgeries</li>
+                                        <li>Endoscopic trans nasal pituitary surgeries</li>
+                                        <li>Pediatric and adult shunt surgeries.</li>
+                                        <li>Awake craniotomy</li>
+                                        <li>Electrophysiological studies</li>
+                                        <li>Tumour excision</li>
+                                        <li>Carpal tunnel release</li>
+                                    </ul>
+                                    <h4>Major Achievements</h4>
+                                    <ul>
+                                        <li>Successfully doing Awake Craniotomies on daily basis.</li>
+                                        <li>Percutaneous fixation of spine fracture and early ambulation and return to normal work in average 5 days</li>
+                                        <li>History of performing more than 350 major surgeries in the past 1 year.</li>
+                                        <li>Neuro onco support system available.</li>
+                                        <li>Hanging and electrocution support and rehabilitation.</li>
+                                    </ul>
+                                </div>
                             </div>
                         </div>
                     </div>

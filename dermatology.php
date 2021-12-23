@@ -33,78 +33,69 @@
             <section class="section center-excellence">
                 <div class="container">
                     <div class="row">
-                        <div class="col-12 text-center">
+                        <div class="col-12">
                             <div class="excellence-head excellence-head2">
-                                <h1>Dermatology</h1>
+                                <h1 class="bottom-change">Dermatology</h1>
                             </div>
                         </div>
                     </div>
                     <div class="row">
-                        <div class="col-12 mt-3 text-center">
+                        <div class="col-12 mt-3">
                             <div class="oncology-para">
-                                <p>The Dermatology Department offers comprehensive consultation and treatment for all dermatological conditions including: General Dermatology, Cosmetology, Sexually transmitted diseases and Leprosy.</p>
-                                <p>The Department of Dermatology also provides the best treatment for all skin related ailments. Common skin rashes, itchiness etc., as well as f rare and complex skin disorders are also treated here. In addition to general dermatology, cosmetic servicesfor all age groups are also available in the department.</p>
+                                <p>Parumala Dermatology Department offers comprehensive consultation and treatment for all dermatological conditions including: General Dermatology, Cosmetology, Sexually transmitted diseases and Leprosy.</p>
+                                <p>The Department of Dermatology also provides the best treatment for all skin related ailments. Common skin rashes, allergy etc., as well as of rare and complex skin disorders are also treated here. In addition to general dermatology, cosmetic services for all age groups are also available in the department.</p>
                             </div>
                         </div>
                     </div>
                 </div>
             </section>
 
-            <!-- Our Department Area -->
-            <section class="dept-highlight dept-highlight-gastro">
+            <!-- Sub Content Section -->
+            <section class="sub-excellence-area section">
                 <div class="container">
                     <div class="row">
                         <div class="col-12">
-                            <div class="highlight-head highlight-head2 text-center">
-                                <p>The department also provides the following special treatments:</p>
+                            <div class="sub-area-text">
+                                <div class="head">
+                                    <h2><strong>The department also provides the following special treatments:</strong></h2>
+                                </div>
+                                <div class="details">
+                                    
+                                    <h4>CHEMICAL PEELING</h4>
+                                    <p>A chemical peel is a technique used to improve the appearance of the skin of the face, neck or hands. A chemical solution is applied to the skin that causes it to exfoliate and eventually peel off. The new, regenerated skin is usually smoother and less wrinkled than the old skin. The new skin is temporarily more sensitive to the sun. Marked reduction in pigmentation and pimples are achieved with this procedure.</p>
+                                    <h4>Electro Cautery for Warts and Skin tags</h4>
+                                    <p>Wart is skin colored or reddish-brown lump on skin which is small, hard & sometimes soft. Skin tags are benign harmless growths of skin which are attached to body by peduncle or stalk. Warts and Skin tags can be removed with electro surgery, which is quick & painless. No cutting & no stitching is required.</p>
+                                    <h4>Mole excision </h4>
+                                    <p>Moles also termed as nevi are likely to be seen on face, arms & legs.
+                                    It is a pigmented lesion which is dark brown or black in color.</p>
+                                    <h4>Radiofrequency</h4>
+                                    <p>Radiofrequency alternating current is used to raise the temperature of the tissues treated which produces desiccation and at the same time, very minimal bleeding. Radiofrequency Cautery is a widely accepted and highly effective method for the removal of large warts and benign growths on the skin.</p>
+                                    <p>Platelet- rich plasma therapy (PRP)</p>
+                                    <ul>
+                                        <li>Platelet-rich plasma (PRP) therapy is a newer treatment that is becoming increasingly popular in dermatology.</li>
+                                        <li>Platelet-rich plasma is an autologous blood product of small volume of  plasma containing high concentration of platelets.</li>
+                                        <li>Platelet-rich plasma therapy is a treatment where by the patient’s own blood is centrifuged to separate out the platelet portion, that is then injected back in to the skin to stimulate new collagen production and done for the hair to reduce hair loss and improve the hair growth</li>
+                                        <li>In dermatology it is used in hair growth, skin tightening, scar management, non healing Ulcers, striae distensae. PRP is used increasingly because of its safety and efficacy.</li>
+                                    </ul>
+                                    <h4>Cryo therapy</h4>
+                                    <p>Cryo therapy is use of extremely cold temperatures to treat benign and malignant skin lesion. It is an inexpensive, cost effective and rapid treatment using liquid nitrogen.</p>
+                                    <p>Scope of Services – Features & Facilities</p>
+                                    <ul>
+                                        <li>Skin Biopsy</li>
+                                        <li>Chemical Peel</li>
+                                        <li>Acne Surgery</li>
+                                        <li>Cryo therapy</li>
+                                        <li>Platelet Rich Plasma therapy (PRP).</li>
+                                        <li>Mole execution, cyst excision</li>
+                                        <li>Radio frequency</li>
+                                        <li>Electro Cautery</li>
+                                        <li>Intralesional therapy</li>
+                                        <li>Corn removal</li>
+                                        <li>Molluscum Curettage</li>
+                                        <li>Comedo Needling.</li>
+                                    </ul>
+                                </div>
                             </div>
-                        </div>
-                    </div>
-                    <div class="row">
-                        <div class="col-lg-6">
-                            <div class="service-col">
-                                <h2><strong>Chemical Peeling</strong></h2>
-                                <p class="mb-40">A chemical peel is a technique used to improve the appearance of the skin of the face, neck or hands. A chemical solution is applied to the skin that causes it to exfoliate and eventually peel off. The new, regenerated skin is usually smoother and less wrinkled than the old skin. The new skin is temporarily more sensitive to the sun. Marked reduction in pigmentation and pimples are achieved with multiple settings.</p>
-                            </div>
-                            <!-- <ul class="hght-points mb-40">
-                               <li>Lorem ipsum dolor sit amet.</li>
-                               <li>Lorem ipsum dolor sit amet.</li>
-                               <li>Lorem ipsum dolor sit amet.</li>
-                               <li>Lorem ipsum dolor sit amet.</li>
-                               <li>Lorem ipsum dolor sit amet.</li>
-                               <li>Lorem ipsum dolor sit amet.</li>
-                               <li>Lorem ipsum dolor sit amet.</li>
-                               <li>Lorem ipsum dolor sit amet.</li>
-                               <li>Lorem ipsum dolor sit amet.</li>
-                               <li>Lorem ipsum dolor sit amet.</li>
-                               <li>Lorem ipsum dolor sit amet.</li>
-                               <li>Lorem ipsum dolor sit amet.</li>
-                             </ul> -->
-                             
-                            <div class="service-col">
-                                <h2><strong>Radiofrequency Cautery</strong></h2>
-                                <p class="mb-40">Radiofrequency alternating current is used to raise the temperature of the tissues treated which produces desiccation and at the same time, very minimal bleeding. Radiofrequency Cautery is a widely accepted and highly effective method for the removal of large warts and benign growths on the skin.</p>
-                            </div>
-                        </div>
-                        <div class="col-lg-6 second-col">
-                            <div class="service-col">
-                                <h2><strong>Electro surgery for Warts, Moles and Skin tags</strong></h2>
-                                <p>Wart is skin coloured or reddish-brown lump on skin which is small, hard & sometimes soft. Skin tags are benign harmless growths of skin which are attached to body by peduncle or stalk. Warts and Skin tags can be removed with electro surgery, which is quick& painless. No cutting & no stitching is required. Moles also termed as nevi are likely to be seen on face, arms & legs. It is a pigmented lesion which is dark brown or black in color. Mole is totally harmless & hardly changes into cancerous lesion</p>
-                            </div>
-                            <!-- <ul class="hght-points mb-40">
-                                <li>Lorem ipsum dolor sit amet.</li>
-                                <li>Lorem ipsum dolor sit amet.</li>
-                                <li>Lorem ipsum dolor sit amet.</li>
-                                <li>Lorem ipsum dolor sit amet.</li>
-                                <li>Lorem ipsum dolor sit amet.</li>
-                                <li>Lorem ipsum dolor sit amet.</li>
-                                <li>Lorem ipsum dolor sit amet.</li>
-                                <li>Lorem ipsum dolor sit amet.</li>
-                                <li>Lorem ipsum dolor sit amet.</li>
-                                <li>Lorem ipsum dolor sit amet.</li>
-                                <li>Lorem ipsum dolor sit amet.</li>
-                                <li>Lorem ipsum dolor sit amet.</li>
-                            </ul> -->
                         </div>
                     </div>
                 </div>
