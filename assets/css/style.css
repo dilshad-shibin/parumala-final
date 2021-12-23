@@ -1810,11 +1810,11 @@ a {
 }
 
 .footer-social ul li{
-    margin-right: 28px;
+    margin-right: 20px;
 }
 
 .footer-social ul li a{
-    font-size: 30px;
+    font-size: 25px;
     transition: all .3s ease-in-out;
 }
 

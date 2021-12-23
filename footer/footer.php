@@ -118,13 +118,22 @@
                     <div class="footer-social">
                         <ul>
                             <li>
-                                <a href="" class="text-white-50"><i class="fab fa-facebook-f"></i></a>
+                                <a href="https://www.facebook.com/parumalahospitalofficial/" class="text-white-50" target="_blank"><i class="fab fa-facebook-f"></i></a>
                             </li>
                             <li>
-                                <a href="" class="text-white-50"><i class="fab fa-twitter"></i></a>
+                                <a href="https://twitter.com/ParumalaH" class="text-white-50" target="_blank"><i class="fab fa-twitter"></i></a>
                             </li>
                             <li>
-                                <a href="" class="text-white-50"><i class="fab fa-instagram"></i></a>
+                                <a href="https://www.instagram.com/parumala_hospital/" class="text-white-50" target="_blank"><i class="fab fa-instagram"></i></a>
+                            </li>
+                            <li>
+                                <a href="https://www.youtube.com/channel/UCmAtNtBvT7YvBctK9EIolig" class="text-white-50" target="_blank"><i class="fab fa-youtube"></i></a>
+                            </li>
+                            <li>
+                                <a href="https://www.linkedin.com/in/parumala-hospital-b46810179/" class="text-white-50" target="_blank"><i class="fab fa-linkedin"></i></a>
+                            </li>
+                            <li>
+                                <a href="https://in.pinterest.com/parumalahospital/" class="text-white-50" target="_blank"><i class="fab fa-pinterest"></i></a>
                             </li>
                         </ul>
                     </div>
