@@ -23,6 +23,7 @@
 22. Popup CSS 
 23. SCROLL TO TOP
 24. RIDE SIDE ICONS
+25. MANAGEMENT SLIDER INDEX
 ***************************************************/
 
 
@@ -2038,7 +2039,7 @@ a {
     background: #fff;
     position: relative;
     overflow: hidden;
-    min-height: 530px;
+    min-height: 538px;
 }
 
 .mng-details img{
@@ -3968,4 +3969,36 @@ a {
     position: relative;
     top: -1px;
     left: 1px;
+}
+
+/**************************** 
+25. MANAGEMENT SLIDER INDEX
+*****************************/
+.management-slider .owl-nav {
+    position: relative;
+    top: 35px;
+}
+
+.management-slider .owl-nav button {
+    width: 55px;
+    height: 55px;
+    border: 1px solid #c0b4a4 !important;
+    transition: all .3s ease;
+    margin-right: 10px;
+    outline: none !important;
+}
+
+.management-slider .owl-nav [class*=owl-]:hover {
+    background: rgb(254,90,1);
+    border: 1px solid rgb(254,90,1) !important;
+}
+
+.management-slider .owl-nav button span {
+    font-size: 28px;
+    line-height: 40px;
+    color: #c0b4a4;
+}
+
+.management-slider .owl-nav [class*=owl-]:hover span {
+    color: #fff;
 }

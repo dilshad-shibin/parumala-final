@@ -1354,15 +1354,244 @@
                                         <p>Senior Consultant & HOD Anasthesia</p>
                                     </div>
                                 </div>
+
+                                <!-- new added -->
                                 <div class="single-team">
                                     <div class="team-img">
-                                        <img src="assets/img/doctors/abin.jpg" alt="">
+                                        <img src="assets/img/doctors/mahesh-nalin.jpg" alt="">
                                     </div>
                                     <div class="team-details">
-                                        <h3>Dr.Abin Varghese Thomas</h3>
-                                        <p>Consultant Pulmonologist, Critical Care</p>
+                                        <h3>Dr.Mahesh Nalin Kumar</h3>
+                                        <p>Senior Consultant & HOD of Cardiology</p>
                                     </div>
                                 </div>
+                                <div class="single-team">
+                                    <div class="team-img">
+                                        <img src="assets/img/doctors/rajagopal.jpg" alt="">
+                                    </div>
+                                    <div class="team-details">
+                                        <h3>Dr.S Rajagopal</h3>
+                                        <p>Cardio Thoracic & Vascular Surgeon</p>
+                                    </div>
+                                </div>
+                                <div class="single-team">
+                                    <div class="team-img">
+                                        <img src="assets/img/doctors/arunkumar.jpg" alt="">
+                                    </div>
+                                    <div class="team-details">
+                                        <h3>Dr.Arunkumar G</h3>
+                                        <p>Senior Consultant Cardiologist</p>
+                                    </div>
+                                </div>
+                                <div class="single-team">
+                                    <div class="team-img">
+                                        <img src="assets/img/doctors/rohin.jpg" alt="">
+                                    </div>
+                                    <div class="team-details">
+                                        <h3>Dr.Rohin Abraham</h3>
+                                        <p>Consultant Pediatrician & Neonatologist</p>
+                                    </div>
+                                </div>
+                                <div class="single-team">
+                                    <div class="team-img">
+                                        <img src="assets/img/doctors/vini.jpg" alt="">
+                                    </div>
+                                    <div class="team-details">
+                                        <h3>Dr.Vini Joseph</h3>
+                                        <p>Consultant Pediatrician</p>
+                                    </div>
+                                </div>
+                                <div class="single-team">
+                                    <div class="team-img">
+                                        <img src="assets/img/doctors/jeethu.jpg" alt="">
+                                    </div>
+                                    <div class="team-details">
+                                        <h3>Dr.Jeethu T.J</h3>
+                                        <p>Consultant Pediatrician</p>
+                                    </div>
+                                </div>
+                                <div class="single-team">
+                                    <div class="team-img">
+                                        <img src="assets/img/doctors/chikku.jpg" alt="">
+                                    </div>
+                                    <div class="team-details">
+                                        <h3>Dr.Chikku John</h3>
+                                        <p>Consultant Critical Care</p>
+                                    </div>
+                                </div>
+                                <div class="single-team">
+                                    <div class="team-img">
+                                        <img src="assets/img/doctors/antony.jpg" alt="">
+                                    </div>
+                                    <div class="team-details">
+                                        <h3>Dr.Antony Kalliath</h3>
+                                        <p>Consultant Critical Care</p>
+                                    </div>
+                                </div>
+                                <div class="single-team">
+                                    <div class="team-img">
+                                        <img src="assets/img/doctors/hari.jpg" alt="">
+                                    </div>
+                                    <div class="team-details">
+                                        <h3>Dr.Hari S Govind</h3>
+                                        <p>Consultant Surgical Gastroenterology</p>
+                                    </div>
+                                </div>
+                                <div class="single-team">
+                                    <div class="team-img">
+                                        <img src="assets/img/doctors/siljo.jpg" alt="">
+                                    </div>
+                                    <div class="team-details">
+                                        <h3>Dr.Siljo Jose</h3>
+                                        <p>Consultant Gastroenterology</p>
+                                    </div>
+                                </div>
+                                <div class="single-team">
+                                    <div class="team-img">
+                                        <img src="assets/img/doctors/swaroop.jpg" alt="">
+                                    </div>
+                                    <div class="team-details">
+                                        <h3>Dr.Swaroop K Raj</h3>
+                                        <p>Consultant Neurologist</p>
+                                    </div>
+                                </div>
+                                <div class="single-team">
+                                    <div class="team-img">
+                                        <img src="assets/img/doctors/anish.jpg" alt="">
+                                    </div>
+                                    <div class="team-details">
+                                        <h3>Dr.Anish Ninan</h3>
+                                        <p>Consultant Neurologist</p>
+                                    </div>
+                                </div>
+                                <div class="single-team">
+                                    <div class="team-img">
+                                        <img src="assets/img/doctors/sreekumar.jpg" alt="">
+                                    </div>
+                                    <div class="team-details">
+                                        <h3>Dr.Sreekumar M</h3>
+                                        <p>Consultant Neuro Surgeon</p>
+                                    </div>
+                                </div>
+                                <div class="single-team">
+                                    <div class="team-img">
+                                        <img src="assets/img/doctors/mathews-jose.jpg" alt="">
+                                    </div>
+                                    <div class="team-details">
+                                        <h3>Dr.Mathews Jose</h3>
+                                        <p>Consultant Medical Oncologist</p>
+                                    </div>
+                                </div>
+                                <div class="single-team">
+                                    <div class="team-img">
+                                        <img src="assets/img/doctors/sukesh-nair.jpg" alt="">
+                                    </div>
+                                    <div class="team-details">
+                                        <h3>Dr.Sukesh C Nair</h3>
+                                        <p>Consultant Medical Oncologist</p>
+                                    </div>
+                                </div>
+                                <div class="single-team">
+                                    <div class="team-img">
+                                        <img src="assets/img/doctors/anto-baby.jpg" alt="">
+                                    </div>
+                                    <div class="team-details">
+                                        <h3>Dr.Anto Baby</h3>
+                                        <p>Consultant Radiation Oncologist</p>
+                                    </div>
+                                </div>
+                                <div class="single-team">
+                                    <div class="team-img">
+                                        <img src="assets/img/doctors/aqib-shaick.jpg" alt="">
+                                    </div>
+                                    <div class="team-details">
+                                        <h3>Dr.Aqib K Shaick</h3>
+                                        <p>Consultant Surgical Oncologist</p>
+                                    </div>
+                                </div>
+                                <div class="single-team">
+                                    <div class="team-img">
+                                        <img src="assets/img/doctors/mathew.jpg" alt="">
+                                    </div>
+                                    <div class="team-details">
+                                        <h3>Dr.Mathew Varghese</h3>
+                                        <p>Consultant Orthopedic Surgeon</p>
+                                    </div>
+                                </div>
+                                <div class="single-team">
+                                    <div class="team-img">
+                                        <img src="assets/img/doctors/rizvi.jpg" alt="">
+                                    </div>
+                                    <div class="team-details">
+                                        <h3>Dr.Rizvi Muhammed</h3>
+                                        <p>Consultant Orthopedic Surgeon</p>
+                                    </div>
+                                </div>
+                                <div class="single-team">
+                                    <div class="team-img">
+                                        <img src="assets/img/doctors/shibin.jpg" alt="">
+                                    </div>
+                                    <div class="team-details">
+                                        <h3>Dr.Shibin Zachariah</h3>
+                                        <p>Consultant Orthopedic</p>
+                                    </div>
+                                </div>
+                                <div class="single-team">
+                                    <div class="team-img">
+                                        <img src="assets/img/doctors/hareesh.jpg" alt="">
+                                    </div>
+                                    <div class="team-details">
+                                        <h3>Dr.Hareesh K.G</h3>
+                                        <p>Consultant Nephrologist</p>
+                                    </div>
+                                </div>
+                                <div class="single-team">
+                                    <div class="team-img">
+                                        <img src="assets/img/doctors/mayank.jpg" alt="">
+                                    </div>
+                                    <div class="team-details">
+                                        <h3>Dr.Mayank Bharti</h3>
+                                        <p>Consultant Urologist & Robotic Surgeon</p>
+                                    </div>
+                                </div>
+                                <div class="single-team">
+                                    <div class="team-img">
+                                        <img src="assets/img/doctors/praveen.jpg" alt="">
+                                    </div>
+                                    <div class="team-details">
+                                        <h3>Dr.Praveen Gopi</h3>
+                                        <p>Consultant Urologist</p>
+                                    </div>
+                                </div>
+                                <div class="single-team">
+                                    <div class="team-img">
+                                        <img src="assets/img/doctors/grace.jpg" alt="">
+                                    </div>
+                                    <div class="team-details">
+                                        <h3>Dr.Grace Kuruvila</h3>
+                                        <p>Consultant Gynecologist</p>
+                                    </div>
+                                </div>
+                                <div class="single-team">
+                                    <div class="team-img">
+                                        <img src="assets/img/doctors/sherine.jpg" alt="">
+                                    </div>
+                                    <div class="team-details">
+                                        <h3>Dr.Sherine Joseph</h3>
+                                        <p>Consultant Gynecologist</p>
+                                    </div>
+                                </div>
+                                <div class="single-team">
+                                    <div class="team-img">
+                                        <img src="assets/img/doctors/deepthi.jpg" alt="">
+                                    </div>
+                                    <div class="team-details">
+                                        <h3>Dr.Deepthi D.P</h3>
+                                        <p>Consultant Gynecologist</p>
+                                    </div>
+                                </div>
+
+
                             </div>
                         </div>
                     </div>
@@ -1493,6 +1722,67 @@
                             </a>
                         </div>
 
+                    </div>
+                </div>
+            </section>
+
+            <!-- Management-team section -->
+            <section class="speciality-area section">
+                <div class="container">
+                    <div class="row">
+                        <div class="col-12">
+                            <div class="speciality-head speciality-head2">
+                                <div class="head"><h1>Management & Administration</h1></div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="row">
+                        <div class="col-12">
+                            <div class="management-slider owl-carousel">
+
+                                <div class="mng-details">
+                                    <div class="mng-img">
+                                        <img src="assets/img/about/new-president.jpg" alt="">
+                                    </div>
+                                    <div class="mng-text">
+                                        <h1>President <span></span></h1>
+                                        <h4>H.H. Baselios Marthoma Mathews III</h4>
+                                        <p>Catholicos of the East and Malankara Metropolitan President</p>
+                                    </div>
+                                </div>
+
+                                <div class="mng-details">
+                                    <div class="mng-img">
+                                        <img src="assets/img/about/vice.jpg" alt="">
+                                    </div>
+                                    <div class="mng-text">
+                                        <h1>Vice President <span></span></h1>
+                                        <h4>H.G. Dr. Yuhanon Mar Chrisostomos Metropolitan</h4>
+                                    </div>
+                                </div>
+
+                                <div class="mng-details">
+                                    <div class="mng-img">
+                                        <img src="assets/img/about/chief.jpg" alt="">
+                                    </div>
+                                    <div class="mng-text">
+                                        <h1>Chief Executive Officer <span class="third"></span></h1>
+                                        <h4>Fr. M.C Poulose</h4>
+                                    </div>
+                                </div>
+
+                                <div class="mng-details">
+                                    <div class="mng-img">
+                                        <img src="assets/img/about/chief.jpg" alt="">
+                                    </div>
+                                    <div class="mng-text">
+                                        <h1>Secretary  & Project Director <span class="third"></span></h1>
+                                        <h4>Er. Varkey John</h4>
+                                    </div>
+                                </div>
+
+                            </div>
+                        </div>
                     </div>
                 </div>
             </section>

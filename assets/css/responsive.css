@@ -676,6 +676,21 @@
     #scrollUp{
         right: 5%;
     }
+    .centres-listing .single-centre .centre-box{
+        min-height: 245px;
+    }
+    .single-centre .head h4{
+        font-size: 15px;
+    }
+    .speciality-head2 .head{
+        flex: 0 0 70%;
+    }
+    .speciality-head2 .head h1 {
+        font-size: 26px !important;
+    }
+    .management-slider .mng-details{
+        min-height: 530px;
+    }
 
 }
 

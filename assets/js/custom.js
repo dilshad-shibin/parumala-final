@@ -30,7 +30,7 @@
             scrollTop: 0
         }, duration);
     });
-    
+
 
     //Testimonials SLIDER ACTIVE CODE
     $('.testi-slider.owl-carousel').owlCarousel({
@@ -97,7 +97,7 @@
         navText: ['<i class="fas fa-long-arrow-alt-left"></i>','<i class="fas fa-long-arrow-alt-right"></i>'],
         responsive: {
             0: {
-                items: 1
+                items: 2
             },
             576: {
                 items: 2
@@ -343,6 +343,32 @@
             },
             992: {
                 items: 5
+            }
+        }
+    });
+
+    //management-slider ACTIVE CODE
+    $('.management-slider.owl-carousel').owlCarousel({
+        loop: true,
+        margin: 30,
+        nav: true,
+        dots: false, 
+        smartSpeed: 2000,
+        autoplay: true,
+        responsiveClass: true,
+        autoplayTimeout: 4000,
+        responsive: {
+            0: {
+                items: 1
+            },
+            576: {
+                items: 1
+            },
+            768: {
+                items: 3
+            },
+            992: {
+                items: 3
             }
         }
     });
