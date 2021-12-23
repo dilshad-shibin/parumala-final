@@ -41,7 +41,7 @@
                                 <div class="text">
                                     <p>St. Gregorios Medical Mission Hospital was inaugurated on the 11th of September 1975 with just 50 beds and 3 departments. The Hospital grew to the status of a Multi-Specialty Hospital with 197 beds and most modern facilities over forty-five years.</p>
 
-                                    <p>The Hospital is owned and controlled by a Charitable Society of the Indian (Malankara) Orthodox Syrian Church, registered under the Travancore-Cochin Literacy, Scientific and Charitable Act with Reg No. A334/78. The President of the Society is the Head of the Malankara Orthodox Church, His Holiness Baselios Marthoma Paulose II, the Catholicos of the Apostolic Throne of St. Thomas and the Vice-President of the Society is His Grace Dr. Yuhanon Mar Chrisostomos, Metropolitan of the Niranam Diocese of the Church. The day-to-day affairs of the Hospital is managed by the “St. Gregorios Medical Mission Managing Committee” formed under the Constitution of the Society.</p>
+                                    <p>The Hospital is owned and controlled by a Charitable Society of the Indian (Malankara) Orthodox Syrian Church, registered under the Travancore-Cochin Literacy, Scientific and Charitable Act with Reg No. A334/78. The President of the Society is the Head of the Malankara Orthodox Church, His Holiness Baselios Marthoma Mathews III, the Catholicos of the Apostolic Throne of St. Thomas and the Vice-President of the Society is His Grace Dr. Yuhanon Mar Chrisostomos, Metropolitan of the Niranam Diocese of the Church. The day-to-day affairs of the Hospital is managed by the “St. Gregorios Medical Mission Managing Committee” formed under the Constitution of the Society.</p>
                                 </div>
                             </div>
                         </div>
@@ -98,18 +98,32 @@
                         </div>
                     </div>
                     <div class="row">
-                        <div class="col-lg-4">
+                        <div class="col-12 text-center">
+                            <div class="mng-details mng-details-main">
+                                <div class="mng-img">
+                                    <img src="assets/img/about/new-president.jpg" alt="">
+                                </div>
+                                <div class="mng-text">
+                                    <h1>President <span></span></h1>
+                                    <h4>H.H. Baselios Marthoma Mathews III</h4>
+                                    <p>Catholicos of the East and Malankara Metropolitan President</p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="row">
+                        <!-- <div class="col-lg-4">
                             <div class="mng-details">
                                 <div class="mng-img">
                                     <img src="assets/img/about/new-president.jpg" alt="">
                                 </div>
                                 <div class="mng-text">
                                     <h1>President <span></span></h1>
-                                    <h4>His Holiness Baselios Marthoma Paulose II</h4>
-                                    <p>Catholicos of the East and Malankara Metropolitan</p>
+                                    <h4>H.H. Baselios Marthoma Mathews III</h4>
+                                    <p>Catholicos of the East and Malankara Metropolitan President</p>
                                 </div>
                             </div>
-                        </div>
+                        </div> -->
                         <div class="col-lg-4">
                             <div class="mng-details">
                                 <div class="mng-img">
@@ -117,7 +131,7 @@
                                 </div>
                                 <div class="mng-text">
                                     <h1>Vice President <span></span></h1>
-                                    <h4>H.G. Dr. Yuhanon Mar Chrisostomos, Metropolitan</h4>
+                                    <h4>H.G. Dr. Yuhanon Mar Chrisostomos Metropolitan</h4>
                                 </div>
                             </div>
                         </div>
@@ -128,7 +142,18 @@
                                 </div>
                                 <div class="mng-text">
                                     <h1>Chief Executive Officer <span class="third"></span></h1>
-                                    <h4>Fr.M.C.Poulose</h4>
+                                    <h4>Fr. M.C Poulose</h4>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-lg-4">
+                            <div class="mng-details">
+                                <div class="mng-img">
+                                    <img src="assets/img/about/chief.jpg" alt="">
+                                </div>
+                                <div class="mng-text">
+                                    <h1>Secretary  & Project Director <span class="third"></span></h1>
+                                    <h4>Er. Varkey John</h4>
                                 </div>
                             </div>
                         </div>

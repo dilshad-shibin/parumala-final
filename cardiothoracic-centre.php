@@ -33,18 +33,21 @@
             <section class="section center-excellence">
                 <div class="container">
                     <div class="row">
-                        <div class="col-12 text-center">
+                        <div class="col-12">
                             <div class="excellence-head excellence-head2">
-                                <h1>Cardiothoracic Centre</h1>
+                                <h1 class="bottom-change">Cardiothoracic Centre</h1>
                             </div>
                         </div>
                     </div>
                     <div class="row">
-                        <div class="col-12 mt-3 text-center">
+                        <div class="col-12 mt-3">
                             <div class="oncology-para">
-                                <p>St. Gregorios Cardiac Centre and Research Institute Centre of Excellence in Cardiac Sciences offers a comprehensive range of diagnostic and therapeutic medical technology to ensure high precision diagnosis, accurate treatment and best possible medical outcomes.</p>
-                                <p>One of the most advanced facilities of its kind in the region, the Centre Of Excellence in Cardiac Sciences at Parumala Hospital offers advanced Cardiology, Interventional Cardiology, Electrophysiology, Cardiac Surgery and Cardiac Rehabilitation Services for both Adults and Children. Designed to function like Parumala Hospital, the center has an outpatient division, an inpatient division, a day care section, a state-of-the-art cardiovascular imaging section including nuclear medicine, a dedicated electrophysiology lab, an interventional cardiology wing, dedicated adult, and pediatric cardiac surgical suites, dedicated cardiac ICU’s and a 24-hour Rapid Access Chest Pain Clinic to handle all emergencies.</p>
-                                <p>The exceptional team of Doctors comprising Adult Cardiologists / Interventional Cardiologists, Cardiac Electrophysiologists, Adult Cardiac Vascular Thoracic Surgeons, Pediatric Cardiologists, Pediatric Cardiac Surgeons, Cardiac Anesthesiologists and Interventional Radiologists offers optimal, evidence based treatment to patients with the help of trained nurses, technicians, dieticians and rehabilitation experts.</p>
+                                <p>Parumala International Cardiothoracic Centre & Research Institute (PICC) is a Centre of Excellence in Cardiac Sciences @ Parumala Hospital, offering a comprehensive range of diagnostic and therapeutic medical technology to ensure high precision diagnosis, accurate treatment and best possible interventional and surgical medical outcomes. PICC is designed to cater patients from all over the world.</p>
+                                <p>One of the most advanced facilities of its kind in the region, the Centre of Excellence in Cardiac Sciences at Parumala Hospital offers advanced Cardiology, Interventional Cardiology, Pediatric Cardiology, Electrophysiology, Cardiac surgery & Services for both adults & children.</p>
+                                <p>Designed to function as an integral part of Parumala Hospital, the centre has an outpatient division, an inpatient division, a day care section, a state of the art cardiovascular imaging section including nuclear medicine,  an Interventional Cardiology wing, dedicated adult Cardiac surgical suites, dedicated cardiac ICU’s and a 24 hour Rapid Access Chest Pain service to handle all emergencies.</p>
+                                <p>Our out patient Department functions from 9 am to 5 pm based on appointments. Emergency surgical and interventional services are available round the clock.
+                                We have also launched our new service @ PICC, Cardio-Oncology Programme recently. It will help us to provide both Heart Care and Cancer Care at one place to patients with cancer and heart disease.</p>
+
 
                             </div>
                         </div>
@@ -52,16 +55,151 @@
                 </div>
             </section>
 
-            <!-- Our Department Area -->
-            <section class="dept-highlight dept-highlight-gastro">
+            <!-- Sub Content Section -->
+            <section class="sub-excellence-area section">
                 <div class="container">
-                    <!-- <div class="row">
+                    <div class="row">
                         <div class="col-12">
-                            <div class="highlight-head text-center">
-                                <p>Our centre offers the most advanced methods for the diagnosis and treatment forall the gastrointestinal problems:-</p>
+                            <div class="sub-area-text">
+                                <div class="head">
+                                    <h2><strong>Interventional Cardiology</strong></h2>
+                                </div>
+                                <div class="details">
+                                    <h4>Interventional Cath Lab Services :</h4>
+                                    <p>State of art Advanced low radiation Cath lab with CT Image overlay for complex procedures.
+                                    State of art Coronary Intervention Lab, OCT (Optical Coherence Tomography), Intravascular Ultrasound (IVUS), Fractional Flow Reserve  (FFR) estimation and Rotablation.</p>
+                                </div>
                             </div>
+
+                            <div class="sub-area-text">
+                                <div class="head">
+                                    <h2><strong>Scope of Services of Cardiology  Department</strong></h2>
+                                </div>
+                                <div class="details">
+                                    <h4>Advanced Coronary Intervention :</h4>
+                                    <ul>
+                                        <li>24x7 Primary Angioplasty</li>
+                                        <li>Elective angioplasty including complex procedures:</li>
+                                        <li>OCT (Optical Coherence tomography)</li>
+                                        <li>IVUS (lntravascular Ultrasound)</li>
+                                        <li>IVL (lntravascular Lithotripsy)</li>
+                                        <li>Bioresorbable Stents</li>
+                                        <li>Rotablation</li>
+                                    </ul>
+                                    <h4>Devices for Heart Failure and Arrhythmias</h4>
+                                    <ul>
+                                        <li>CRT (Cardiac Resynchronisation Therapy)</li>
+                                        <li>ICD (Implantable Cardioverter Defibrillator)</li>
+                                        <li>Subcutaneous ICD</li>
+                                        <li>Implantable Loop Recorder (ILR)</li>
+                                        <li>Electrophysiology study & Radio Frequency ablation (RFA)</li>
+                                    </ul>
+                                    <h4>Pacemakers</h4>
+                                    <ul>
+                                        <li>Dual Chamber</li>
+                                        <li>Single Chamber</li>
+                                        <li>CLS</li>
+                                        <li>Bluetooth Enabled Devices</li>
+                                        <li>Remote Monitoring</li>
+                                        <li>Leadless Pacemaker</li>
+                                        <li>Antibacterial Envelopes</li>
+                                    </ul>
+                                    <h4>Special Interventions</h4>
+                                    <ul>
+                                        <li>Peripheral Angiogram</li>
+                                        <li>Peripheral Interventions</li>
+                                        <li>Device Closures (ASD,VSD,PDA)</li>
+                                        <li>Left & Right heart catheterization</li>
+                                        <li>Balloon valvulotomies (BMV,BAV,PPV)</li>
+                                        <li>Endovascular interventions</li>
+                                    </ul>
+                                    <h4>Advanced Imaging</h4>
+                                    <ul>
+                                        <li>2D & 3D ECHO</li>
+                                        <li>TEE</li>
+                                        <li>Contrast Echo</li>
+                                        <li>Nuclear Cardiology, Cardiac PET</li>
+                                    </ul>
+                                    <h4>Non Invasive Lab</h4>
+                                    <ul>
+                                        <li>ECHO</li>
+                                        <li>TMT</li>
+                                        <li>Holter</li>
+                                        <li>Web Cardio</li>
+                                        <li>ABPM (Ambulatory Blood Pressure Monitoring)</li>
+                                    </ul>
+                                    <h4>Cardiothoracic & Vascular Surgery</h4>
+                                    <p>The highly experienced Cardiac Surgery team at the Parumala Hospital of Excellence in Cardiac Sciences offers advanced cardio vascular – thoracic surgical services for management of complex heart diseases.</p>
+                                    <ul>
+                                        <li>Coronary Artery Grafting Bypass Surgery/Bypass Surgery</li>
+                                        <li>Heart failure surgery</li>
+                                        <li>Thoracoscopic surgery – minimally invasive thoracic surgery</li>
+                                        <li>Hybrid procedures for cardiac & vascular surgery</li>
+                                        <li>Complex valve repair surgeries</li>
+                                        <li>Bronchoscopes – rigid & fiber optic</li>
+                                    </ul>
+                                    <h4>Scope of Services of Cardio Thoracic Vascular Surgery Department</h4>
+                                    <ul>
+                                        <li>Conventional and Beating heart	coronary surgeries</li>
+                                        <li>Emergency bypass surgeries including post Ml VSR repairs and valve replacements</li>
+                                        <li>Combined valve and bypass surgeries, Heart failure surgeries</li>
+                                        <li>Coronary bypass with LV aneurysm surgeries</li>
+                                        <li>Heart valve replacements and repair surgeries</li>
+                                        <li>Pericardiotomy</li>
+                                        <li>Thoracotomies and lung resection surgeries</li>
+                                        <li>Congenital heart defect surgeries</li>
+                                        <li>Chest wall deformity correction surgeries</li>
+                                        <li>Aortic Aneurysm repairs including arch replacement surgeries</li>
+                                        <li>Carotid endarterectomy</li>
+                                        <li>Pulmonary Endarterectomy Surgery </li>
+                                        <li>Surgery for Cardiac Tumours</li>
+                                        <li>Endovascular Surgeries and Hybrid Procedures</li>
+                                        <li>Peripheral Vascular Disease Surgeries</li>
+                                        <li>Peripheral Arterial Aneurysm Surgeries </li>
+                                        <li>Lung Volume reduction surgeries</li>
+                                        <li>Video Assisted Thoracotomy Surgeries (VATS)</li>
+                                        <li>AV fistula creation</li>
+                                        <li>Varicose vein surgeries and Laser/ Radio Frequency ablation (RFA) Procedures</li>
+                                    </ul>
+                                    <h4>Cardio-Oncology</h4>
+                                    <p>Cardio-oncology is a new field that focuses on providing collaborative, supportive care to patients who experience cardiac symptoms related to their cancer or its treatments.</p>
+                                    <h4>Importance of Cardio-Oncology</h4>
+                                    <p>Detect, Monitor & Treat Cardiovascular Disease in Cancer Patients & Survivors
+                                    Cardio-Oncology integrates cardiovascular care with cancer treatment. This emerging service works to prevent, detect and treat the potential adverse cardiovascular effects of certain cancer treatments. Sometimes the effects are immediately evident, but sometimes problems don’t arise until years or decades after cancer treatment, making screening and follow-up important.</p>
+                                    <h4>Highlights:</h4>
+                                    <ul>
+                                        <li>Expert Heart Care and Cancer Care in one place.</li>
+                                        <li>Heart disease risk assessment for cancer patients.</li>
+                                        <li>Ongoing heart screening.</li>
+                                        <li>Echo / Strain Imaging.</li>
+                                        <li>Biomarker testing</li>
+                                        <li>Nuclear Cardiology and Imaging.</li>
+                                        <li>Therapy of Heart Failure / CAD / Thrombosis / Arrhythmia</li>
+                                    </ul>
+                                    <h4>Preventive Oncology</h4>
+                                    <p>The expert care available at PICC includes the service of a Senior Pediatric Cardiologist. Precise echocardiographic diagnosis and management is streamlined with optimal Medical treatment, along with channeling for Interventional and Surgical  procedures in indicated cases</p>
+                                    <ul>
+                                        <li>Congenital Heart Disease (CHD)</li>
+                                        <li>Post operative CHD </li>
+                                        <li>Kawasaki Disease</li>
+                                        <li>Post Covid MISC </li>
+                                        <li>Rheumatic Heart Disease </li>
+                                        <li>Myocarditis </li>
+                                        <li>Cardiomyopathies</li>
+                                        <li>Pediatric Dyslipidemia</li>
+                                        <li>Hypertension in Children</li>
+                                    </ul>
+                                </div>
+                            </div>
+
                         </div>
-                    </div> -->
+                    </div>
+                </div>
+            </section>
+
+            <!-- Our Department Area -->
+            <!-- <section class="dept-highlight dept-highlight-gastro">
+                <div class="container">
                     <div class="row">
                         <div class="col-lg-6">
                             <div class="service-col">
@@ -107,7 +245,7 @@
                         </div>
                     </div>
                 </div>
-            </section>
+            </section> -->
 
             <!-- Department Doctors -->
             <section class="dept-doctors section">

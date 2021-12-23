@@ -132,7 +132,7 @@
                                             <img src="assets/img/excelence/png/01.png" alt="" class="d-none hover-block">
                                         </div>
                                         <div class="head"><h4>Institute of Oncology</h4></div>
-                                        <div class="text"><p>St. Gregorios International Cancer Care Centre (SGICCC) provides multidisciplinary...</p></div>
+                                        <!-- <div class="text"><p>St. Gregorios International Cancer Care Centre (SGICCC) provides multidisciplinary...</p></div> -->
                                         <div class="btm-icon">
                                             <img src="assets/img/arrow-right-orange.png" alt="" class="hover-none">
                                             <img src="assets/img/arrow-right-white.png" alt="" class="d-none hover-block">
@@ -146,7 +146,7 @@
                                             <img src="assets/img/excelence/png/04.png" alt="" class="d-none hover-block">
                                         </div>
                                         <div class="head"><h4>Neuroscience</h4></div>
-                                        <div class="text"><p>We offer comprehensive state of the art facilities for treatment in the field of Neurological...</p></div>
+                                        <!-- <div class="text"><p>We offer comprehensive state of the art facilities for treatment in the field of Neurological...</p></div> -->
                                         <div class="btm-icon">
                                             <img src="assets/img/arrow-right-orange.png" alt="" class="hover-none">
                                             <img src="assets/img/arrow-right-white.png" alt="" class="d-none hover-block">
@@ -163,7 +163,7 @@
                                             <img src="assets/img/excelence/png/02.png" alt="" class="d-none hover-block">
                                         </div>
                                         <div class="head"><h4>Institute of Cardiothoracic Centre</h4></div>
-                                        <div class="text"><p>St. Gregorios Cardiac Centre and Research Institute Centre of Excellence.....</p></div>
+                                        <!-- <div class="text"><p>St. Gregorios Cardiac Centre and Research Institute Centre of Excellence.....</p></div> -->
                                         <div class="btm-icon">
                                             <img src="assets/img/arrow-right-orange.png" alt="" class="hover-none">
                                             <img src="assets/img/arrow-right-white.png" alt="" class="d-none hover-block">
@@ -177,7 +177,7 @@
                                             <img src="assets/img/excelence/png/05.png" alt="" class="d-none hover-block">                                         
                                         </div>
                                         <div class="head"><h4>Orthopaedics & Arthroscopic Surgery</h4></div>
-                                        <div class="text"><p>The department of Orthopedics has excellent facilities for advanced trauma...</p></div>
+                                        <!-- <div class="text"><p>The department of Orthopedics has excellent facilities for advanced trauma...</p></div> -->
                                         <div class="btm-icon">
                                             <img src="assets/img/arrow-right-orange.png" alt="" class="hover-none">
                                             <img src="assets/img/arrow-right-white.png" alt="" class="d-none hover-block">
@@ -194,7 +194,7 @@
                                             <img src="assets/img/excelence/png/03.png" alt="" class="d-none hover-block">                                         
                                         </div>
                                         <div class="head"><h4>Renal Care Centre</h4></div>
-                                        <div class="text"><p>The Renal Care Center at Parumala Hospital is one of the best in the region...</p></div>
+                                        <!-- <div class="text"><p>The Renal Care Center at Parumala Hospital is one of the best in the region...</p></div> -->
                                         <div class="btm-icon">
                                             <img src="assets/img/arrow-right-orange.png" alt="" class="hover-none">
                                             <img src="assets/img/arrow-right-white.png" alt="" class="d-none hover-block">
@@ -208,7 +208,7 @@
                                             <img src="assets/img/excelence/png/06.png" alt="" class="d-none hover-block">                                          
                                         </div>
                                         <div class="head"><h4>Head & Neck Reconstructive Surgery</h4></div>
-                                        <div class="text"><p>The Head and Neck Oncology & Reconstructive Surgery department has excellence...</p></div>
+                                        <!-- <div class="text"><p>The Head and Neck Oncology & Reconstructive Surgery department has excellence...</p></div> -->
                                         <div class="btm-icon">
                                             <img src="assets/img/arrow-right-orange.png" alt="" class="hover-none">
                                             <img src="assets/img/arrow-right-white.png" alt="" class="d-none hover-block">
@@ -225,7 +225,7 @@
                                             <img src="assets/img/excelence/png/07.png" alt="" class="d-none hover-block">
                                         </div>
                                         <div class="head"><h4>Medical & Surgical Gastroenterology</h4></div>
-                                        <div class="text"><p>The Gastroenterology department in the hospital offers advanced care for comprehensive....</p></div>
+                                        <!-- <div class="text"><p>The Gastroenterology department in the hospital offers advanced care for comprehensive....</p></div> -->
                                         <div class="btm-icon">
                                             <img src="assets/img/arrow-right-orange.png" alt="" class="hover-none">
                                             <img src="assets/img/arrow-right-white.png" alt="" class="d-none hover-block">
@@ -239,7 +239,7 @@
                                             <img src="assets/img/excelence/png/08.png" alt="" class="d-none hover-block">
                                         </div>
                                         <div class="head"><h4>Critical Care</h4></div>
-                                        <div class="text"><p>The Department of Critical Care Medicine provides 24 X 7 comprehensive solution....</p></div>
+                                        <!-- <div class="text"><p>The Department of Critical Care Medicine provides 24 X 7 comprehensive solution....</p></div> -->
                                         <div class="btm-icon">
                                             <img src="assets/img/arrow-right-orange.png" alt="" class="hover-none">
                                             <img src="assets/img/arrow-right-white.png" alt="" class="d-none hover-block">
@@ -256,7 +256,7 @@
                                             <img src="assets/img/excelence/png/09.png" alt="" class="d-none hover-block">
                                         </div>
                                         <div class="head"><h4>Women Health</h4></div>
-                                        <div class="text"><p>With the most advanced facilities of its kind in the region....</p></div>
+                                        <!-- <div class="text"><p>With the most advanced facilities of its kind in the region....</p></div> -->
                                         <div class="btm-icon">
                                             <img src="assets/img/arrow-right-orange.png" alt="" class="hover-none">
                                             <img src="assets/img/arrow-right-white.png" alt="" class="d-none hover-block">
@@ -270,7 +270,7 @@
                                             <img src="assets/img/excelence/png/10.png" alt="" class="d-none hover-block">
                                         </div>
                                         <div class="head"><h4>Child Care</h4></div>
-                                        <div class="text"><p>Children born with disabilities have to be addressed at an early stage to optimize their....</p></div>
+                                        <!-- <div class="text"><p>Children born with disabilities have to be addressed at an early stage to optimize their....</p></div> -->
                                         <div class="btm-icon">
                                             <img src="assets/img/arrow-right-orange.png" alt="" class="hover-none">
                                             <img src="assets/img/arrow-right-white.png" alt="" class="d-none hover-block">

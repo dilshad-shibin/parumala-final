@@ -148,6 +148,8 @@
         margin-bottom: 35px;
     }
     .mng-details{
+        max-width: 460px;
+        margin: 0 auto;
         margin-bottom: 25px;
     }
     .mision-bx{
@@ -390,8 +392,14 @@
     .footer-list-two{
         flex: 0 0 100%;
     }
-    .footer-address, .footer-number, .footer-email{
+    .footer-address, .footer-number, .footer-email, .footer-social{
         padding: 15px 0;
+    }
+    .footer-social ul li {
+        margin-right: 20px;
+    }
+    .footer-social ul li a{
+        font-size: 25px;
     }
     .footer-number .numbers a{
         font-size: 18px;
@@ -471,7 +479,7 @@
         padding: 0;
     }
     .bread-text2 h1 span{
-        font-size: 45px;
+        font-size: 38px;
     }
     .department-area {
         padding: 60px 0;
@@ -658,6 +666,12 @@
     }
     .speciality-area{
         padding: 70px 0 100px;
+    }
+    .mng-details{
+        min-height: auto;
+    }
+    .mng-details .mng-text{
+        text-align: center;
     }
 
 }

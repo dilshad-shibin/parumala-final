@@ -115,6 +115,19 @@
                             <a href="mailto:happyhealing@parumalahospital.com">happyhealing@parumalahospital.com</a>
                         </div>
                     </div>
+                    <div class="footer-social">
+                        <ul>
+                            <li>
+                                <a href="" class="text-white-50"><i class="fab fa-facebook-f"></i></a>
+                            </li>
+                            <li>
+                                <a href="" class="text-white-50"><i class="fab fa-twitter"></i></a>
+                            </li>
+                            <li>
+                                <a href="" class="text-white-50"><i class="fab fa-instagram"></i></a>
+                            </li>
+                        </ul>
+                    </div>
                 </div>
             </div>
         </div>

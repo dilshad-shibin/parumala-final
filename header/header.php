@@ -86,7 +86,7 @@
                             <div class="col-12">
                                 <div class="main-nav">
                                     <div class="logo-top">
-                                        <a href="index.php"><img src="assets/img/logo/parumala-logo.png" alt=""></a>
+                                        <a href="index.php"><img src="assets/img/logo/parumala-logo-new.png" alt=""></a>
                                     </div>
                                     <div class="enquiry-top">
                                         <div class="appointment-btn">

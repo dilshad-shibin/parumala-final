@@ -941,7 +941,7 @@ a {
     box-shadow: 0 4px 8px rgb(0 0 0 / 15%);
     padding: 30px;
     margin-bottom: 20px;
-    min-height: 325px;
+    min-height: 250px;
     transition: all .3s ease;
 }
 
@@ -1789,8 +1789,28 @@ a {
 }
 
 .footer-email{
-    border-bottom: none;
-    padding-bottom: 110px;
+    padding-bottom: 30px;
+}
+
+.footer-social{
+    padding: 40px 30px;
+}
+
+.footer-social ul{
+    display: flex;
+}
+
+.footer-social ul li{
+    margin-right: 28px;
+}
+
+.footer-social ul li a{
+    font-size: 30px;
+    transition: all .3s ease-in-out;
+}
+
+.footer-social ul li a:hover{
+    color: #ff850a !important; 
 }
 
 .adr-head h5{
@@ -2004,11 +2024,17 @@ a {
     margin-bottom: 75px;
 }
 
+.mng-details-main{
+    max-width: 460px;
+    margin: 0 auto;
+    margin-bottom: 50px;
+}
+
 .mng-details{
     background: #fff;
     position: relative;
     overflow: hidden;
-    min-height: 560px;
+    min-height: 530px;
 }
 
 .mng-details img{
@@ -2016,7 +2042,7 @@ a {
 }
 
 .mng-details .mng-text{
-    padding: 45px;
+    padding: 45px 20px;
 }
 
 .mng-details .mng-text h1{
@@ -2027,7 +2053,7 @@ a {
     position: relative;
 }
 
-.mng-details .mng-text h1 span{
+/* .mng-details .mng-text h1 span{
     width: 70px;
     background: #fe6c05;
     height: 1px;
@@ -2035,7 +2061,7 @@ a {
     position: absolute;
     top: 50%;
     margin-left: 10px;
-}
+} */
 
 .mng-details .mng-text h1 span.third{
     top: 70%;
@@ -2159,6 +2185,20 @@ a {
     90deg, rgba(254,90,1,1) 0%, rgba(254,90,1,1) 35%, rgba(254,90,1,1) 35%, rgba(254,90,1,0.6502976190476191) 100%);
 }
 
+.excellence-head h1.bottom-change::before{
+    position: absolute;
+    content: "";
+    height: 5px;
+    border-radius: 10px;
+    width: 50px;
+    text-align: center;
+    bottom: -18px;
+    left: 0;
+    background: linear-gradient( 
+    90deg, rgba(254,90,1,1) 0%, rgba(254,90,1,1) 35%, rgba(254,90,1,1) 35%, rgba(254,90,1,0.6502976190476191) 100%);
+    transform: translate(0);
+}
+
 .centres-listing .single-centre .centre-box2{
     min-height: 355px;
     margin-bottom: 35px;
@@ -2175,6 +2215,30 @@ a {
 .bread-text h1 span{
     font-size: 60px;
 }
+
+/* Sub Area Excellence */
+.sub-excellence-area{
+    position: relative;
+    padding: 80px 0;
+    background-color: #fff;
+}
+
+.sub-area-text{
+    margin-bottom: 40px;
+}
+
+.sub-area-text .head h2{
+    color: rgb(254,90,1);
+    margin-bottom: 20px;
+}
+
+.sub-area-text .details ul{
+    list-style: disc;
+    padding-left: 25px;
+    margin-bottom: 25px;
+}
+
+
 
 /****************************** 
 04. Institute Of Oncology CSS

@@ -157,7 +157,7 @@
         nav: true,
         dots: false, 
         smartSpeed: 2000,
-        autoplay: false,
+        autoplay: true,
         responsiveClass: true,
         autoplayTimeout: 4000,
         navText: ['<i class="fas fa-long-arrow-alt-left"></i>','<i class="fas fa-long-arrow-alt-right"></i>'],
@@ -185,7 +185,7 @@
         nav: true,
         dots: false, 
         smartSpeed: 2000,
-        autoplay: false,
+        autoplay: true,
         responsiveClass: true,
         autoplayTimeout: 4000,
         responsive: {
