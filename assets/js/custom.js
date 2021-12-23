@@ -31,6 +31,28 @@
         }, duration);
     });
 
+    // :: 14.0 FANCYBOX IMAGE GALLERY
+    $('[data-fancybox="images"]').fancybox({
+        afterLoad: function (instance, current) {
+            var pixelRatio = window.devicePixelRatio || 1;
+
+            if (pixelRatio > 1.5) {
+                current.width = current.width / pixelRatio;
+                current.height = current.height / pixelRatio;
+            }
+        }
+    });
+
+    $('[data-fancybox]').fancybox({
+        youtube: {
+            controls: 0,
+            showinfo: 0
+        },
+        vimeo: {
+            color: 'f00'
+        }
+    });
+
 
     //Testimonials SLIDER ACTIVE CODE
     $('.testi-slider.owl-carousel').owlCarousel({

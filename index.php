@@ -41,7 +41,7 @@
                         </div>
                     </div>
                     <div class="single-banner">
-                        <div class="banner-bg banner-bg1">
+                        <div class="banner-bg banner-bg2">
                             <div class="banner-overlay"></div>
                             <div class="container">
                                 <div class="row">
@@ -63,8 +63,8 @@
                             </div>
                         </div>
                     </div>
-                    <div class="single-banner">
-                        <div class="banner-bg banner-bg1">
+                    <!-- <div class="single-banner">
+                        <div class="banner-bg banner-bg2">
                             <div class="banner-overlay"></div>
                             <div class="container">
                                 <div class="row">
@@ -85,7 +85,7 @@
                                 </div>
                             </div>
                         </div>
-                    </div>
+                    </div> -->
                 </div>
             </section>
 
@@ -97,7 +97,7 @@
                             <img src="assets/img/cancer.png" alt="">
                         </div>
                         <div class="text">
-                            <h3><a href="">ST. Gregorios international cancer care center(SGICCC)</a></h3>
+                            <h3><a href="cancer-care-centre.php">ST. Gregorios international cancer care center(SGICCC)</a></h3>
                         </div>
                         <div class="bottom-icon">
                             <a href="" class="hover-none"><img src="assets/img/arow-right-long.png" alt=""></a>
@@ -109,7 +109,7 @@
                             <img src="assets/img/cardio.png" alt="">
                         </div>
                         <div class="text">
-                            <h3><a href="">Parumala international Cardiothoracic center(PICC)</a></h3>
+                            <h3><a href="cardiothoracic-centre.php">Parumala international Cardiothoracic center(PICC)</a></h3>
                         </div>
                         <div class="bottom-icon">
                             <a href="" class="hover-none"><img src="assets/img/arow-right-long.png" alt=""></a>
@@ -316,7 +316,8 @@
                                 <div class="counter-box counter-last">
                                     <div class="counter-inner">
                                         <div class="icon">
-                                            <a data-fancybox href="https://parumalahospital.com/360-virtual-tour/">
+                                            <a href="https://parumalahospital.com/360-virtual-tour/" target="_blank">
+                                            <!-- <a data-fancybox href="https://parumalahospital.com/360-virtual-tour/"> -->
                                                 <img src="assets/img/play-btn.png" alt="">
                                             </a>
                                         </div>

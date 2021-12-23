@@ -643,6 +643,10 @@ a {
     background-image: url(../img/banner/bnr.jpg);
 }
 
+.banner-bg2{
+    background-image: url(../img/banner/banner-2.jpg);
+}
+
 .banner-ct{
     position: absolute;
     display: flex;
