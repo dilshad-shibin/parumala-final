@@ -95,7 +95,7 @@
                     <div class="footer-address">
                         <div class="adr-head">
                             <h5>St. Gregorios Medical Mission Hospital, Parumala</h5>
-                            <p>Near Parumala Church Post Office Road, Karala - 689 626</p>
+                            <p>Near Parumala Church Post Office Road, Kerala - 689 626</p>
                         </div>
                     </div>
                     <div class="footer-number">
