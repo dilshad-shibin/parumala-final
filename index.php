@@ -18,7 +18,7 @@
             <section class="section banner-area">
                 <div class="banner-slider owl-carousel">
                     <div class="single-banner">
-                        <div class="banner-bg banner-bg1">
+                        <div class="banner-bg banner-bg3">
                             <div class="banner-overlay"></div>
                             <div class="container">
                                 <div class="row">

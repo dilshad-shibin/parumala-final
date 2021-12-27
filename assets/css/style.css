@@ -647,6 +647,10 @@ a {
     background-image: url(../img/banner/banner-2.jpg);
 }
 
+.banner-bg3{
+    background-image: url(../img/banner/banner01.jpg);
+}
+
 .banner-ct{
     position: absolute;
     display: flex;
