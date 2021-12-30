@@ -5,8 +5,8 @@
     var zero = 0;
 
     // :: 1.0 PRELOADER ACTIVE CODE
-    $window.on('load', function () {
-        $('#preloader').fadeOut('slow', function () {
+    $window.on('load', function() {
+        $('#loader').fadeOut('slow', function() {
             $(this).remove();
         });
     });
@@ -188,7 +188,7 @@
     //Doctor Slider ACTIVE CODE
     $('.team-slider.owl-carousel').owlCarousel({
         loop: true,
-        margin: 10,
+        margin: 20,
         nav: true,
         dots: false, 
         smartSpeed: 2000,
@@ -207,7 +207,7 @@
                 items: 3
             },
             992: {
-                items: 4
+                items: 5
             }
         }
     });
@@ -390,7 +390,7 @@
                 items: 3
             },
             992: {
-                items: 3
+                items: 4
             }
         }
     });

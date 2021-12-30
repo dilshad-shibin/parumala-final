@@ -952,9 +952,9 @@ a {
     background: #fff;
     border-radius: 8px;
     box-shadow: 0 4px 8px rgb(0 0 0 / 15%);
-    padding: 30px;
-    margin-bottom: 20px;
-    min-height: 250px;
+    padding: 30px 18px;
+    margin-bottom: 40px;
+    min-height: 200px;
     transition: all .3s ease;
 }
 
@@ -977,7 +977,7 @@ a {
     color: #4d4d4d;
     font-family: 'DM Sans', sans-serif;
     font-weight: 700;
-    font-size: 20px;
+    font-size: 18px;
     margin-bottom: 10px;
 }
 
@@ -1369,7 +1369,7 @@ a {
 
 .single-team{
     background-color: #f7f1eb;
-    min-height: 450px;
+    min-height: 400px;
     transition: all .4s ease;
     overflow: hidden;
 }
@@ -2047,7 +2047,10 @@ a {
     background: #fff;
     position: relative;
     overflow: hidden;
-    min-height: 538px;
+    min-height: 480px;
+}
+.mng-details2{
+    min-height: 530px;
 }
 
 .mng-details img{
@@ -4010,3 +4013,4 @@ a {
 .management-slider .owl-nav [class*=owl-]:hover span {
     color: #fff;
 }
+

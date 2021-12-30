@@ -125,7 +125,7 @@
                             </div>
                         </div> -->
                         <div class="col-lg-4">
-                            <div class="mng-details">
+                            <div class="mng-details mng-details2">
                                 <div class="mng-img">
                                     <img src="assets/img/about/vice.jpg" alt="">
                                 </div>
@@ -136,7 +136,7 @@
                             </div>
                         </div>
                         <div class="col-lg-4">
-                            <div class="mng-details">
+                            <div class="mng-details mng-details2">
                                 <div class="mng-img">
                                     <img src="assets/img/about/chief.jpg" alt="">
                                 </div>
@@ -147,7 +147,7 @@
                             </div>
                         </div>
                         <div class="col-lg-4">
-                            <div class="mng-details">
+                            <div class="mng-details mng-details2">
                                 <div class="mng-img">
                                     <img src="assets/img/about/chief.jpg" alt="">
                                 </div>
