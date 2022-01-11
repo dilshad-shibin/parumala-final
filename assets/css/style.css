@@ -114,6 +114,10 @@ a {
     margin-bottom: 40px;
 }
 
+.mb-100{
+    margin-bottom: 100px;
+}
+
 .mt-40{
     margin-top: 40px;
 }
@@ -867,29 +871,31 @@ a {
 .excellence-area{
     position: relative;
     background-color: #fefaf5;
-    display: flex;
+    /* display: flex; */
 }
 
 .excellence-left{
-    flex: 0 0 30%;
+    /* flex: 0 0 30%; */
     background-image: url(../img/excellence-left.jpg);
     background-position: center;
     background-size: cover;
     height: auto;
-    display: flex;
+    /* display: flex;
     flex-direction: column;
     justify-content: center;
-    align-items: flex-end;
+    align-items: flex-end; */
 }
 
 .exc-icons{
-    padding-left: 400px;
+    /* padding-left: 400px;
     margin-bottom: 62px;
-    padding-right: 18%;
+    padding-right: 18%; */
+    padding: 50px;
 }
 
 .exc-icons .icon{
     margin-bottom: 15px;
+    min-height: 112px;
 }
 
 .exc-icons .text h3{
@@ -917,7 +923,7 @@ a {
 }
 
 .excellence-right{
-    flex: 0 0 60%;
+    /* flex: 0 0 60%; */
     padding: 80px;
     overflow: hidden;
 }
@@ -954,8 +960,9 @@ a {
     box-shadow: 0 4px 8px rgb(0 0 0 / 15%);
     padding: 30px 18px;
     margin-bottom: 40px;
-    min-height: 200px;
+    min-height: 212px;
     transition: all .3s ease;
+    overflow: hidden;
 }
 
 .single-centre .centre-box .btm-icon{
@@ -1897,6 +1904,10 @@ a {
     line-height: 1;
 }
 
+.bread-text2 h1{
+    font-size: 50px;
+}
+
 .bread-text p{
     color: #fff;
     font-size: 30px;
@@ -2050,7 +2061,7 @@ a {
     min-height: 480px;
 }
 .mng-details2{
-    min-height: 530px;
+    min-height: 542px;
 }
 
 .mng-details img{
@@ -2058,7 +2069,7 @@ a {
 }
 
 .mng-details .mng-text{
-    padding: 45px 20px;
+    padding: 35px 60px;
 }
 
 .mng-details .mng-text h1{
@@ -2084,15 +2095,15 @@ a {
 }
 
 .mng-details .mng-text h4{
-    font-size: 17px;
-    color: #4d4d4d;
+    font-size: 20px;
+    color: #fe6c05;
     /* font-weight: 700; */
 }
 
 .mng-details .mng-text p{
-    color: #fe6c05;
+    color: #4d4d4d;
     font-size: 15px;
-    margin: 0;
+    margin-bottom: 15px;
     line-height: 18px;
 }
 
@@ -2201,6 +2212,10 @@ a {
     90deg, rgba(254,90,1,1) 0%, rgba(254,90,1,1) 35%, rgba(254,90,1,1) 35%, rgba(254,90,1,0.6502976190476191) 100%);
 }
 
+.gastro-head h1::before{
+    left: 5%;
+}
+
 .excellence-head h1.bottom-change::before{
     position: absolute;
     content: "";
@@ -2235,7 +2250,7 @@ a {
 /* Sub Area Excellence */
 .sub-excellence-area{
     position: relative;
-    padding: 80px 0;
+    padding: 80px 0 130px;
     background-color: #fff;
 }
 
@@ -2277,7 +2292,7 @@ a {
 }
 
 .dpt-head{
-    margin-bottom: 50px;
+    margin-bottom: 82px;
 }
 
 .department-area{
@@ -4014,3 +4029,49 @@ a {
     color: #fff;
 }
 
+/* new styles */
+.dept-list-head h3{
+    position: relative;
+    color: #222222;
+    font-weight: 700;
+    margin-bottom: 32px;
+}
+
+.dept-list-head h3::before{
+    content: "";
+    position: absolute;
+    background-color: rgb(254,90,1);
+    height: 4px;
+    left: 0;
+    width: 50px;
+    bottom: -12px;
+}
+
+.dept-dr-list{
+    margin-top: 50px;
+    margin-bottom: 80px;
+}
+
+.dr-boxes{
+    flex-direction: column;
+    max-width: 460px;
+    padding-left: 100px;
+}
+
+.dr-boxes li:not(:last-child){
+    margin-bottom: 25px;
+}
+
+.dpt-list-img{
+    margin-bottom: 25px;
+}
+
+.dentistry-flex li{
+    display: flex;
+    flex: 0 0 40%;
+    margin-right: 20px;
+}
+
+.dentistry-flex li:last-child{
+    margin-right: 0;
+}

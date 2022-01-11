@@ -50,8 +50,247 @@
                 </div>
             </section>
 
+            <!-- department-org section -->
+            <section class="dept-area department-area section">
+                <div class="container">
+                    <div class="row">
+                        <div class="col-12 text-center">
+                            <div class="dpt-head">
+                                <h2>Our Departments</h2>
+                                <p>Depending upon the nature, stage, and location of the tumor, we have different oncologists offering their services in cancer treatment. Following are our departments, which treat cancer through different procedures.</p>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- Medical oncology -->
+                    <div class="row mb-100">
+                        <div class="col-lg-6">
+                            <div class="dept-list-head">
+                                <h3>Medical Oncology</h3>
+                            </div>
+                            <div class="dpt-list-img">
+                                <img src="assets/img/oncology/01.jpg" alt="">
+                            </div>
+                            <div class="dept-list-para">
+                                <p>Medical Oncology Department provides treatment for broad range of solid tumors and haematological malignancies with the help of chemotherapy, targeted therapy, hormonal therapy and immunotherapy. We strictly adhere to NCCN (USA) and ESMO (European) guidelines for selecting optimal treatment strategies for our patients. Chemotherapy is administered at dedicated chemotherapy wards with strict infection control by specially trained nursing staff.</p>
+                            </div>
+                        </div>
+                        <div class="col-lg-6">
+                            <ul class="d-flex dr-boxes">
+                                <li>
+                                    <div class="single-doctor">
+                                            <div class="doctor-photo">
+                                                <img src="assets/img/doctors/oncology/mathews-jose.jpg" alt="">
+                                            </div>
+                                            <div class="doctor-info">
+                                                <h5 class="name">Dr.Mathews Jose</h5>
+                                                <p>Consultant Medical Oncologist</p>
+                                                <div class="dr-appointment">
+                                                    <div class="apt"><h3>Appointment</h3></div>
+                                                    <div class="call"><a href="tel:+919656127678"><i class="fas fa-phone-alt"></i></a></div>
+                                                </div>
+                                            </div>
+                                    </div>
+                                </li>
+                                <li>
+                                    <div class="single-doctor">
+                                                <div class="doctor-photo">
+                                                    <img src="assets/img/doctors/oncology/sukesh-nair.jpg" alt="">
+                                                </div>
+                                                <div class="doctor-info">
+                                                    <h5 class="name">Dr.Sukesh C Nair</h5>
+                                                    <p>Consultant Medical Oncologist</p>
+                                                    <div class="dr-appointment">
+                                                        <div class="apt"><h3>Appointment</h3></div>
+                                                        <div class="call"><a href="tel:+919656127678"><i class="fas fa-phone-alt"></i></a></div>
+                                                    </div>
+                                                </div>
+                                    </div>
+                                </li>
+                            </ul>
+                        </div>
+                    </div>
+                    <!-- close Medical oncology -->
+
+                    <!-- Surgical oncology -->
+                    <div class="row mb-100">
+                        <div class="col-lg-6">
+                            <div class="dept-list-head">
+                                <h3>Surgical Oncology</h3>
+                            </div>
+                            <div class="dpt-list-img">
+                                <img src="assets/img/oncology/02.jpg" alt="">
+                            </div>
+                            <div class="dept-list-para">
+                                <p>Surgery is usually the primary treatment of choice for many solid tumour malignancies. Our highly trained and motivated surgical oncology team performs a wide spectrum of surgeries for cancers .. in the breast, head and neck, gastro-intestinal, gynecological, pelvic malignancies, bone and soft tissue sarcomas. They are ably supported bytrained medical staff, dedicated operating theatres, post-operative recovery rooms, and well-equipped ICU's.</p>
+                            </div>
+                        </div>
+                        <div class="col-lg-6">
+                            <ul class="d-flex dr-boxes">
+                                <li>
+                                    <div class="single-doctor">
+                                        <div class="doctor-photo">
+                                            <img src="assets/img/doctors/oncology/aqib-shaick.jpg" alt="">
+                                        </div>
+                                        <div class="doctor-info">
+                                            <h5 class="name">Dr.Aqib K Shaick</h5>
+                                            <p>Consultant Surgical Oncologist</p>
+                                            <div class="dr-appointment">
+                                                <div class="apt"><h3>Appointment</h3></div>
+                                                <div class="call"><a href="tel:+919656127678"><i class="fas fa-phone-alt"></i></a></div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </li>
+                            </ul>
+                        </div>
+                    </div>
+                    <!-- close surgical oncology -->
+
+                    <!-- Radiation Oncology -->
+                    <div class="row mb-100">
+                        <div class="col-lg-6">
+                            <div class="dept-list-head">
+                                <h3>Radiation Oncology</h3>
+                            </div>
+                            <div class="dpt-list-img">
+                                <img src="assets/img/oncology/03.jpg" alt="">
+                            </div>
+                            <div class="dept-list-para">
+                                <p>Department of Radiation Oncology provide superior care to cancer patients supported by latest technology and high precision treatment delivery equipments. We use state of the art radiation .. treatment techniques such as Intensity Modulated Radiation Therapy (IMRT), Image Guided Radiation Therapy (IGRT), 3-Dimensional Conformal Radiotherapy (3DCRT) and High Dose Rate Brachytherapy (HDR). We follow ASTRO (USA) and ESTRO (European) guidelines for radiation treatment planning. The department has multi energy Elekta "Synergy" machine for external beam radiation treatment which ensures high precision treatment with minimal side effects.</p>
+                            </div>
+                        </div>
+                        <div class="col-lg-6">
+                            <ul class="d-flex dr-boxes">
+                                <li>
+                                    <div class="single-doctor">
+                                        <div class="doctor-photo">
+                                            <img src="assets/img/doctors/oncology/anto-baby.jpg" alt="">
+                                        </div>
+                                        <div class="doctor-info">
+                                            <h5 class="name">Dr.Anto Baby</h5>
+                                            <p>Consultant Radiation Oncologist</p>
+                                            <div class="dr-appointment">
+                                                <div class="apt"><h3>Appointment</h3></div>
+                                                <div class="call"><a href="tel:+919656127678"><i class="fas fa-phone-alt"></i></a></div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </li>
+                            </ul>
+                        </div>
+                    </div>
+                    <!-- close Radiation Oncology -->
+
+                    <!-- Pian nd Palliative care -->
+                    <div class="row mb-100">
+                        <div class="col-lg-6">
+                            <div class="dept-list-head">
+                                <h3>Pain and Palliative Care</h3>
+                            </div>
+                            <div class="dpt-list-img">
+                                <img src="assets/img/oncology/04.jpg" alt="">
+                            </div>
+                            <div class="dept-list-para">
+                                <p>The focus of Palliative Care Department is to provide best supportive care for patients at the terminal stage. We ensure best quality of life for the patient and their families which includes .. cancer pain management and rehabilitation services.</p>
+                            </div>
+                        </div>
+                        <div class="col-lg-6">
+                            <ul class="d-flex dr-boxes">
+                                <!-- <li>
+                                    <div class="single-doctor">
+                                        <div class="doctor-photo">
+                                            <img src="assets/img/doctors/oncology/anto-baby.jpg" alt="">
+                                        </div>
+                                        <div class="doctor-info">
+                                            <h5 class="name">Dr.Anto Baby</h5>
+                                            <p>Consultant Radiation Oncologist</p>
+                                            <div class="dr-appointment">
+                                                <div class="apt"><h3>Appointment</h3></div>
+                                                <div class="call"><a href="tel:+919656127678"><i class="fas fa-phone-alt"></i></a></div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </li> -->
+                            </ul>
+                        </div>
+                    </div>
+                    <!-- Close pain and palliative care -->
+
+                    <!-- Nuclear Medicine -->
+                    <div class="row mb-100">
+                        <div class="col-lg-6">
+                            <div class="dept-list-head">
+                                <h3>Nuclear Medicine</h3>
+                            </div>
+                            <!-- <div class="dpt-list-img">
+                                <img src="assets/img/oncology/0.jpg" alt="">
+                            </div> -->
+                            <div class="dept-list-para">
+                                <p>The Nuclear Medicine Department at St Gregorios International Cancer Care Center is the first comprehensive Nuclear Medicine Department in Central Travancore. Nuclear Medicine is a branch .. of medicine that makes use of radioactive medicines for diagnosis and treatment of diseases. A small dose of radioactive medicine is introduced into the body (oral route or by injections) and functions of various organs in the body are imaged. Relatively larger doses of radioactive medicines are used for treatment, mainly for treatment for hyper functioning thyroid gland, thyroid cancer, treatment of bone pain, treatment of certain types of cancer like neuroendocrine tumors and prostate cancer. Diagnostic scans and treatment in nuclear medicine are very safe and painless. The nuclear medicine department has facilities like gamma camera, PET/CT, low dose and high dose radionuclide therapy and thyroid cancer clinic.</p>
+                            </div>
+                        </div>
+                        <div class="col-lg-6">
+                            <ul class="d-flex dr-boxes">
+                                <li>
+                                    <div class="single-doctor">
+                                        <div class="doctor-photo">
+                                            <img src="assets/img/doctors/oncology/arun-sasikumar.jpg" alt="">
+                                        </div>
+                                        <div class="doctor-info">
+                                            <h5 class="name">Dr.Arun Sasikumar</h5>
+                                            <p>Consultant and Head of the Nuclear Medicine Department</p>
+                                            <div class="dr-appointment">
+                                                <div class="apt"><h3>Appointment</h3></div>
+                                                <div class="call"><a href="tel:+919656127678"><i class="fas fa-phone-alt"></i></a></div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </li>
+                            </ul>
+                        </div>
+                    </div>
+                    <!-- Close Nuclear Medicine -->
+
+                    <!-- Other  Services -->
+                    <div class="row mb-100">
+                        <div class="col-lg-6">
+                            <div class="dept-list-head">
+                                <h3>Other Services</h3>
+                            </div>
+                            <!-- <div class="dpt-list-img">
+                                <img src="assets/img/oncology/0.jpg" alt="">
+                            </div> -->
+                            <div class="dept-list-para">
+                                <p>Radio diagnosis department, PET-CT, MRI, CT scan, digital Mammography, Ultrasound scan, digital X-ray and Image guided biopsy, Pathology department, Blood bank, Nuclear medicine department .. Home care facilities, Medical physics department, Cancer preventive health checks.</p>
+                            </div>
+                        </div>
+                        <div class="col-lg-6">
+                            <ul class="d-flex dr-boxes">
+                                <li>
+                                    <!-- <div class="single-doctor">
+                                        <div class="doctor-photo">
+                                            <img src="assets/img/doctors/oncology/arun-sasikumar.jpg" alt="">
+                                        </div>
+                                        <div class="doctor-info">
+                                            <h5 class="name">Dr.Arun Sasikumar</h5>
+                                            <p>Consultant and Head of the Nuclear Medicine Department</p>
+                                            <div class="dr-appointment">
+                                                <div class="apt"><h3>Appointment</h3></div>
+                                                <div class="call"><a href="tel:+919656127678"><i class="fas fa-phone-alt"></i></a></div>
+                                            </div>
+                                        </div>
+                                    </div> -->
+                                </li>
+                            </ul>
+                        </div>
+                    </div>
+                    <!-- Close other services -->
+
+                </div>
+            </section>
+
             <!-- Our Department Area -->
-            <section class="department-area section">
+            <!-- <section class="department-area section">
                 <div class="container">
                     <div class="row">
                         <div class="col-12 text-center">
@@ -155,7 +394,7 @@
 
                     </div>
                 </div>
-            </section>
+            </section> -->
 
             <!-- Department Doctors -->
             <section class="dept-doctors section">
@@ -268,7 +507,7 @@
     <!-- Scripts -->
     <?php include('footer/script.php'); ?>
 
-    <script>
+    <!-- <script>
         function readMorebtn() {
           var dots = document.getElementById("dots");
           var moreText = document.getElementById("more");
@@ -364,7 +603,7 @@
             moreText6.style.display = "inline";
           }
         }
-    </script>
+    </script> -->
 
 
 </body>

@@ -7,7 +7,14 @@
 <nav class="panel-menu mobile-main-menu">
     <ul>
         <li><a href="index.php">Home</a></li>
-        <li><a href="about.php">About</a></li>
+        <li class="arrow_sub">
+            <a href="#">About</a>
+            <ul>
+                <li><a href="overview.php">About Overview</a></li>
+                <li><a href="management-administration.php">Management & Administration</a></li>
+                <li><a href="vision-mission.php">Vision & Mission</a></li>
+            </ul>
+        </li>
         <li class="arrow_sub">
             <a href="#">Center Of Excellence</a>
             <ul>
@@ -28,12 +35,12 @@
             <ul>
                 <li><a href="anaesthesiology.php">Anaesthesiology</a></li>
                 <li><a href="ayurvedic-medicine.php">Ayurvedic Medicine</a></li>
-                <li><a href="cardiothoracic-centre.php">Cardiothoracic-Centre</a></li>
+                <li><a href="cardiothoracic-centre.php">CardiothoracicCentre</a></li>
                 <li><a href="clinical-and-rehabilitation-psychology.php">Clinical and Rehabilitation Psychology</a></li>
-                <li><a href="criticalcare-speciality.php">Critical-Carer</a></li>
+                <li><a href="criticalcare-speciality.php">CriticalCare</a></li>
                 <li><a href="dentistry.php">Dentistry</a></li>
                 <li><a href="dermatology.php">Dermatology</a></li>
-                <li><a href="emergency-medicine.php">Emergency-Medicine</a></li>
+                <li><a href="emergency-medicine.php">EmergencyMedicine</a></li>
                 <li><a href="endocrinology.php">Endocrinology</a></li>
                 <li><a href="ent.php">ENT</a></li>
                 <li><a href="gastroenterology.php">Gastroenterology</a></li>

@@ -113,7 +113,7 @@
         nav: true,
         dots: false,
         smartSpeed: 2000,
-        autoplay: false,
+        autoplay: true,
         responsiveClass: true,
         autoplayTimeout: 4000,
         navText: ['<i class="fas fa-long-arrow-alt-left"></i>','<i class="fas fa-long-arrow-alt-right"></i>'],
@@ -125,10 +125,10 @@
                 items: 2
             },
             768: {
-                items: 3
+                items: 2
             },
             992: {
-                items: 3
+                items: 4
             }
         }
     });
@@ -140,7 +140,7 @@
         nav: false,
         dots: true, 
         smartSpeed: 2000,
-        autoplay: false,
+        autoplay: true,
         responsiveClass: true,
         autoplayTimeout: 4000,
         responsive: {

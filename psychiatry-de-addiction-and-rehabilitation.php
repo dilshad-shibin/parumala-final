@@ -125,7 +125,7 @@
                                     </div>
                                     <div class="doctor-info">
                                         <h5 class="name">Dr.Kuruvila P.K</h5>
-                                        <p>Consultant Psychiatrist</p>
+                                        <p>HOD & Senior Consultant Psychiatrist</p>
                                         <div class="dr-appointment">
                                             <div class="apt"><h3>Appointment</h3></div>
                                             <div class="call"><a href="tel:+919656127678"><i class="fas fa-phone-alt"></i></a></div>

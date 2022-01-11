@@ -54,10 +54,10 @@
                                 <li><a href="ayurvedic-medicine.php">Ayurvedic Medicine</a></li>
                                 <li><a href="cardiothoracic-centre.php">Cardiothoracic Centre</a></li>
                                 <li><a href="clinical-and-rehabilitation-psychology.php">Clinical & Rehabilitation Psychology</a></li>
-                                <li><a href="criticalcare-speciality.php">Critical Care</a></li>
+                                <li><a href="criticalcare-speciality.php">CriticalCare</a></li>
                                 <li><a href="dentistry.php">Dentistry</a></li>
                                 <li><a href="dermatology.php">Dermatology</a></li>
-                                <li><a href="emergency-medicine.php">Emergency-Medicine</a></li>
+                                <li><a href="emergency-medicine.php">EmergencyMedicine</a></li>
                                 <li><a href="endocrinology.php">Endocrinology</a></li>
                                 <li><a href="ent.php">ENT</a></li>
                                 <li><a href="gastroenterology.php">Gastroenterology</a></li>
@@ -102,8 +102,8 @@
                         <div class="number-head">
                             <h2>Call</h2>
                         </div>
-                        <div class="numbers">
-                            <a href="tel:04792312266">0479 - 2312266</a>
+                        <div class="numbers d-block">
+                            <a href="tel:04792312266">0479 - 2312266,</a>
                             <a href="tel:2317000">2317000</a>
                         </div>
                     </div>

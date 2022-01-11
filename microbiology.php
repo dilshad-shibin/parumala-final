@@ -88,8 +88,8 @@
                                         <img src="assets/img/doctors/anu-susan.jpg" alt="">
                                     </div>
                                     <div class="doctor-info">
-                                        <h5 class="name">Dr.Reebi Mary Thomas</h5>
-                                        <p>Consultant Dental Surgeon</p>
+                                        <h5 class="name">Dr.Ansu Susan Sam</h5>
+                                        <p>Consultant Microbiologist</p>
                                         <div class="dr-appointment">
                                             <div class="apt"><h3>Appointment</h3></div>
                                             <div class="call"><a href="tel:+919656127678"><i class="fas fa-phone-alt"></i></a></div>

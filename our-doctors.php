@@ -46,8 +46,10 @@
                                     <img src="assets/img/doctors/abin.jpg" alt="">
                                </div>
                                <div class="team-details">
+                                   <a href="pulmonology.php">
                                     <h3>Dr.Abin Varghese Thomas</h3>
                                     <p>Consultant Pulmonologist, Critical Care</p>
+                                   </a>
                                 </div>
                            </div>
                         </div>
@@ -57,8 +59,10 @@
                                         <img src="assets/img/doctors/abraham.jpg" alt="">
                                     </div>
                                     <div class="team-details">
-                                        <h3>Dr.Abraham John</h3>
-                                        <p>Consultant Oncopathologist</p>
+                                        <a href="pathology.php">
+                                            <h3>Dr.Abraham John</h3>
+                                            <p>Consultant Oncopathologist</p>
+                                        </a>
                                     </div>
                             </div>
                         </div>
@@ -68,8 +72,10 @@
                                         <img src="assets/img/doctors/adharsh.jpg" alt="">
                                     </div>
                                     <div class="team-details">
-                                        <h3>Dr.Adarsh Anand</h3>
-                                        <p>Consultant Head & Neck Surgeon/ Oncology & Reconstructive Surgeon</p>
+                                        <a href="head-neck-reconstructive-surgery.php">
+                                            <h3>Dr.Adarsh Anand</h3>
+                                            <p>Consultant Head & Neck Surgeon/ Oncology & Reconstructive Surgeon</p>
+                                        </a>
                                     </div>
                             </div>
                         </div>
@@ -79,8 +85,10 @@
                                         <img src="assets/img/doctors/ajiths-sunny.jpg" alt="">
                                     </div>
                                     <div class="team-details">
-                                        <h3>Dr.Ajith Sunny</h3>
-                                        <p>Senior Consultant & HOD Anasthesia</p>
+                                        <a href="anaesthesiology.php">
+                                            <h3>Dr.Ajith Sunny</h3>
+                                            <p>Senior Consultant & HOD Anasthesia</p>
+                                        </a>
                                     </div>
                             </div>
                         </div>
@@ -91,8 +99,10 @@
                                         <img src="assets/img/doctors/mahesh-nalin.jpg" alt="">
                                     </div>
                                     <div class="team-details">
-                                        <h3>Dr.Mahesh Nalin Kumar</h3>
-                                        <p>Senior Consultant & HOD of Cardiology</p>
+                                        <a href="cardiothoracic-centre.php">
+                                            <h3>Dr.Mahesh Nalin Kumar</h3>
+                                            <p>Senior Consultant & HOD of Cardiology</p>
+                                        </a>
                                     </div>
                             </div>
                         </div>
@@ -102,8 +112,10 @@
                                         <img src="assets/img/doctors/rajagopal.jpg" alt="">
                                     </div>
                                     <div class="team-details">
+                                        <a href="cardiothoracic-centre.php">
                                         <h3>Dr.S Rajagopal</h3>
                                         <p>Cardio Thoracic & Vascular Surgeon</p>
+                                        </a>
                                     </div>
                             </div>
                         </div>
@@ -113,8 +125,10 @@
                                         <img src="assets/img/doctors/arunkumar.jpg" alt="">
                                     </div>
                                     <div class="team-details">
+                                        <a href="cardiothoracic-centre.php">
                                         <h3>Dr.Arunkumar G</h3>
                                         <p>Senior Consultant Cardiologist</p>
+                                        </a>
                                     </div>
                             </div>
                         </div>
@@ -125,8 +139,10 @@
                                         <img src="assets/img/doctors/rohin.jpg" alt="">
                                     </div>
                                     <div class="team-details">
+                                        <a href="neonatology.php">
                                         <h3>Dr.Rohin Abraham</h3>
                                         <p>Consultant Pediatrician & Neonatologist</p>
+                                        </a>
                                     </div>
                             </div>
                         </div>
@@ -136,8 +152,10 @@
                                         <img src="assets/img/doctors/vini.jpg" alt="">
                                     </div>
                                     <div class="team-details">
+                                        <a href="pediatrics.php">
                                         <h3>Dr.Vini Joseph</h3>
                                         <p>Consultant Pediatrician</p>
+                                        </a>
                                     </div>
                             </div>
                         </div>
@@ -147,8 +165,10 @@
                                         <img src="assets/img/doctors/jeethu.jpg" alt="">
                                     </div>
                                     <div class="team-details">
+                                        <a href="pediatrics.php">
                                         <h3>Dr.Jeethu T.J</h3>
                                         <p>Consultant Pediatrician</p>
+                                        </a>
                                     </div>
                             </div>
                         </div>
@@ -159,8 +179,10 @@
                                         <img src="assets/img/doctors/chikku.jpg" alt="">
                                     </div>
                                     <div class="team-details">
+                                        <a href="critical-care.php">
                                         <h3>Dr.Chikku John</h3>
                                         <p>Consultant Critical Care</p>
+                                        </a>
                                     </div>
                             </div>
                         </div>
@@ -170,8 +192,10 @@
                                         <img src="assets/img/doctors/antony.jpg" alt="">
                                     </div>
                                     <div class="team-details">
+                                        <a href="critical-care.php">
                                         <h3>Dr.Antony Kalliath</h3>
                                         <p>Consultant Critical Care</p>
+                                        </a>
                                     </div>
                             </div>
                         </div>
@@ -182,8 +206,10 @@
                                         <img src="assets/img/doctors/hari.jpg" alt="">
                                     </div>
                                     <div class="team-details">
+                                        <a href="gastroenterology.php">
                                         <h3>Dr.Hari S Govind</h3>
                                         <p>Consultant Surgical Gastroenterology</p>
+                                        </a>
                                     </div>
                             </div>
                         </div>
@@ -193,8 +219,10 @@
                                         <img src="assets/img/doctors/siljo.jpg" alt="">
                                     </div>
                                     <div class="team-details">
+                                        <a href="gastroenterology.php">
                                         <h3>Dr.Siljo Jose</h3>
                                         <p>Consultant Gastroenterology</p>
+                                        </a>
                                     </div>
                             </div>
                         </div>
@@ -205,8 +233,10 @@
                                         <img src="assets/img/doctors/swaroop.jpg" alt="">
                                     </div>
                                     <div class="team-details">
+                                        <a href="neurology.php">
                                         <h3>Dr.Swaroop K Raj</h3>
                                         <p>Consultant Neurologist</p>
+                                        </a>
                                     </div>
                             </div>
                         </div>
@@ -216,8 +246,10 @@
                                         <img src="assets/img/doctors/anish.jpg" alt="">
                                     </div>
                                     <div class="team-details">
+                                        <a href="neurology.php">
                                         <h3>Dr.Anish Ninan</h3>
                                         <p>Consultant Neurologist</p>
+                                        </a>
                                     </div>
                             </div>
                         </div>
@@ -227,8 +259,10 @@
                                         <img src="assets/img/doctors/sreekumar.jpg" alt="">
                                     </div>
                                     <div class="team-details">
+                                        <a href="neuro-surgery.php">
                                         <h3>Dr.Sreekumar M</h3>
                                         <p>Consultant Neuro Surgeon</p>
+                                        </a>
                                     </div>
                             </div>
                         </div>
@@ -239,8 +273,10 @@
                                         <img src="assets/img/doctors/mathews-jose.jpg" alt="">
                                     </div>
                                     <div class="team-details">
+                                        <a href="oncology.php">
                                         <h3>Dr.Mathews Jose</h3>
                                         <p>Consultant Medical Oncologist</p>
+                                        </a>
                                     </div>
                             </div>
                         </div>
@@ -250,8 +286,10 @@
                                         <img src="assets/img/doctors/sukesh-nair.jpg" alt="">
                                     </div>
                                     <div class="team-details">
+                                        <a href="oncology.php">
                                         <h3>Dr.Sukesh C Nair</h3>
                                         <p>Consultant Medical Oncologist</p>
+                                        </a>
                                     </div>
                             </div>
                         </div>
@@ -261,8 +299,10 @@
                                         <img src="assets/img/doctors/anto-baby.jpg" alt="">
                                     </div>
                                     <div class="team-details">
+                                        <a href="oncology.php">
                                         <h3>Dr.Anto Baby</h3>
                                         <p>Consultant Radiation Oncologist</p>
+                                        </a>
                                     </div>
                             </div>
                         </div>
@@ -272,8 +312,10 @@
                                         <img src="assets/img/doctors/aqib-shaick.jpg" alt="">
                                     </div>
                                     <div class="team-details">
+                                        <a href="oncology.php">
                                         <h3>Dr.Aqib K Shaick</h3>
                                         <p>Consultant Surgical Oncologist</p>
+                                        </a>
                                     </div>
                             </div>
                         </div>
@@ -284,8 +326,10 @@
                                         <img src="assets/img/doctors/mathew.jpg" alt="">
                                     </div>
                                     <div class="team-details">
+                                        <a href="orthopedics.php">
                                         <h3>Dr.Mathew Varghese</h3>
-                                        <p>Consultant Orthopedic Surgeon</p>
+                                        <p>HOD & Senior Consultant Orthopedic Surgeon</p>
+                                        </a>
                                     </div>
                             </div>
                         </div>
@@ -295,8 +339,10 @@
                                         <img src="assets/img/doctors/rizvi.jpg" alt="">
                                     </div>
                                     <div class="team-details">
+                                        <a href="orthopedics.php">
                                         <h3>Dr.Rizvi Muhammed</h3>
                                         <p>Consultant Orthopedic Surgeon</p>
+                                        </a>
                                     </div>
                             </div>
                         </div>
@@ -306,8 +352,10 @@
                                         <img src="assets/img/doctors/shibin.jpg" alt="">
                                     </div>
                                     <div class="team-details">
+                                        <a href="orthopedics.php">
                                         <h3>Dr.Shibin Zachariah</h3>
                                         <p>Consultant Orthopedic</p>
+                                        </a>
                                     </div>
                             </div>
                         </div>
@@ -318,8 +366,10 @@
                                         <img src="assets/img/doctors/hareesh.jpg" alt="">
                                     </div>
                                     <div class="team-details">
+                                        <a href="nephrology.php">
                                         <h3>Dr.Hareesh K.G</h3>
                                         <p>Consultant Nephrologist</p>
+                                        </a>
                                     </div>
                             </div>
                         </div>
@@ -329,8 +379,10 @@
                                         <img src="assets/img/doctors/mayank.jpg" alt="">
                                     </div>
                                     <div class="team-details">
+                                        <a href="urology.php">
                                         <h3>Dr.Mayank Bharti</h3>
                                         <p>Consultant Urologist & Robotic Surgeon</p>
+                                        </a>
                                     </div>
                             </div>
                         </div>
@@ -340,8 +392,10 @@
                                         <img src="assets/img/doctors/praveen.jpg" alt="">
                                     </div>
                                     <div class="team-details">
+                                        <a href="urology.php">
                                         <h3>Dr.Praveen Gopi</h3>
                                         <p>Consultant Urologist</p>
+                                        </a>
                                     </div>
                             </div>
                         </div>
@@ -352,8 +406,10 @@
                                         <img src="assets/img/doctors/grace.jpg" alt="">
                                     </div>
                                     <div class="team-details">
+                                        <a href="obstetrics-and-gynaecology.php">
                                         <h3>Dr.Grace Kuruvila</h3>
-                                        <p>Consultant Gynecologist</p>
+                                        <p>Senior Consultant Gynecologist</p>
+                                        </a>
                                     </div>
                             </div>
                         </div>
@@ -363,8 +419,10 @@
                                         <img src="assets/img/doctors/sherine.jpg" alt="">
                                     </div>
                                     <div class="team-details">
+                                        <a href="obstetrics-and-gynaecology.php">
                                         <h3>Dr.Sherine Joseph</h3>
-                                        <p>Consultant Gynecologist</p>
+                                        <p>Senior Consultant Gynecologist</p>
+                                        </a>
                                     </div>
                             </div>
                         </div>
@@ -374,8 +432,10 @@
                                         <img src="assets/img/doctors/deepthi.jpg" alt="">
                                     </div>
                                     <div class="team-details">
+                                        <a href="obstetrics-and-gynaecology.php">
                                         <h3>Dr.Deepthi D.P</h3>
                                         <p>Consultant Gynecologist</p>
+                                        </a>
                                     </div>
                             </div>
                         </div>

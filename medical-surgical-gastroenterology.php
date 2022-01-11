@@ -33,13 +33,21 @@
             <section class="section center-excellence">
                 <div class="container">
                     <div class="row">
-                        <div class="col-12 text-center">
-                            <div class="excellence-head excellence-head2">
+                        <div class="col-md-6">
+                            <div class="excellence-head excellence-head2 gastro-head">
                                 <h1>Medical and Surgical Gastroenterology</h1>
+                            </div>
+                            <div class="oncology-para">
+                                <p>The Gastroenterology department in the hospital offers advanced care for comprehensive management of gastrointestinal diseases in adults and children.</p>
+                            </div>
+                        </div>
+                        <div class="col-md-6">
+                            <div class="img">
+                                <img src="assets/img/excelence/gas.jpg" alt="">
                             </div>
                         </div>
                     </div>
-                    <div class="row">
+                    <!-- <div class="row">
                         <div class="col-12 mt-3 text-center">
                             <div class="oncology-para">
                                 <p>The Gastroenterology department in the hospital offers advanced care for comprehensive management of gastrointestinal diseases in adults and children.</p>
@@ -48,7 +56,7 @@
                                 <img src="assets/img/excelence/gas.jpg" alt="">
                             </div>
                         </div>
-                    </div>
+                    </div> -->
                 </div>
             </section>
 

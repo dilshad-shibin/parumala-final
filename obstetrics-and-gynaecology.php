@@ -214,7 +214,7 @@
                                     </div>
                                     <div class="doctor-info">
                                         <h5 class="name">Dr.Grace Kuruvila</h5>
-                                        <p>Consultant Gynecologist</p>
+                                        <p>Senior Consultant Gynecologist</p>
                                         <div class="dr-appointment">
                                             <div class="apt"><h3>Appointment</h3></div>
                                             <div class="call"><a href="tel:+919656127678"><i class="fas fa-phone-alt"></i></a></div>
@@ -228,7 +228,7 @@
                                     </div>
                                     <div class="doctor-info">
                                         <h5 class="name">Dr.Sherine Joseph</h5>
-                                        <p>Consultant Gynecologist</p>
+                                        <p>Senior Consultant Gynecologist</p>
                                         <div class="dr-appointment">
                                             <div class="apt"><h3>Appointment</h3></div>
                                             <div class="call"><a href="tel:+919656127678"><i class="fas fa-phone-alt"></i></a></div>
@@ -256,7 +256,7 @@
                                     </div>
                                     <div class="doctor-info">
                                         <h5 class="name">Dr.Lalithambika Karunakaran</h5>
-                                        <p>Senior Consultant Gynecologist</p>
+                                        <p>HOD & Senior Consultant Gynecologist</p>
                                         <div class="dr-appointment">
                                             <div class="apt"><h3>Appointment</h3></div>
                                             <div class="call"><a href="tel:+919656127678"><i class="fas fa-phone-alt"></i></a></div>

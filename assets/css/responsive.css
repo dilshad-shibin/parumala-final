@@ -1,9 +1,9 @@
 /* responsive css */
-@media(max-width: 1440px) and (min-width: 1200px){
+/* @media(max-width: 1440px) and (min-width: 1200px){
     .exc-icons{
         padding-left: 220px;
     }
-}
+} */
 
 @media(min-width: 577px){
     .bread-text h1.ortho-head{
@@ -79,6 +79,9 @@
     .exc-icons{
         padding: 0;
         max-width: 500px;
+        text-align: center;
+        margin: 0 auto;
+        margin-bottom: 50px;
     }
     .excellence-right{
         flex: 0 0 100%;
@@ -171,6 +174,17 @@
     }
     .form-wrap{
         width: 90%;
+    }
+    .exc-content-area .header .head h3{
+        font-size: 32px;
+    }
+    .dr-boxes{
+        flex-direction: row;
+        max-width: initial;
+        padding-left: 0;
+    }
+    .dr-boxes li:not(:last-child){
+        margin-right: 30px;
     }
 }
 
@@ -690,6 +704,22 @@
     }
     .management-slider .mng-details{
         min-height: 530px;
+    }
+    .dr-boxes{
+        flex-direction: column;
+    }
+    .dr-boxes li:not(:last-child){
+        margin-right: 0;
+    }
+    .gastro-head h1::before{
+        left: 9%;
+    }
+    .dentistry-flex{
+        flex-direction: column;
+    }
+    .dentistry-flex li{
+        margin-right: 0;
+        margin-bottom: 25px;
     }
 
 }
