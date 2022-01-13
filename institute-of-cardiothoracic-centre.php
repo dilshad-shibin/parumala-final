@@ -159,7 +159,7 @@
                                         <h5 class="name">Dr.Mahesh Nalin Kumar</h5>
                                         <p>Senior Consultant & HOD of Cardiology</p>
                                         <div class="dr-appointment">
-                                            <div class="apt"><h3>Appointment</h3></div>
+                                            <div class="apt"><h3><a href="http://111.92.84.180:23555/PP/PP/Login.aspx?" target="_blank">Appointment</a></h3></div>
                                             <div class="call"><a href="tel:+919656127678"><i class="fas fa-phone-alt"></i></a></div>
                                         </div>
                                     </div>
@@ -173,7 +173,7 @@
                                         <h5 class="name">Dr.S Rajagopal</h5>
                                         <p>Cardio Thoracic & Vascular Surgeon</p>
                                         <div class="dr-appointment">
-                                            <div class="apt"><h3>Appointment</h3></div>
+                                            <div class="apt"><h3><a href="http://111.92.84.180:23555/PP/PP/Login.aspx?" target="_blank">Appointment</a></h3></div>
                                             <div class="call"><a href="tel:+919656127678"><i class="fas fa-phone-alt"></i></a></div>
                                         </div>
                                     </div>
@@ -187,7 +187,7 @@
                                         <h5 class="name">Dr.Ajith Sunny</h5>
                                         <p>Senior Consultant Cardiac Anaesthesiologist & HOD Anaesthesiology</p>
                                         <div class="dr-appointment">
-                                            <div class="apt"><h3>Appointment</h3></div>
+                                            <div class="apt"><h3><a href="http://111.92.84.180:23555/PP/PP/Login.aspx?" target="_blank">Appointment</a></h3></div>
                                             <div class="call"><a href="tel:+919656127678"><i class="fas fa-phone-alt"></i></a></div>
                                         </div>
                                     </div>
@@ -201,7 +201,7 @@
                                         <h5 class="name">Dr.Arun Sasikumar</h5>
                                         <p>Senior Consultant Cardiologist</p>
                                         <div class="dr-appointment">
-                                            <div class="apt"><h3>Appointment</h3></div>
+                                            <div class="apt"><h3><a href="http://111.92.84.180:23555/PP/PP/Login.aspx?" target="_blank">Appointment</a></h3></div>
                                             <div class="call"><a href="tel:+919656127678"><i class="fas fa-phone-alt"></i></a></div>
                                         </div>
                                     </div>
@@ -215,7 +215,7 @@
                                         <h5 class="name">Dr.Sajan Ahmad Z</h5>
                                         <p>Senior Consultant Cardiologist</p>
                                         <div class="dr-appointment">
-                                            <div class="apt"><h3>Appointment</h3></div>
+                                            <div class="apt"><h3><a href="http://111.92.84.180:23555/PP/PP/Login.aspx?" target="_blank">Appointment</a></h3></div>
                                             <div class="call"><a href="tel:+919656127678"><i class="fas fa-phone-alt"></i></a></div>
                                         </div>
                                     </div>
