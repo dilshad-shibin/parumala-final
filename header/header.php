@@ -202,8 +202,49 @@
     </div>
 </div>
 
+<!-- Side BTNs -->
+<div class="social-icons-sidebar">
+    <ul class="social-sidebar">
+        <li class="fb-one">
+            <a href="https://www.facebook.com/parumalahospitalofficial/" class="facebook" target="_blank">
+                <i class="fab fa-facebook-f"></i>
+                <!-- <span>Facebook</span> -->
+            </a>
+        </li>
+        <li class="fb-two">
+            <a href="https://twitter.com/ParumalaH" class="facebook" target="_blank">
+                <i class="fab fa-twitter"></i>
+                <!-- <span>Twitter</span> -->
+            </a>
+        </li>
+        <li class="fb-three">
+            <a href="https://www.instagram.com/parumala_hospital/" class="facebook" target="_blank">
+                <i class="fab fa-instagram"></i>
+                <!-- <span>Instagram</span> -->
+            </a>
+        </li>
+        <li>
+            <a href="https://www.youtube.com/channel/UCmAtNtBvT7YvBctK9EIolig" class="facebook" target="_blank">
+                <i class="fab fa-youtube"></i>
+            </a>
+        </li>
+        <li>
+            <a id="" href="tel:+914792317000" class="facebook" target="">
+                <i class="fas fa-phone-alt"></i>
+                <!-- <span>Call&nbsp;Now</span> -->
+            </a>
+        </li>
+        <li>    
+            <a id="" href="https://wa.me/+914792317000" class="facebook" target="_blank">
+                <i class="fab fa-whatsapp"></i>
+                <!-- <span>Whatsapp&nbsp;Now</span> -->
+            </a>
+        </li>
+    </ul>
+</div>
+
 <!-- Right Side Icos -->
-<div class="cont_link_box">
+<div class="cont_link_box d-none">
     <a id="" href="tel:+914792317000" class="callnow_inte" target="">
         <i class="fas fa-phone-alt"></i>
     </a>

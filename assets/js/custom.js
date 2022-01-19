@@ -31,6 +31,15 @@
         }, duration);
     });
 
+    //Social icons sidebar
+    $window.on("scroll",function(){
+        if($(this).scrollTop() > 300){
+            $('.social-sidebar').fadeIn(500);
+        }else{
+            $('.social-sidebar').fadeOut(500);
+        }
+    })
+
     // :: 14.0 FANCYBOX IMAGE GALLERY
     $('[data-fancybox="images"]').fancybox({
         afterLoad: function (instance, current) {

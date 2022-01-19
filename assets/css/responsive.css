@@ -688,7 +688,7 @@
         text-align: center;
     }
     #scrollUp{
-        right: 5%;
+        right: 3%;
     }
     .centres-listing .single-centre .centre-box{
         min-height: 245px;
@@ -720,6 +720,39 @@
     .dentistry-flex li{
         margin-right: 0;
         margin-bottom: 25px;
+    }
+    .card-header .btn{
+        font-size: 16px;
+        max-width: 270px;
+    }
+    .card-header .btn::after, .card-header .btn.collapsed::after{
+        left: calc(100% - 0px);
+        font-size: 22px;
+    }
+    .accordion .card-body p{
+        margin-bottom: 15px;
+        border-bottom: 1px solid #ddd;
+        padding-bottom: 10px;
+    }
+    .accordion .card-body p:last-child{
+        border-bottom: none;
+    }
+    .social-icons-sidebar{
+        display: none !important;
+    }
+    .cont_link_box{
+        display: block !important;
+        right: 3%;
+    }
+    .callnow_inte,
+    .whatsapp_inte{
+        width: 40px;
+        height: 40px;
+        border-radius: 5px;
+    }
+    .callnow_inte svg,
+    .whatsapp_inte svg{
+        font-size: 18px;
     }
 
 }

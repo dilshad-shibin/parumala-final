@@ -41,159 +41,265 @@
                         </div>
                     </div>
                     <div class="row">
+                        <div class="col-12">
+                        <div class="accordion" id="parumala-accordion">
+                                <div class="row">
+                                    <div class="col-12">
+                                        <div class="card my-2">
+                                                <div class="card-header">
+                                                    <h2>
+                                                        <button class="btn" type="button" data-toggle="collapse" data-target="#collapseOne">
+                                                           Premium Cardiac Checkup <span>Rs.5000</span>
+                                                        </button>
+                                                    </h2>
+                                                </div>
+                                                <div id="collapseOne" class="collapse show" data-parent="#parumala-accordion">
+                                                    <div class="card-body">
+                                                        <p><span>Blood Routine:</span> CBC, Blood Group</p>
+                                                        <p><span>Lipid Profile:</span> Cholesterol Triglycerides, LDL, HDL</p>
+                                                        <p><span>Liver Function Test:</span> ALKP04, T.Bili, ALT, AST, Albumin, Globulin</p>
+                                                        <p><span>Kidney Profile:</span> BUN, Creatine, Uric acid Calcium</p>
+                                                        <p><span>Blood Sugar Test:</span> Fasting & Postprandial blood sugar, HBA1C, TSH</p>
+                                                        <p><span>Electrolytes:</span> Sodium & Pottasium</p>
+                                                        <p><span>Urine Routine</span></p>
+                                                        <p><span>PSA (For Male above age 50)</span></p>
+                                                        <p><span>Other Tests:</span> X-ray, ECG, Treadmill Test, Echo</p>
+                                                        <p><span>Consultation:</span> Physician Consultation, Dietitian Consultation, Breakfast, Lunch</p>
+                                                    </div>
+                                                </div>
+                                        </div>
+                                        <div class="card my-2">
+                                                <div class="card-header">
+                                                    <h2>
+                                                        <button class="btn collapsed" type="button" data-toggle="collapse" data-target="#collapseTwo">
+                                                            Master Checkup <span>Rs.8000</span>
+                                                        </button>
+                                                    </h2>
+                                                </div>
+                                                <div id="collapseTwo" class="collapse" data-parent="#parumala-accordion">
+                                                    <div class="card-body">
+                                                        <p><span>Blood Routine:</span> CBC Blood Group</p>
+                                                        <p><span>Lipid Profile:</span> Cholesterol Triglycerides, LDL, HDL</p>
+                                                        <p><span>Liver Function Test:</span> ALKP04, T.Bili, ALT, Albumin, Globulin</p>
+                                                        <p><span>Kidney Profile:</span> Bun, Creatinine, Uric Acid, Calcium</p>
+                                                        <p><span>Blood Sugar Test:</span> Fasting and Postprandial blood sugar, HBA1C </p>
+                                                        <p><span>Thyroid Function Test:</span> TSH, T4, T3</p>
+                                                        <p><span>Electrolytes:</span> Sodium and Pottasium</p>
+                                                        <p><span>Other Blood Test:</span> Psa (for male above age 50)</p>
+                                                        <p><span>Urine Routine:</span></p>
+                                                        <p><span>Other Tests:</span> Treadmill, ECG, Echo</p>
+                                                        <p><span>Pulmonary Function Test</span></p>
+                                                        <p><span>Radiology:</span> X-ray, Ultrasound abdomen</p>
+                                                        <p><span>For Women:</span> Gynecology Consultation(including PAP smear)</p>
+                                                        <p><span>Consultation:</span> Physician Consultation, Dietitian Consultation</p>
+                                                        <p><span>Breakfast</span></p>
+                                                        <p><span>Lunch</span></p>
+                                                    </div>
+                                                </div>
+                                        </div>
+                                        <div class="card my-2">
+                                                <div class="card-header">
+                                                    <h2>
+                                                        <button class="btn collapsed" type="button" data-toggle="collapse" data-target="#collapseThree">
+                                                            Golden Executive Checkup <span>Rs.5000</span>
+                                                        </button>
+                                                    </h2>
+                                                </div>
+                                                <div id="collapseThree" class="collapse" data-parent="#parumala-accordion">
+                                                    <div class="card-body">
+                                                        <p><span>Blood Routine:</span> CBC, Blood Group</p>
+                                                        <p><span>Lipid Profile:</span> Cholesterol, Triglycerides, LDL, HDL</p>
+                                                        <p><span>Liver Function Test:</span> T.Bili, ALT, AST, Albumin</p>
+                                                        <p><span>Kidney Profile:</span> BUN, Creatinine, Uric acid, Calcium, Urine routine</p>
+                                                        <p><span>Blood Sugar Test:</span> Fasting & Postprandial Blood sugar</p>
+                                                        <p><span>TSH</span></p>
+                                                        <p><span>Electrolytes :</span> Sodium and Pottasium</p>
+                                                        <p><span>PSA (for Male above age 50)</span></p>
+                                                        <p><span>Other Tets:</span> X-ray, ECG, Ultrasound Abdomen</p>
+                                                        <p><span>For Women:</span> Gynecology Consultation (including PAP Smear)</p>
+                                                        <p><span>Consultation :</span> Physician Consultation, Dietitian Consultation</p>
+                                                        <p><span>Breakfast</span></p>
+                                                        <p><span>Lunch</span></p>
+                                                    </div>
+                                                </div>
+                                        </div>   
 
-                        <div class="featured-block style-two col-lg-4 col-md-6 col-sm-12">
-                            <div class="inner-box">
-                                <div class="image-layer" style="background-image:url(assets/img/feature-2.jpg)"></div>
-                                <div class="icon-box">
-                                    <span>1</span>
+                                        <div class="card my-2">
+                                                <div class="card-header">
+                                                    <h2>
+                                                        <button class="btn collapsed" type="button" data-toggle="collapse" data-target="#collapseFour">
+                                                            Buddy Health Checkup <span>Rs.1100</span>
+                                                        </button>
+                                                    </h2>
+                                                </div>
+                                                <div id="collapseFour" class="collapse" data-parent="#parumala-accordion">
+                                                    <div class="card-body">
+                                                        <p><span>ECG</span></p>
+                                                        <p><span>X-Ray</span></p>
+                                                        <p><span>CBC</span></p>
+                                                        <p><span>Blood Sugar</span></p>
+                                                        <p><span>S.Cholesterol</span></p>
+                                                        <p><span>S.Triglycerides</span></p>
+                                                        <p><span>SGOT/AST</span></p>
+                                                        <p><span>SGPT/ALT</span></p>
+                                                        <p><span>S.Creatine</span></p>
+                                                        <p><span>Urine Routine</span></p>
+                                                        <p><span>Physician Consultation</span></p>
+                                                    </div>
+                                                </div>
+                                        </div>
+
+                                        <div class="card my-2">
+                                                <div class="card-header">
+                                                    <h2>
+                                                        <button class="btn collapsed" type="button" data-toggle="collapse" data-target="#collapseFive">
+                                                            Basic Health Checkup <span>Rs.1500</span>
+                                                        </button>
+                                                    </h2>
+                                                </div>
+                                                <div id="collapseFive" class="collapse" data-parent="#parumala-accordion">
+                                                    <div class="card-body">
+                                                        <p><span>Blood:</span> CBC Blood Group</p>
+                                                        <p><span>Blood Sugar Test:</span> Fasting & Postprandial blood sugar</p>
+                                                        <p><span>Lipid Profile:</span> Cholesterol Triglycerides, LDL, HDL</p>
+                                                        <p><span>LFT</span> SGPT/SGOT/Bilirubin</p>
+                                                        <p><span>TSH</span></p>
+                                                        <p><span>Urine Routine</span></p>
+                                                        <p><span>RFT:</span> Creatinine</p>
+                                                        <p><span>X-ray</span></p>
+                                                        <p><span>Physician Consultation</span></p>
+                                                    </div>
+                                                </div>
+                                        </div>
+
+                                        <div class="card my-2">
+                                                <div class="card-header">
+                                                    <h2>
+                                                        <button class="btn collapsed" type="button" data-toggle="collapse" data-target="#collapseSix">
+                                                            Kidney Checkup <span>Rs.3750</span>
+                                                        </button>
+                                                    </h2>
+                                                </div>
+                                                <div id="collapseSix" class="collapse" data-parent="#parumala-accordion">
+                                                    <div class="card-body">
+                                                        <p><span>Kidney Profile & Electrolytes:</span> Urea, Creatinine, Uric Acid, Calcium, Phosphorus,Total Protein, Albumin, Globulin, Sodium, Pottasium, Bicarbonate</p>
+                                                        <p><span>Blood Routine:</span> CBC, Blood group</p>
+                                                        <p><span>Lipid Profile:</span> Cholesterol Triglycerides, LDL, HDL</p>
+                                                        <p><span>Liver Profile:</span> AST/ALT</p>
+                                                        <p><span>TSH,PSA (for Male above age 50)</span></p>
+                                                        <p><span>Urine:</span> Urine Routine Examination, Urine protein Creatinine Ratio, Urine for Micro Albumin</p>
+                                                        <p><span>Radiology:</span> USG KUB</p>
+                                                        <p><span>Education on Kidney Care:</span></p>
+                                                        <p><span>Consultation:</span> Nephrology Consultation, Dietitian Consultation</p>
+                                                        <p><span>Breakfast</span></p>
+                                                        <p><span>Lunch</span></p>
+                                                    </div>
+                                                </div>
+                                        </div>
+
+                                        <div class="card my-2">
+                                                <div class="card-header">
+                                                    <h2>
+                                                        <button class="btn collapsed" type="button" data-toggle="collapse" data-target="#collapseSeven">
+                                                            Child Checkup <span>Rs.1750</span>
+                                                        </button>
+                                                    </h2>
+                                                </div>
+                                                <div id="collapseSeven" class="collapse" data-parent="#parumala-accordion">
+                                                    <div class="card-body">
+                                                        <p><span>Blood Routine:</span> CBC, Blood Group</p>
+                                                        <p><span>Urine Routine</span></p>
+                                                        <p><span>Liver Function Test:</span> ALT, AST, T.Bili</p>
+                                                        <p><span>US Abdomen</span></p>
+                                                        <p><span>Thyroid Function Test</span> TSH Free T4, T3</p>
+                                                        <p><span>Consultation:</span> Opthalmology Consultation, Dental Consultation, Pediatric Consultation</p>
+                                                        <p><span>Breakfast</span></p>
+                                                        <p><span>Lunch</span></p>
+                                                    </div>
+                                                </div>
+                                        </div>
+
+                                        <div class="card my-2">
+                                                <div class="card-header">
+                                                    <h2>
+                                                        <button class="btn collapsed" type="button" data-toggle="collapse" data-target="#collapseEight">
+                                                            Silver Health Checkup <span>Rs.2500</span>
+                                                        </button>
+                                                    </h2>
+                                                </div>
+                                                <div id="collapseEight" class="collapse" data-parent="#parumala-accordion">
+                                                    <div class="card-body">
+                                                        <p><span>Blood:</span> CBC, Blood Group</p>
+                                                        <p><span>Blood Sugar Test:</span> Fasting and Postprandial Blood Sugar</p>
+                                                        <p><span>Lipid Profile:</span> Cholesterol Triglycerides, LDL, HDL</p>
+                                                        <p><span>Liver Profile:</span> SGPT/SGOT/Bilirubin</p>
+                                                        <p><span>Renal Profile:</span> Blood urea and Creatinine</p>
+                                                        <p><span>PSA (for Male above age 50)</span></p>
+                                                        <p><span>X-Ray</span></p>
+                                                        <p><span>USG Abdomen</span></p>
+                                                        <p><span>TSH</span></p>
+                                                        <p><span>ECG</span></p>
+                                                        <p><span>Physician Consultation</span></p>
+                                                    </div>
+                                                </div>
+                                        </div>
+
+                                        <div class="card my-2">
+                                                <div class="card-header">
+                                                    <h2>
+                                                        <button class="btn collapsed" type="button" data-toggle="collapse" data-target="#collapseNine">
+                                                            Diabetic Checkup <span>Rs.4000</span>
+                                                        </button>
+                                                    </h2>
+                                                </div>
+                                                <div id="collapseNine" class="collapse" data-parent="#parumala-accordion">
+                                                    <div class="card-body">
+                                                        <p><span>Blood Routine:</span> CBC, Blood Group</p>
+                                                        <p><span>Lipid Profile:</span> Cholesterol, Triglycerides, LDL, HDL</p>
+                                                        <p><span>Liver Function Test:</span> ALKP04,T.Bili, ALT, AST, Albumin, Globulin</p>
+                                                        <p><span>Kidney Profile:</span> Bun,Creatinine, Uric Acid, Calcium</p>
+                                                        <p><span>Blood Sugar test:</span> Fasting & Postprandial blood sugar, HbA1c</p>
+                                                        <p><span>TSH</span></p>
+                                                        <p><span>Electrolytes:</span> Sodium & Pottasium</p>
+                                                        <p><span>Urine Routine</span></p>
+                                                        <p><span>Other Tests:</span>X-Ray, ECG, Ultrasound abdomen</p>
+                                                        <p><span>Consultation:</span> Opthalmology Consultation, Physician Consultation Dietitian Consultation</p>
+                                                        <p><span>Breakfast</span></p>
+                                                        <p><span>Lunch</span></p>
+                                                    </div>
+                                                </div>
+                                        </div>
+
+                                        <div class="card my-2">
+                                                <div class="card-header">
+                                                    <h2>
+                                                        <button class="btn collapsed" type="button" data-toggle="collapse" data-target="#collapseTen">
+                                                            Well Women Checkup <span>Rs.5000</span>
+                                                        </button>
+                                                    </h2>
+                                                </div>
+                                                <div id="collapseTen" class="collapse" data-parent="#parumala-accordion">
+                                                    <div class="card-body">
+                                                        <p><span>Blood Routine:</span> CBC, Blood Group</p>
+                                                        <p><span>Lipid Profile:</span> Total Cholesterol Triglycerides, LDL, HDL</p>
+                                                        <p><span>Liver Function Test:</span> AST,ALt,T Bill, Albumin</p>
+                                                        <p><span>Kidney Profile:</span> Bun, Creatinine, Uric acid, Calcium</p>
+                                                        <p><span>Blood Sugar Test:</span> Fasting and Postprandial blood sugar, Tsh</p>
+                                                        <p><span>Urine Routine</span></p>
+                                                        <p><span>Other Tests:</span> X-Ray, ECG, Ultrasound Abdomen, PAP smear</p>
+                                                        <p><span>Consultation:</span> Physician Consultation, Gynecology Consultation</p>
+                                                        <p><span>Breakfast</span></p>
+                                                        <p><span>Lunch</span></p>
+                                                        <p><span>Above 40 Suggested Mammogram Rs.1500 (Extra Cost)</span></p>
+                                                    </div>
+                                                </div>
+                                        </div>
+
+                                    </div>
                                 </div>
-                                <h3><a href="">Cardiac Health Checkup</a></h3>
-                                <ul>
-                                    <li>• Blood Sugar - Fasting</li>
-                                    <li>• Blood Sugar - Post Prandial</li>
-                                    <li>• Blood Urea</li>
-                                    <li>• Blood Routine [Panel]</li>
-                                    <li>• X-Ray-Chest P. A</li>
-                                    <li>• Consultation</li>
-                                </ul>
-                                    <!-- <span id="dots">..</span> -->
-                                    <ul id="more">
-                                        <li>• ECG</li>
-                                        <li>• Echo</li>
-                                        <li>• LFT (Liver Function Test) [Panel]</li>
-                                        <li>• Lipid Profile [Panel]</li>
-                                        <li>• S. Creatinine</li>
-                                        <li>• S. Uric Acid</li>
-                                        <li>• TFT (T3 T4 Tsh)</li>
-                                        <li>• TMT</li>
-                                        <li>• Urine Routine [Panel]</li>
-                                        <li>• US Abdomen</li>
-                                        <li>• Blood Group Rh</li>
-                                        <li>• Pap Smear</li>
-                                    </ul>
-                                <button onclick="readMorebtn()" id="myBtn" class="readmore-btn mt-4">Read More</button>
                             </div>
                         </div>
-
-                        <div class="featured-block style-two col-lg-4 col-md-6 col-sm-12">
-                            <div class="inner-box">
-                                <div class="image-layer" style="background-image:url(assets/img/feature-2.jpg)"></div>
-                                <div class="icon-box">
-                                    <span>2</span>
-                                </div>
-                                <h3><a href="">Diabetic Health Checkup</a></h3>
-                                <ul>
-                                    <li>• Blood Sugar - Fasting</li>
-                                    <li>• Blood Urea</li>
-                                    <li>• Blood Routine [Panel]</li>
-                                    <li>• Consultation</li>
-                                    <li>• LFT (Liver Function Test) [Panel]</li>
-                                    <li>• Lipid Profile [Panel]</li>
-                                </ul>
-                                    <!-- <span id="dots">..</span> -->
-                                    <ul id="more2">
-                                        <li>• S. Creatinine</li>
-                                        <li>• Urine Routine [Panel]</li>
-                                        <li>• US Abdomen</li>
-                                    </ul>
-                                <button onclick="readMorebtn2()" id="myBtn2" class="readmore-btn mt-4">Read More</button>
-                            </div>
-                        </div>
-
-                        <div class="featured-block style-two col-lg-4 col-md-6 col-sm-12">
-                            <div class="inner-box">
-                                <div class="image-layer" style="background-image:url(assets/img/feature-2.jpg)"></div>
-                                <div class="icon-box">
-                                    <span>3</span>
-                                </div>
-                                <h3><a href="">Executive Health Checkup</a></h3>
-                                <ul>
-                                    <li>• Blood Sugar - Fasting</li>
-                                    <li>• Blood Sugar - Post Prandial</li>
-                                    <li>• Blood Urea</li>
-                                    <li>• Blood Routine [Panel]</li>
-                                    <li>• X-Ray-Chest P. A</li>
-                                    <li>• Consultation</li>
-                                </ul>
-                                    <!-- <span id="dots">..</span> -->
-                                    <ul id="more3">
-                                        <li>• ECG</li>
-                                        <li>• LFT (Liver Function Test) [Panel]</li>
-                                        <li>• Lipid Profile [Panel]</li>
-                                        <li>• PSA Test</li>
-                                        <li>• S. Creatinine</li>
-                                        <li>• S. Uric Acid</li>
-                                        <li>• Urine Routine [Panel]</li>
-                                        <li>• US Abdomen</li>
-                                        <li>• Blood Group Rh</li>
-                                    </ul>
-                                <button onclick="readMorebtn3()" id="myBtn3" class="readmore-btn mt-4">Read More</button>
-                            </div>
-                        </div>
-
-                        <div class="featured-block style-two col-lg-4 col-md-6 col-sm-12">
-                            <div class="inner-box">
-                                <div class="image-layer" style="background-image:url(assets/img/feature-2.jpg)"></div>
-                                <div class="icon-box">
-                                    <span>4</span>
-                                </div>
-                                <h3><a href="">Cancer Screening for Women</a></h3>
-                                <ul>
-                                    <li>• Blood Routine [Panel]</li>
-                                    <li>• CA - 125</li>
-                                    <li>• CA - 19.9</li>
-                                    <li>• Consultation</li>
-                                    <li>• X-Ray-Chest P. A</li>
-                                    <li>• TSH</li>
-                                </ul>
-                                    <!-- <span id="dots">..</span> -->
-                                    <ul id="more4">
-                                        <li>• Mammography Or Usg Breast</li>
-                                        <li>• Pap Smear</li>
-                                        <li>• US Abdomen</li>
-                                    </ul>
-                                <button onclick="readMorebtn4()" id="myBtn4" class="readmore-btn mt-4">Read More</button>
-                            </div>
-                        </div>
-
-                        <div class="featured-block style-two col-lg-4 col-md-6 col-sm-12">
-                            <div class="inner-box">
-                                <div class="image-layer" style="background-image:url(assets/img/feature-2.jpg)"></div>
-                                <div class="icon-box">
-                                    <span>5</span>
-                                </div>
-                                <h3><a href="">Cancer Screening for Men</a></h3>
-                                <ul>
-                                    <li>• Blood Routine [Panel]</li>
-                                    <li>• CEA</li>
-                                    <li>• CA - 19.9</li>
-                                    <li>• Consultation</li>
-                                    <li>• X-Ray-Chest P. A</li>
-                                    <li>• PSA Test</li>
-                                </ul>
-                                    <!-- <span id="dots">..</span> -->
-                                    <ul id="more5">
-                                        <li>• US Abdomen</li>
-                                    </ul>
-                                <button onclick="readMorebtn5()" id="myBtn5" class="readmore-btn mt-4">Read More</button>
-                            </div>
-                        </div>
-
-                        <div class="featured-block style-two col-lg-4 col-md-6 col-sm-12 d-none">
-                            <div class="inner-box">
-                                <div class="image-layer" style="background-image:url(assets/img/feature-2.jpg)"></div>
-                                <div class="icon-box">
-                                    <span>6</span>
-                                </div>
-                                <h3><a href="">Other Services</a></h3>
-                                <p>Radio diagnosis department, PET-CT, MRI, CT scan, digital Mammography, Ultrasound scan, digital X-ray and Image guided biopsy, Pathology department, Blood bank, Nuclear medicine department 
-                                    <span id="dots">..</span>
-                                    <span id="more6">Home care facilities, Medical physics department, Cancer preventive health checks.</span>
-                                </p>
-                                <button onclick="readMorebtn6()" id="myBtn6" class="readmore-btn">Read More</button>
-                            </div>
-                        </div>
+                        
 
                     </div>
                 </div>
@@ -208,104 +314,6 @@
 
     <!-- Scripts -->
     <?php include('footer/script.php'); ?>
-
-    <script>
-        function readMorebtn() {
-          var dots = document.getElementById("dots");
-          var moreText = document.getElementById("more");
-          var btnText = document.getElementById("myBtn");
-        
-          if (dots.style.display === "none") {
-            dots.style.display = "inline";
-            btnText.innerHTML = "Read More";
-            moreText.style.display = "none";
-          } else {
-            dots.style.display = "none";
-            btnText.innerHTML = "Read Less"; 
-            moreText.style.display = "inline";
-          }
-        }
-
-        function readMorebtn2(){
-            var dots = document.getElementById("dots");
-            var moreText2 = document.getElementById("more2");
-            var btnText2 = document.getElementById("myBtn2");
-            
-            if (dots.style.display === "none") {
-                dots.style.display = "inline";
-                btnText2.innerHTML = "Read More"; 
-                moreText2.style.display = "none";
-            } else {
-                dots.style.display = "none";
-                btnText2.innerHTML = "Read Less"; 
-                moreText2.style.display = "inline";
-            }
-        }
-
-        function readMorebtn3(){
-            var dots = document.getElementById("dots");
-            var moreText3 = document.getElementById("more3");
-            var btnText3 = document.getElementById("myBtn3");
-            
-            if (dots.style.display === "none") {
-                dots.style.display = "inline";
-                btnText3.innerHTML = "Read More"; 
-                moreText3.style.display = "none";
-            } else {
-                dots.style.display = "none";
-                btnText3.innerHTML = "Read Less"; 
-                moreText3.style.display = "inline";
-            }
-        }
-
-        function readMorebtn4() {
-          var dots = document.getElementById("dots");
-          var moreText4 = document.getElementById("more4");
-          var btnText4 = document.getElementById("myBtn4");
-        
-          if (dots.style.display === "none") {
-            dots.style.display = "inline";
-            btnText4.innerHTML = "Read More";
-            moreText4.style.display = "none";
-          } else {
-            dots.style.display = "none";
-            btnText4.innerHTML = "Read Less"; 
-            moreText4.style.display = "inline";
-          }
-        }
-
-        function readMorebtn5() {
-          var dots = document.getElementById("dots");
-          var moreText5 = document.getElementById("more5");
-          var btnText5 = document.getElementById("myBtn5");
-        
-          if (dots.style.display === "none") {
-            dots.style.display = "inline";
-            btnText5.innerHTML = "Read More";
-            moreText5.style.display = "none";
-          } else {
-            dots.style.display = "none";
-            btnText5.innerHTML = "Read Less"; 
-            moreText5.style.display = "inline";
-          }
-        }
-
-        function readMorebtn6() {
-          var dots = document.getElementById("dots");
-          var moreText6 = document.getElementById("more6");
-          var btnText6 = document.getElementById("myBtn6");
-        
-          if (dots.style.display === "none") {
-            dots.style.display = "inline";
-            btnText6.innerHTML = "Read More";
-            moreText6.style.display = "none";
-          } else {
-            dots.style.display = "none";
-            btnText6.innerHTML = "Read Less"; 
-            moreText6.style.display = "inline";
-          }
-        }
-    </script>
 
 
 </body>
