@@ -292,7 +292,7 @@
         padding: 0 15px;
     }
     .banner-head h1{
-        font-size: 40px;
+        font-size: 35px;
     }
     .banner-head p{
         font-size: 18px;
@@ -301,7 +301,8 @@
         height: 370px;
     }
     .banner-slider .owl-nav{
-        bottom: -5px;
+        bottom: 5px;
+        left: 18%;
     }
     .banner-slider .owl-nav button{
         width: 40px;
