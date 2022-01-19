@@ -74,7 +74,7 @@
     .excellence-left{
         flex: 0 0 100%;
         align-items: center;
-        padding: 50px 0;
+        /* padding: 50px 0; */
     }
     .exc-icons{
         padding: 0;
@@ -221,13 +221,13 @@
     .single-speciality .main-box{
         flex: 0 0 50%;
     }
-    .single-speciality .main-box:last-child{
+    /* .single-speciality .main-box:last-child{
         flex: 0 0 100%;
         flex-direction: row;
-    }
-    .single-speciality .main-box:last-child .speciality-box{
+    } */
+    /* .single-speciality .main-box:last-child .speciality-box{
         width: 50%;
-    }
+    } */
     .enquiry-top .menu{
         height: 95px;
     }
@@ -316,14 +316,24 @@
         background: #28a74561;
         opacity: 0.8;
     }
-    .excellence-left{
+    /* .excellence-left{
         padding: 50px 15px;
-    }
+    } */
     .exc-icons{
         text-align: center;
+        padding: 50px 20px;
+    }
+    .exc-icons .icon{
+        min-height: 0;
+    }
+    .exc-icons .icon img{
+        max-width: 70px;
+    }
+    .exc-icons .text h3{
+        line-height: 22px;
     }
     .exc-icons .text h3 a{
-        font-size: 22px;
+        font-size: 14px;
     }
     .excellence-right{
         padding: 65px 20px;
@@ -738,10 +748,13 @@
         border-bottom: none;
     }
     .social-icons-sidebar{
-        display: none !important;
-    }
-    .cont_link_box{
         display: block !important;
+    }
+    .social-sidebar{
+        right: 3%;
+    }   
+    .cont_link_box{
+        display: none !important;
         right: 3%;
     }
     .callnow_inte,
@@ -753,6 +766,11 @@
     .callnow_inte svg,
     .whatsapp_inte svg{
         font-size: 18px;
+    }
+    .banner-search select{
+        padding-left: 20px;
+        width: 240px;
+        font-size: 15px;
     }
 
 }

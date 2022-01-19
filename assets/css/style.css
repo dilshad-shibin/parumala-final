@@ -751,12 +751,25 @@ a {
     width: 450px;
     display: flex;
     justify-content: space-between;
-    background-color: #f0e6dd;
+    /* background-color: #f0e6dd; */
     outline: none;
     border-top-left-radius: 15px;
     border-bottom-left-radius: 15px;
     border-top-right-radius: 15px;
     border-bottom-right-radius: 15px
+}
+
+.banner-search select{
+    padding-left: 30px;
+    background: #f0e6dd;
+    border-top-left-radius: 5px;
+    border-bottom-left-radius: 5px;
+    border: none;
+}
+
+.banner-search select:focus-visible{
+    border: none;
+    outline: none;
 }
 
 .banner-search form input{
@@ -784,8 +797,8 @@ a {
     90deg, rgba(254,90,1,1) 0%, #fe5a01 35%, rgba(254,90,1,1) 35%, rgba(254,90,1,0.6502976190476191) 100%);
     color: #fff;
     border: 1px solid #fe5a01;
-    border-top-right-radius: 15px;
-    border-bottom-right-radius: 15px;
+    border-top-right-radius: 5px;
+    border-bottom-right-radius: 5px;
 }
 
 .banner-search form input:focus{
@@ -872,15 +885,16 @@ a {
 .excellence-area{
     position: relative;
     background-color: #fefaf5;
+    padding: 75px 0;
     /* display: flex; */
 }
 
 .excellence-left{
     /* flex: 0 0 30%; */
-    background-image: url(../img/excellence-left.jpg);
+    /* background-image: url(../img/excellence-left.jpg);
     background-position: center;
     background-size: cover;
-    height: auto;
+    height: auto; */
     /* display: flex;
     flex-direction: column;
     justify-content: center;
@@ -892,6 +906,11 @@ a {
     margin-bottom: 62px;
     padding-right: 18%; */
     padding: 50px;
+    background-image: url(../img/excellence-left.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    width: 100%;
+    background-position: center;
 }
 
 .exc-icons .icon{
@@ -925,7 +944,7 @@ a {
 
 .excellence-right{
     /* flex: 0 0 60%; */
-    padding: 80px;
+    padding: 50px 0;
     overflow: hidden;
 }
 
@@ -1248,7 +1267,7 @@ a {
 .single-speciality .main-box{
     display: flex;
     flex-direction: column;
-    flex: 0 0 20%;
+    flex: 0 0 25%;
 }
 
 .speciality-box{

@@ -149,7 +149,7 @@
         nav: false,
         dots: true, 
         smartSpeed: 2000,
-        autoplay: true,
+        autoplay: false,
         responsiveClass: true,
         autoplayTimeout: 4000,
         responsive: {

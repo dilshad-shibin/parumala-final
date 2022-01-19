@@ -31,10 +31,29 @@
                                             <p>Affordable Healthcare For all</p>
                                         </div>
                                         <div class="banner-search">
-                                            <form action="">
+                                            <!-- <form action="">
                                                 <input type="search" name="" id=""
                                                     placeholder="Search Your Departments">
                                                 <button type="submit">Search</button>
+                                            </form> -->
+                                            <form name="form1" method="post" action="search.php">
+                                                <!--<input type="search" name="" id=""
+                                                    placeholder="Search Your Departments">-->
+                                                <select type="search" name="search" id=""
+                                                    placeholder="Search Your Departments">
+                                                        <option value="" selected="">Search Your Departments</option>
+                                                        <option value="1">Institute Of Oncology</option>
+                                                        <option value="2">Institute Of Cardiothoracic Centre</option>
+                                                        <option value="3">Renal Care Centre</option>
+                                                        <option value="4">NeuroScience</option>
+                                                        <option value="5">Orthopaedics and Arthroscopic surgery</option>
+                                                        <option value="6">Head and Neck Reconstructive Surgery</option>
+                                                        <option value="7">Medical and Surgical Gastroenterology</option>
+                                                        <option value="8">Critical Care</option>
+                                                        <option value="9">Women Health</option>
+                                                        <option value="10">Child Care</option>
+                                                </select>
+                                                <button type="submit" name="submit" value="submit">Search</button>
                                             </form>
                                         </div>
                                     </div>
@@ -56,10 +75,29 @@
                                             <p>Affordable Healthcare For all</p>
                                         </div>
                                         <div class="banner-search">
-                                            <form action="">
+                                            <!-- <form action="">
                                                 <input type="search" name="" id=""
                                                     placeholder="Search Your Departments">
                                                 <button type="submit">Search</button>
+                                            </form> -->
+                                            <form name="form1" method="post" action="search.php">
+                                                <!--<input type="search" name="" id=""
+                                                    placeholder="Search Your Departments">-->
+                                                <select type="search" name="search" id=""
+                                                    placeholder="Search Your Departments">
+                                                        <option value="" selected="">Search Your Departments</option>
+                                                        <option value="1">Institute Of Oncology</option>
+                                                        <option value="2">Institute Of Cardiothoracic Centre</option>
+                                                        <option value="3">Renal Care Centre</option>
+                                                        <option value="4">NeuroScience</option>
+                                                        <option value="5">Orthopaedics and Arthroscopic surgery</option>
+                                                        <option value="6">Head and Neck Reconstructive Surgery</option>
+                                                        <option value="7">Medical and Surgical Gastroenterology</option>
+                                                        <option value="8">Critical Care</option>
+                                                        <option value="9">Women Health</option>
+                                                        <option value="10">Child Care</option>
+                                                </select>
+                                                <button type="submit" name="submit" value="submit">Search</button>
                                             </form>
                                         </div>
                                     </div>
@@ -573,6 +611,10 @@
                                     </div>
                                 </div>
 
+                            </div><!-- Close 1st Single speciality -->
+
+                            <div class="single-speciality">
+
                                 <div class="main-box">
                                     <div class="speciality-box">
                                         <a href="critical-care.php">
@@ -604,10 +646,6 @@
                                         </a>
                                     </div>
                                 </div>
-
-                            </div><!-- Close 1st Single speciality -->
-
-                            <div class="single-speciality">
 
                                 <div class="main-box">
                                     <div class="speciality-box">
@@ -703,6 +741,10 @@
                                     </div>
                                 </div>
 
+                            </div><!-- Close 2nd Single speciality -->
+
+                            <div class="single-speciality">
+
                                 <div class="main-box">
                                     <div class="speciality-box">
                                         <a href="nephrology.php">
@@ -766,10 +808,6 @@
                                     </div>
                                 </div>
 
-                            </div><!-- Close 2nd Single speciality -->
-
-                            <div class="single-speciality">
-
                                 <div class="main-box">
                                     <div class="speciality-box">
                                         <a href="obstetrics-and-gynaecology.php">
@@ -831,6 +869,10 @@
                                         </a>
                                     </div>
                                 </div>
+
+                            </div><!-- Close 3rd Single speciality -->
+
+                            <div class="single-speciality">
 
                                 <div class="main-box">
                                     <div class="speciality-box">
@@ -924,10 +966,6 @@
                                         </a>
                                     </div>
                                 </div>
-
-                            </div><!-- Close 3rd Single speciality -->
-
-                            <div class="single-speciality">
 
                                 <div class="main-box">
                                     <div class="speciality-box">
