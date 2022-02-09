@@ -11,6 +11,23 @@
         });
     });
 
+    //sticky window
+    $window.on('scroll', function() {
+
+        var scroll = $window.scrollTop();
+
+        if (scroll < 800) {
+
+            $("#sticky_funtion").removeClass("menu_secfixed");
+
+        } else {
+
+            $("#sticky_funtion").addClass("menu_secfixed");
+
+        }
+
+    });
+
 
 
     // :: 3.0 SCROLL TO TOP ACTIVE CODE
